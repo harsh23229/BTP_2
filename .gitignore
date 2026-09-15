@@ -4,3 +4,11 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Downloaded datasets
+dataset/*.csv
+dataset/FlavorDB_raw_entity_json/
+dataset/RecipeDB_full/
+dataset/FlavorDB_full/
+
+RecipeDB_full
