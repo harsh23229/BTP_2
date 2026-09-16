@@ -5,15 +5,15 @@ import pandas as pd
 
 BASE = "https://cosylab.iiitd.edu.in/flavordb"
 OUT = Path(__file__).resolve().parent
-RAW = OUT / "FlavorDB_raw_entity_json"
-RAW.mkdir(parents=True, exist_ok=True)
+RAW = OUT / "raw"
+RAW_JSON = RAW / "FlavorDB_raw_entity_json"
+RAW_JSON.mkdir(parents=True, exist_ok=True)
 
 s = requests.Session()
 s.headers.update({"User-Agent": "Mozilla/5.0"})
 
 entities = {}
 
-# Get all entities
 for letter in string.ascii_lowercase:
     try:
         r = s.get(f"{BASE}/entities", params={"entity": letter}, timeout=15)
@@ -31,9 +31,8 @@ print(f"Unique entities: {len(entities)}")
 
 entity_rows, molecules, relations = [], {}, []
 
-# Download complete entity data
 for n, (eid, _) in enumerate(entities.items(), 1):
-    path = RAW / f"{eid}.json"
+    path = RAW_JSON / f"{eid}.json"
     try:
         if path.exists():
             data = json.loads(path.read_text())
@@ -66,15 +65,14 @@ for n, (eid, _) in enumerate(entities.items(), 1):
     if n % 25 == 0:
         print(f"{n}/{len(entities)} processed")
 
-# Save datasets
 pd.DataFrame(entity_rows).drop_duplicates("entity_id").to_csv(
-    OUT / "FlavorDB_entities.csv", index=False
+    RAW / "FlavorDB_entities.csv", index=False
 )
 pd.DataFrame(molecules.values()).to_csv(
-    OUT / "FlavorDB_molecules.csv", index=False
+    RAW / "FlavorDB_molecules.csv", index=False
 )
 pd.DataFrame(relations).drop_duplicates().to_csv(
-    OUT / "FlavorDB_entity_molecules.csv", index=False
+    RAW / "FlavorDB_entity_molecules.csv", index=False
 )
 
 print("\nDONE")

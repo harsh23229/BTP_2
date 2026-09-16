@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 BASE = "https://cosylab.iiitd.edu.in"
 SEARCH_URL = f"{BASE}/recipedb/search_recipe"
-OUT = Path(__file__).resolve().parent / "RecipeDB_full"
+OUT = Path(__file__).resolve().parent / "raw" / "RecipeDB_full"
 OUT.mkdir(parents=True, exist_ok=True)
 
 SEARCH_BATCH = 500

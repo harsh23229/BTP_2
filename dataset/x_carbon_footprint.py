@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 BASE_URL = "https://cosylab.iiitd.edu.in/carbon-food-print-2-api/api/getAllIngredients"
-OUTPUT = Path(__file__).resolve().parent / "SustainableFoodDB_CarbonFootprints.csv"
+OUTPUT = Path(__file__).resolve().parent / "raw" / "SustainableFoodDB_CarbonFootprints.csv"
 
 session = requests.Session()
 session.headers.update({
