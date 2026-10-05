@@ -1,0 +1,248 @@
+recipe_ingredient,candidate,relationship,candidate_count,ambiguous
+salt,bacon salt,recipe_name_substring,20,True
+salt,breadcrumb saltine,recipe_name_substring,20,True
+salt,celery salt,recipe_name_substring,20,True
+salt,chicken breast salt,recipe_name_substring,20,True
+salt,chicken salt,recipe_name_substring,20,True
+salt,chicken stock salt,recipe_name_substring,20,True
+salt,corn chip salt,recipe_name_substring,20,True
+salt,corn salt,recipe_name_substring,20,True
+salt,cracker crumb saltine,recipe_name_substring,20,True
+salt,fettuccine without salt pasta,recipe_name_substring,20,True
+salt,fine breadcrumb saltine cracker,recipe_name_substring,20,True
+salt,fish salt,recipe_name_substring,20,True
+salt,garlic salt,recipe_name_substring,20,True
+salt,garlic salt onion,recipe_name_substring,20,True
+salt,inner pack saltine cracker,recipe_name_substring,20,True
+salt,lawrys garlic salt,recipe_name_substring,20,True
+salt,lemon salt,recipe_name_substring,20,True
+salt,mccormick garlic salt,recipe_name_substring,20,True
+salt,multi grain saltine cracker,recipe_name_substring,20,True
+salt,multigrain saltine cracker,recipe_name_substring,20,True
+black pepper,pepper,single_word_component,1,False
+parsley,cream parsley,recipe_name_substring,1,False
+oregano,oregano tomato dressing,recipe_name_substring,5,True
+oregano,tomato basil garlic oregano,recipe_name_substring,5,True
+oregano,tomato basil oregano,recipe_name_substring,5,True
+oregano,tomato oregano salad dressing,recipe_name_substring,5,True
+oregano,tomato paste basil garlic oregano,recipe_name_substring,5,True
+extra virgin olive oil,olive,single_word_component,2,True
+extra virgin olive oil,olive oil,candidate_substring,2,True
+thyme,cornmeal thyme dumpling,recipe_name_substring,4,True
+thyme,leaf thyme,recipe_name_substring,4,True
+thyme,lemon thyme juice,recipe_name_substring,4,True
+thyme,thyme leaf,recipe_name_substring,4,True
+brown sugar,dark brown sugar,recipe_name_substring,4,True
+brown sugar,hickory brown sugar barbeque sauce,recipe_name_substring,4,True
+brown sugar,sugar,single_word_component,4,True
+brown sugar,u,suspicious_short_candidate,4,True
+basil,feta cheese basil tomato,recipe_name_substring,13,True
+basil,tomato balsamic vinegar basil,recipe_name_substring,13,True
+basil,tomato basil,recipe_name_substring,13,True
+basil,tomato basil garlic,recipe_name_substring,13,True
+basil,tomato basil garlic oregano,recipe_name_substring,13,True
+basil,tomato basil garlic seasoning,recipe_name_substring,13,True
+basil,tomato basil hummus,recipe_name_substring,13,True
+basil,tomato basil oregano,recipe_name_substring,13,True
+basil,tomato basil pasta sauce,recipe_name_substring,13,True
+basil,tomato basil soup mix,recipe_name_substring,13,True
+basil,tomato olive basil rub,recipe_name_substring,13,True
+basil,tomato paste basil garlic oregano,recipe_name_substring,13,True
+basil,tomato soup basil,recipe_name_substring,13,True
+heavy cream,cream,single_word_component,1,False
+red onion,onion,single_word_component,2,True
+red onion,red,single_word_component,2,True
+salt black pepper,pepper,single_word_component,1,False
+white sugar,sugar,single_word_component,2,True
+white sugar,u,suspicious_short_candidate,2,True
+oil,almond extract oil,recipe_name_substring,20,True
+oil,almond oil,recipe_name_substring,20,True
+oil,almond oil hazelnut,recipe_name_substring,20,True
+oil,almond oil olive,recipe_name_substring,20,True
+oil,almond oil safflower,recipe_name_substring,20,True
+oil,almond oil vegetable,recipe_name_substring,20,True
+oil,artichoke oil,recipe_name_substring,20,True
+oil,asian peanut oil,recipe_name_substring,20,True
+oil,asian sesame oil,recipe_name_substring,20,True
+oil,asian sesame seed oil,recipe_name_substring,20,True
+oil,avocado oil,recipe_name_substring,20,True
+oil,bland oil,recipe_name_substring,20,True
+oil,broiler,recipe_name_inside_candidate,20,True
+oil,broiler chicken,recipe_name_substring,20,True
+oil,broiler fryer chicken,recipe_name_substring,20,True
+oil,butter oil,recipe_name_substring,20,True
+oil,button mushroom oil,recipe_name_substring,20,True
+oil,canola oil olive,recipe_name_substring,20,True
+oil,cashew oil,recipe_name_substring,20,True
+oil,cherry oil,recipe_name_substring,20,True
+clove,beef stock clove,recipe_name_substring,4,True
+clove,clove garlic,recipe_name_substring,4,True
+clove,garlic clove,recipe_name_substring,4,True
+clove,head garlic clove,recipe_name_substring,4,True
+dijon mustard,u,suspicious_short_candidate,1,False
+rosemary,rosemary garlic salt robertson,recipe_name_substring,2,True
+rosemary,rosemary mayonnaise below,recipe_name_substring,2,True
+worcestershire sauce,u,suspicious_short_candidate,2,True
+worcestershire sauce,worcestershire sauce chicken,recipe_name_substring,2,True
+sea salt,sea,single_word_component,1,False
+mint,cadbury dairy peppermint milk chocolate,recipe_name_substring,20,True
+mint,chocolate mint,recipe_name_substring,20,True
+mint,chocolate mint cooky,recipe_name_substring,20,True
+mint,chocolate mint extract,recipe_name_substring,20,True
+mint,chocolate mint sandwich cookie,recipe_name_substring,20,True
+mint,gourmet peppermint syrup,recipe_name_substring,20,True
+mint,guittard mint chocolate chip,recipe_name_substring,20,True
+mint,ice cream topping peppermint crisp,recipe_name_substring,20,True
+mint,mint apple jelly,recipe_name_substring,20,True
+mint,mint chocolate chip,recipe_name_substring,20,True
+mint,mint chocolate chip ice cream,recipe_name_substring,20,True
+mint,mint chocolate liqueur,recipe_name_substring,20,True
+mint,mint chocolate square,recipe_name_substring,20,True
+mint,peppermint candy,recipe_name_substring,20,True
+mint,peppermint crisp chocolate candy bar,recipe_name_substring,20,True
+mint,peppermint extract not mint,recipe_name_substring,20,True
+mint,peppermint syrup ice cream topping,recipe_name_substring,20,True
+mint,peppermint tea,recipe_name_substring,20,True
+mint,sugar peppermint mini candy,recipe_name_substring,20,True
+mint,vandermint mint chocolate liqueur,recipe_name_substring,20,True
+black olive,olive,single_word_component,1,False
+cayenne pepper,pepper,single_word_component,1,False
+white pepper,pepper,single_word_component,1,False
+balsamic vinegar,balsamic vinegar red wine,recipe_name_substring,7,True
+balsamic vinegar,balsamic vinegar red wine ok,recipe_name_substring,7,True
+balsamic vinegar,lsa,single_word_substring,7,True
+balsamic vinegar,no oil balsamic vinegar,recipe_name_substring,7,True
+balsamic vinegar,raspberry balsamic vinegar,recipe_name_substring,7,True
+balsamic vinegar,red wine balsamic vinegar,recipe_name_substring,7,True
+balsamic vinegar,tomato balsamic vinegar basil,recipe_name_substring,7,True
+mustard,broad leaf mustard green choy,recipe_name_substring,7,True
+mustard,mustard green,recipe_name_substring,7,True
+mustard,mustard green length,recipe_name_substring,7,True
+mustard,mustard mayonnaise,recipe_name_substring,7,True
+mustard,mustard oil peanut,recipe_name_substring,7,True
+mustard,u,suspicious_short_candidate,7,True
+mustard,vegetable mustard green,recipe_name_substring,7,True
+french bread,bread,single_word_component,2,True
+french bread,wheat french bread grain,recipe_name_substring,2,True
+red pepper flake,flake,single_word_component,5,True
+red pepper flake,pepper,single_word_component,5,True
+red pepper flake,pepper flake,candidate_substring,5,True
+red pepper flake,red,single_word_component,5,True
+red pepper flake,red pepper,candidate_substring,5,True
+maple syrup,syrup,single_word_component,2,True
+maple syrup,u,suspicious_short_candidate,2,True
+active yeast,yeast,single_word_component,1,False
+flat leaf parsley,flat,single_word_component,1,False
+brandy,apple brandy,recipe_name_substring,10,True
+brandy,apricot brandy,recipe_name_substring,10,True
+brandy,chocolate liqueur brandy,recipe_name_substring,10,True
+brandy,coffee brandy,recipe_name_substring,10,True
+brandy,orange brandy,recipe_name_substring,10,True
+brandy,peach brandy,recipe_name_substring,10,True
+brandy,pear brandy,recipe_name_substring,10,True
+brandy,plum brandy,recipe_name_substring,10,True
+brandy,raspberry brandy,recipe_name_substring,10,True
+brandy,white chocolate brandy sauce,recipe_name_substring,10,True
+pecan,bread raisin pecan,recipe_name_substring,2,True
+pecan,butter pecan ice cream,recipe_name_substring,2,True
+caper,anchovy caper,recipe_name_substring,3,True
+caper,caper berry,recipe_name_substring,3,True
+caper,caperberries,recipe_name_inside_candidate,3,True
+vinegar,apple cider vinegar,recipe_name_substring,20,True
+vinegar,balsamic vinegar red wine,recipe_name_substring,20,True
+vinegar,balsamic vinegar red wine ok,recipe_name_substring,20,True
+vinegar,blueberry vinegar,recipe_name_substring,20,True
+vinegar,coconut vinegar,recipe_name_substring,20,True
+vinegar,garlic vinegar,recipe_name_substring,20,True
+vinegar,no oil balsamic vinegar,recipe_name_substring,20,True
+vinegar,olive oil vinegar dressing,recipe_name_substring,20,True
+vinegar,orange juice lime vinegar,recipe_name_substring,20,True
+vinegar,pepper vinegar,recipe_name_substring,20,True
+vinegar,pomegranate red wine vinegar,recipe_name_substring,20,True
+vinegar,raspberry balsamic vinegar,recipe_name_substring,20,True
+vinegar,raspberry red wine vinegar,recipe_name_substring,20,True
+vinegar,raspberry vinegar,recipe_name_substring,20,True
+vinegar,red wine balsamic vinegar,recipe_name_substring,20,True
+vinegar,red wine vinegar,recipe_name_substring,20,True
+vinegar,rice vinegar,recipe_name_substring,20,True
+vinegar,rice wine vinegar red,recipe_name_substring,20,True
+vinegar,sherry vinegar red wine,recipe_name_substring,20,True
+vinegar,star garlic red wine vinegar,recipe_name_substring,20,True
+half,almond half,recipe_name_substring,20,True
+half,apricot half,recipe_name_substring,20,True
+half,apricot half juice,recipe_name_substring,20,True
+half,apricot half pear juice,recipe_name_substring,20,True
+half,apricot half syrup,recipe_name_substring,20,True
+half,apricot half together,recipe_name_substring,20,True
+half,bread croissant half,recipe_name_substring,20,True
+half,calanda peach half,recipe_name_substring,20,True
+half,cashew half,recipe_name_substring,20,True
+half,cherry tomato half,recipe_name_substring,20,True
+half,chicken breast half,recipe_name_substring,20,True
+half,chicken breast half meat,recipe_name_substring,20,True
+half,chicken breast half rotissiere,recipe_name_substring,20,True
+half,chicken half,recipe_name_substring,20,True
+half,cling peach half,recipe_name_substring,20,True
+half,cream half,recipe_name_substring,20,True
+half,egg yolk half,recipe_name_substring,20,True
+half,fisher reg ; walnut half,recipe_name_substring,20,True
+half,half leg lamb,recipe_name_substring,20,True
+half,peach half,recipe_name_substring,20,True
+ham,biscuit graham cracker,recipe_name_substring,20,True
+ham,chambord,recipe_name_inside_candidate,20,True
+ham,chambord raspberry liquor,recipe_name_substring,20,True
+ham,champagne pineapple juice,recipe_name_substring,20,True
+ham,champagne white wine,recipe_name_substring,20,True
+ham,champignon mushroom,recipe_name_substring,20,True
+ham,chicken ham,recipe_name_substring,20,True
+ham,chicken ham stock,recipe_name_substring,20,True
+ham,chocolate graham cracker,recipe_name_substring,20,True
+ham,chocolate graham cracker crumb,recipe_name_substring,20,True
+ham,chocolate graham pie crust,recipe_name_substring,20,True
+ham,chocolate graham wafer pie crust,recipe_name_substring,20,True
+ham,cinnamon graham cracker,recipe_name_substring,20,True
+ham,crumb graham cracker may,recipe_name_substring,20,True
+ham,deli ham,recipe_name_substring,20,True
+ham,deli turkey ham,recipe_name_substring,20,True
+ham,eat ham,recipe_name_substring,20,True
+ham,fatty ham scrap,recipe_name_substring,20,True
+ham,fine graham cracker crumb,recipe_name_substring,20,True
+ham,graham cracker,recipe_name_substring,20,True
+pine nut,nut,single_word_component,2,True
+pine nut,u,suspicious_short_candidate,2,True
+white bread,bread,single_word_component,9,True
+white bread,homestyle white bread,recipe_name_substring,9,True
+white bread,ordinary white bread,recipe_name_substring,9,True
+white bread,texture white bread,recipe_name_substring,9,True
+white bread,wheat bread crumb white breadcrumb,recipe_name_substring,9,True
+white bread,white bread flour,recipe_name_substring,9,True
+white bread,white bread wheat,recipe_name_substring,9,True
+white bread,white bread wheat sourdough,recipe_name_substring,9,True
+white bread,white breadcrumb wheat,recipe_name_substring,9,True
+shortening,butter shortening,recipe_name_substring,3,True
+shortening,shortening butter,recipe_name_substring,3,True
+shortening,vegetable shortening,recipe_name_substring,3,True
+celery rib,celery,single_word_component,2,True
+celery rib,el,suspicious_short_candidate,2,True
+cold water,water,single_word_component,1,False
+creme fraiche,creme,single_word_component,1,False
+sage,andouille chicken sausage,recipe_name_substring,20,True
+sage,andouille sausage,recipe_name_substring,20,True
+sage,bacon sausage,recipe_name_substring,20,True
+sage,beef chipolata sausage,recipe_name_substring,20,True
+sage,beef chorizo sausage,recipe_name_substring,20,True
+sage,beef link sausage,recipe_name_substring,20,True
+sage,beef sausage,recipe_name_substring,20,True
+sage,bologna sausage,recipe_name_substring,20,True
+sage,bratwurst sausage,recipe_name_substring,20,True
+sage,breakfast link sausage,recipe_name_substring,20,True
+sage,breakfast pork sausage,recipe_name_substring,20,True
+sage,breakfast sausage,recipe_name_substring,20,True
+sage,bulk chorizo sausage,recipe_name_substring,20,True
+sage,bulk hot pork sausage,recipe_name_substring,20,True
+sage,bulk pork breakfast sausage,recipe_name_substring,20,True
+sage,bulk pork sausage,recipe_name_substring,20,True
+sage,bulk pork sausage sage,recipe_name_substring,20,True
+sage,bulk sausage,recipe_name_substring,20,True
+sage,bulk spicy pork sausage,recipe_name_substring,20,True
+sage,bulk turkey sausage,recipe_name_substring,20,True

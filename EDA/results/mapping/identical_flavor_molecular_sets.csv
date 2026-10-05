@@ -1,0 +1,30 @@
+ingredients,molecule_count
+"['tomato', 'tomato paste']",271
+"['orange', 'orange juice', 'seville orange']",268
+"['black pepper', 'cayenne pepper', 'pepper', 'red bell pepper', 'red pepper']",223
+"['lemon', 'lemon juice', 'lemon zest']",218
+"['peanut', 'peanut butter']",215
+"['nectarine', 'peach']",199
+"['green onion', 'onion', 'red onion']",180
+"['marjoram', 'oregano']",180
+"['butter bean', 'lima bean']",174
+"['vanilla', 'vanilla extract']",174
+"['bacon', 'pork']",157
+"['black olive', 'kalamata olive', 'olive', 'olive oil']",155
+"['blueberry', 'cherry']",152
+"['anise', 'aniseed']",145
+"['garlic', 'garlic powder']",143
+"['dijon mustard', 'mustard', 'mustard oil']",135
+"['aubergine', 'eggplant']",132
+"['butter', 'ghee']",131
+"['chicken', 'chicken breast', 'chicken broth', 'chicken stock']",131
+"['scotch', 'scotch whisky']",123
+"['beet', 'beetroot', 'red beet']",121
+"['rutabaga', 'swede']",113
+"['beef', 'beef broth']",92
+"['flageolet bean', 'french bean', 'green bean', 'haricot bean', 'red kidney bean', 'string bean']",91
+"['egg', 'egg white', 'egg yolk']",55
+"['armagnac', 'brandy', 'cognac']",50
+"['raisin', 'sultana']",23
+"['cherry pepper', 'pimento', 'pimiento']",12
+"['satsuma orange', 'tangerine']",5

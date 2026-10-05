@@ -1,0 +1,13 @@
+feature,total_rows,non_empty_values,missing_values,coverage_pct
+iupac_name,24124,24001,123,99.49013430608522
+common_name,24124,24124,0,100.0
+smile,24124,24124,0,100.0
+molecular_weight,24124,24124,0,100.0
+hbd_count,24124,24124,0,100.0
+hba_count,24124,24124,0,100.0
+num_rotatablebonds,24124,24124,0,100.0
+complexity,24124,24124,0,100.0
+topological_polor_surfacearea,24124,24124,0,100.0
+xlogp,24124,23840,284,98.8227491294976
+charge,24124,24124,0,100.0
+heavy_atom_count,24124,24124,0,100.0

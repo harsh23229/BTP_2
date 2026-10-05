@@ -1,0 +1,3 @@
+dataset,exact_mapped_types,type_coverage_pct,exact_mapped_occurrences,occurrence_coverage_pct
+SustainableFoodDB,2645,46.46056560688565,111782,69.02935763953215
+FlavorDB,245,4.303530651677499,63073,38.94981906208702

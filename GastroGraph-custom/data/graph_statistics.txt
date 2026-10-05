@@ -1,0 +1,51 @@
+OUR GASTROGRAPH
+================
+
+INPUT DATA
+----------
+
+RecipeDB ingredient occurrences : 161934
+RecipeDB recipes                : 16971
+RecipeDB ingredient types       : 5693
+
+FlavorDB controlled mappings     : 277
+Ingredients with molecules      : 267
+Unique molecules                : 1546
+
+GRAPH
+-----
+
+Ingredient nodes : 5693
+Molecule nodes   : 1546
+Total nodes      : 7239
+
+CO_OCCURS edges  : 157329
+CONTAINS edges   : 34154
+Total edges      : 191483
+
+STRUCTURAL CHECKS
+-----------------
+
+Missing source nodes : 0
+Missing target nodes : 0
+Self loops           : 0
+Duplicate edges      : 0
+
+CONNECTIVITY
+------------
+
+Connected components : 2
+Largest component    : 7237
+Smallest component   : 2
+
+INGREDIENT COVERAGE
+-------------------
+
+Ingredients with molecules    : 267
+Ingredients without molecules : 5426
+Molecule coverage             : 4.69%
+
+ISOLATED INGREDIENTS
+--------------------
+
+Isolated ingredients : 0

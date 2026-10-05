@@ -1,0 +1,231 @@
+query_ingredient,neighbor_ingredient,rank,cosine_similarity
+beef,bay leaf,1,0.9983763694763184
+beef,wine vinegar,2,0.9976975917816162
+beef,caraway seed,3,0.9975728988647461
+beef,beef stock,4,0.9974169135093689
+beef,cod,5,0.99740070104599
+beef,gruyere,6,0.9972755908966064
+beef,kefalotiri,7,0.9971399903297424
+beef,sauce,8,0.9969157576560974
+beef,bouquet garni,9,0.996772289276123
+beef,pecorino cheese,10,0.9967231750488281
+chicken,green onion,1,0.9998470544815063
+chicken,dill seed,2,0.9997272491455078
+chicken,red lentil,3,0.9996700286865234
+chicken,mayonnaise,4,0.9996178150177002
+chicken,celery,5,0.9995864629745483
+chicken,squid,6,0.9995688199996948
+chicken,chicken breast half,7,0.9995517730712891
+chicken,fish stock,8,0.9995493292808533
+chicken,arugula,9,0.9995474219322205
+chicken,gorgonzola,10,0.9995452761650085
+pork,peanut oil,1,0.9972959756851196
+pork,rice,2,0.9970294237136841
+pork,fine sea salt,3,0.9969872236251831
+pork,pork leg,4,0.9969582557678223
+pork,fish,5,0.9969485402107239
+pork,bacon,6,0.9968680739402771
+pork,scallop,7,0.9968438744544983
+pork,guinness stout,8,0.9968093633651733
+pork,green apple,9,0.99680495262146
+pork,saffron,10,0.9966024160385132
+lamb,scallion,1,0.9997598528862
+lamb,leg lamb,2,0.9997283220291138
+lamb,tomato paste,3,0.9997191429138184
+lamb,chicken broth,4,0.9996895790100098
+lamb,mayonnaise,5,0.9996854662895203
+lamb,natural greek yogurt,6,0.999679684638977
+lamb,fennel bulb,7,0.9996688365936279
+lamb,lamb chop,8,0.9996597170829773
+lamb,pernod,9,0.9996591806411743
+lamb,greek oregano,10,0.9996533393859863
+fish,broccoli,1,0.9995065927505493
+fish,fine sea salt,2,0.9990280866622925
+fish,pork leg,3,0.9989519715309143
+fish,scallop,4,0.9988911747932434
+fish,watermelon,5,0.9987825155258179
+fish,brussels sprout,6,0.9986896514892578
+fish,saffron,7,0.9986593127250671
+fish,mint leaf,8,0.9986168742179871
+fish,rice,9,0.9985479712486267
+fish,cauliflower,10,0.998543381690979
+shrimp,rosemary,1,0.999800443649292
+shrimp,greek oregano,2,0.9997700452804565
+shrimp,tomato paste,3,0.9997207522392273
+shrimp,pine nut,4,0.999679446220398
+shrimp,fennel bulb,5,0.999662458896637
+shrimp,iceberg lettuce,6,0.9996554851531982
+shrimp,kosher salt black pepper,7,0.9996334314346313
+shrimp,jalapeno pepper,8,0.9996230006217957
+shrimp,vegetable stock chicken,9,0.9996227025985718
+shrimp,marjoram,10,0.9995980262756348
+prawn,chicken soup base,1,0.9995946884155273
+prawn,basil,2,0.9993976354598999
+prawn,horseradish sauce,3,0.9993247389793396
+prawn,mussel,4,0.9992812871932983
+prawn,red bell pepper,5,0.9992809295654297
+prawn,basil leaf,6,0.9992629289627075
+prawn,cherry tomato,7,0.9992567300796509
+prawn,red pepper,8,0.9991728067398071
+prawn,italian turkey sausage,9,0.9991224408149719
+prawn,chicken cutlet,10,0.9990779161453247
+lobster,mustard seed,1,0.999697208404541
+lobster,raspberry vinegar,2,0.9996803402900696
+lobster,parsnip,3,0.9996639490127563
+lobster,tofu,4,0.999598503112793
+lobster,black mustard seed,5,0.9995793700218201
+lobster,curry powder,6,0.9995627999305725
+lobster,kitchen bouquet browning sauce,7,0.9995346665382385
+lobster,red chilies,8,0.9994921684265137
+lobster,bechamel sauce,9,0.9994404315948486
+lobster,pimento,10,0.9994298815727234
+mushroom,hard egg,1,0.999146580696106
+mushroom,savory,2,0.9990353584289551
+mushroom,white potato,3,0.9989328384399414
+mushroom,thyme leave,4,0.9988464713096619
+mushroom,hot paprika,5,0.9987844228744507
+mushroom,pepper sauce,6,0.9986257553100586
+mushroom,steak,7,0.9986229538917542
+mushroom,peppercorn,8,0.9985228776931763
+mushroom,white wine vinegar,9,0.9985179901123047
+mushroom,celery leaf,10,0.9985161423683167
+onion,black pepper,1,0.9937517642974854
+onion,yellow onion,2,0.9932788014411926
+onion,garlic,3,0.992655873298645
+onion,pepper,4,0.9912171959877014
+onion,olive oil,5,0.9902887940406799
+onion,pesto,6,0.9884426593780518
+onion,bell pepper,7,0.9878323078155518
+onion,bread crumb,8,0.9876545667648315
+onion,garlic clove,9,0.9876155257225037
+onion,tuna vegetable oil,10,0.9874579906463623
+garlic,olive oil,1,0.9986243844032288
+garlic,italian seasoning,2,0.9979695081710815
+garlic,extra virgin olive oil,3,0.9977938532829285
+garlic,red pepper flake,4,0.9976825714111328
+garlic,garlic clove,5,0.9974762201309204
+garlic,greek seasoning,6,0.9972791075706482
+garlic,heart palm,7,0.9972115755081177
+garlic,rom tomato,8,0.9971472024917603
+garlic,tomato,9,0.9967851638793945
+garlic,feta cheese,10,0.9967442750930786
+tomato,red pepper flake,1,0.9996084570884705
+tomato,great northern bean,2,0.9994964003562927
+tomato,tuna steak,3,0.9994524717330933
+tomato,oregano,4,0.9993961453437805
+tomato,green olive,5,0.9993830323219299
+tomato,oregano leaf,6,0.999372124671936
+tomato,romaine lettuce,7,0.9993542432785034
+tomato,mozzarella cheese,8,0.999177873134613
+tomato,baby portabella mushroom,9,0.9991714954376221
+tomato,green bell pepper,10,0.9991499185562134
+potato,herb,1,0.9997755885124207
+potato,dill weed,2,0.9996915459632874
+potato,salmon steak,3,0.9996746182441711
+potato,pea,4,0.9995923638343811
+potato,leek,5,0.9995898008346558
+potato,panko breadcrumb,6,0.9995687007904053
+potato,cider vinegar,7,0.9995564222335815
+potato,grain white rice,8,0.9995386600494385
+potato,sauerkraut,9,0.9995354413986206
+potato,noodle,10,0.9995101690292358
+carrot,sausage,1,0.9995658993721008
+carrot,rigatoni pasta,2,0.9993258714675903
+carrot,beef sirloin steak,3,0.9992090463638306
+carrot,pearl onion,4,0.9992067813873291
+carrot,beef mince,5,0.999178409576416
+carrot,onion powder,6,0.9991235136985779
+carrot,caper,7,0.9990752935409546
+carrot,european cucumber,8,0.9990372061729431
+carrot,za'atar spice mix,9,0.999019980430603
+carrot,chicken bouillon cube,10,0.9989835023880005
+olive oil,garlic clove,1,0.9990139007568359
+olive oil,garlic,2,0.9986243844032288
+olive oil,red pepper flake,3,0.9983093738555908
+olive oil,greek seasoning,4,0.9980907440185547
+olive oil,tomato,5,0.997903048992157
+olive oil,extra virgin olive oil,6,0.9978986978530884
+olive oil,green bell pepper,7,0.9976295828819275
+olive oil,italian seasoning,8,0.9976025819778442
+olive oil,cavatappi pasta,9,0.9974755048751831
+olive oil,black pepper,10,0.9974730610847473
+butter,milk,1,0.9822587966918945
+butter,sourdough starter,2,0.9804700613021851
+butter,purpose flour,3,0.9786604046821594
+butter,egg,4,0.9768140316009521
+butter,sugar,5,0.9728447198867798
+butter,baking soda,6,0.9710902571678162
+butter,brown sugar,7,0.9702733159065247
+butter,flour,8,0.9681566953659058
+butter,milk ricotta cheese,9,0.9669857025146484
+butter,egg white,10,0.9664809703826904
+milk,brown sugar,1,0.9951093792915344
+milk,baking soda,2,0.9943170547485352
+milk,self rising flour,3,0.9937218427658081
+milk,cinnamon,4,0.992300271987915
+milk,golden brown sugar,5,0.9922114610671997
+milk,egg white,6,0.9912461042404175
+milk,sugar,7,0.9901114702224731
+milk,brioche bread,8,0.9898869395256042
+milk,buttermilk,9,0.9895256757736206
+milk,oat,10,0.98927241563797
+egg,nonfat milk powder,1,0.9780826568603516
+egg,butter,2,0.9768140316009521
+egg,fast rise yeast,3,0.9743654727935791
+egg,sugar,4,0.9732488393783569
+egg,sourdough starter,5,0.9665693044662476
+egg,fruit bun,6,0.964805006980896
+egg,pie filling,7,0.9646394848823547
+egg,dish pie shell,8,0.9635848999023438
+egg,baking powder,9,0.9624956846237183
+egg,milk,10,0.9608749747276306
+black pepper,pepper,1,0.9981423616409302
+black pepper,olive oil,2,0.9974730610847473
+black pepper,bell pepper,3,0.9972637891769409
+black pepper,pesto,4,0.9966045022010803
+black pepper,broiler fryer chicken,5,0.9965468049049377
+black pepper,salt black pepper,6,0.9965072870254517
+black pepper,garlic,7,0.9963905215263367
+black pepper,garlic clove,8,0.9963454008102417
+black pepper,tomato,9,0.9963077902793884
+black pepper,salt pepper,10,0.9962605237960815
+salt,crisp rye cracker breadcrumb,1,0.9614466428756714
+salt,dark beer,2,0.9612789154052734
+salt,oatmeal,3,0.9585828185081482
+salt,flour,4,0.9584555625915527
+salt,purpose flour,5,0.953532338142395
+salt,non yogurt,6,0.9522515535354614
+salt,curd cottage cheese,7,0.9516222476959229
+salt,mint jelly,8,0.9498500823974609
+salt,beef tenderloin steak,9,0.9491004943847656
+salt,pastry dough,10,0.9485321640968323
+lemon,allspice berry,1,0.999469518661499
+lemon,gruyere cheese,2,0.9994673728942871
+lemon,green apple,3,0.9994382858276367
+lemon,cheese,4,0.9994273781776428
+lemon,cheddar cheese,5,0.9992325305938721
+lemon,vinegar,6,0.9991902112960815
+lemon,lemon juice,7,0.9991503953933716
+lemon,peanut oil,8,0.9990453720092773
+lemon,lavender,9,0.9990444183349609
+lemon,swiss cheese,10,0.998999834060669
+rice,scallop,1,0.9996211528778076
+rice,fine sea salt,2,0.9995356798171997
+rice,mint leaf,3,0.9995304346084595
+rice,bacon,4,0.9994775652885437
+rice,cauliflower,5,0.9994506239891052
+rice,baguette,6,0.9994063377380371
+rice,onion flake,7,0.9994058609008789
+rice,chervil,8,0.9993782639503479
+rice,lemon juice,9,0.9993496537208557
+rice,salmon,10,0.9993088245391846
+soybean,lemon balm,1,0.9974313974380493
+soybean,elderberry,2,0.9922730922698975
+soybean,carom seed,3,0.9900340437889099
+soybean,kohlrabi,4,0.9875540137290955
+soybean,lemon grass,5,0.9873543381690979
+soybean,popcorn,6,0.983043909072876
+soybean,sesame,7,0.9828567504882812
+soybean,caviar,8,0.9823256731033325
+soybean,kumquat,9,0.9814929962158203
+soybean,grape,10,0.9799609780311584

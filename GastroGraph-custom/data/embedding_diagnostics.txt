@@ -1,0 +1,21 @@
+GASTROGRAPH EMBEDDING DIAGNOSTICS
+======================================================================
+
+Graph nodes: 7239
+Graph edges: 191483
+Ingredient nodes: 5693
+Compound nodes: 1546
+Embedding shape: (7239, 64)
+Effective rank: 8.43704159047753
+Numerical rank: 64
+Random pair mean cosine: 0.08010103553533554
+Random pair median cosine: 0.033428341150283813
+Random pair >=0.99: 1.38%
+Nearest-neighbor mean cosine: 0.9385932189246043
+Nearest-neighbor median cosine: 0.9440464377403259
+
+ASSESSMENT
+----------------------------------------------------------------------
+WARNING: Potential embedding collapse detected.
+- Embedding variance is concentrated in a small number of dimensions.
+- Mean nearest-neighbor cosine is high.

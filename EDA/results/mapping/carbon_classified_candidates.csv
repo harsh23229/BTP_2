@@ -1,0 +1,24 @@
+recipe_ingredient,candidate,relationship,classification
+active yeast,yeast,single_word_component,SAFE
+balsamic vinegar,lsa,single_word_substring,REJECT
+black olive,olive,single_word_component,SAFE
+black pepper,pepper,single_word_component,SAFE
+brown sugar,sugar,single_word_component,SAFE
+caper,caperberries,recipe_name_inside_candidate,REJECT
+cayenne pepper,pepper,single_word_component,SAFE
+celery rib,celery,single_word_component,SAFE
+cold water,water,single_word_component,SAFE
+creme fraiche,creme,single_word_component,SAFE
+extra virgin olive oil,olive,single_word_component,SAFE
+flat leaf parsley,flat,single_word_component,REJECT
+french bread,bread,single_word_component,SAFE
+ham,chambord,recipe_name_inside_candidate,REJECT
+heavy cream,cream,single_word_component,SAFE
+maple syrup,syrup,single_word_component,SAFE
+oil,broiler,recipe_name_inside_candidate,REJECT
+pine nut,nut,single_word_component,SAFE
+salt black pepper,pepper,single_word_component,RELATED
+sea salt,sea,single_word_component,REJECT
+white bread,bread,single_word_component,SAFE
+white pepper,pepper,single_word_component,SAFE
+white sugar,sugar,single_word_component,SAFE

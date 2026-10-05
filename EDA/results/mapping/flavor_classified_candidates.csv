@@ -1,0 +1,35 @@
+recipe_ingredient,candidate,relationship,classification
+beef broth,beef,single_word_component,SAFE
+black olive,olive,single_word_component,SAFE
+black pepper,pepper,single_word_component,SAFE
+brown sugar,sugar,single_word_component,SAFE
+caster sugar,sugar,single_word_component,SAFE
+cayenne pepper,pepper,single_word_component,SAFE
+chicken breast,chicken,single_word_component,SAFE
+chicken broth,chicken,single_word_component,SAFE
+chicken stock,chicken,single_word_component,SAFE
+confectioner ' sugar,sugar,single_word_component,SAFE
+cornstarch,corn,single_word_substring,REJECT
+dijon mustard,mustard,single_word_component,SAFE
+egg white,egg,single_word_component,SAFE
+egg yolk,egg,single_word_component,SAFE
+garlic powder,garlic,single_word_component,SAFE
+green onion,onion,single_word_component,SAFE
+heavy cream,cream,single_word_component,SAFE
+kalamata olive,olive,single_word_component,SAFE
+kosher salt,salt,single_word_component,SAFE
+lemon juice,lemon,single_word_component,SAFE
+lemon zest,lemon,single_word_component,SAFE
+olive oil,olive,single_word_component,SAFE
+orange juice,orange,single_word_component,SAFE
+plain flour,flour,single_word_component,SAFE
+purpose flour,flour,single_word_component,SAFE
+red bell pepper,pepper,single_word_component,SAFE
+red onion,onion,single_word_component,SAFE
+red pepper,pepper,single_word_component,SAFE
+sea salt,salt,single_word_component,SAFE
+tomato paste,tomato,single_word_component,SAFE
+vanilla extract,vanilla,single_word_component,SAFE
+whipping cream,cream,single_word_component,SAFE
+white sugar,sugar,single_word_component,SAFE
+worcestershire sauce,sauce,single_word_component,REJECT

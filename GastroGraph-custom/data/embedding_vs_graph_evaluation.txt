@@ -1,0 +1,157 @@
+
+======================================================================
+EXPLICIT PAIR ANALYSIS
+======================================================================
+
+----------------------------------------------------------------------
+EXPECTED RELATED PAIRS
+----------------------------------------------------------------------
+
+beef <-> beef stock
+  GraphSAGE cosine       : 0.997417
+  Shared molecules       : 0
+  CO_OCCURS weight       : 35.0
+  Recipe-neighbor degree : 0 / 0
+
+chicken <-> chicken breast
+  GraphSAGE cosine       : 0.996006
+  Shared molecules       : 131
+  CO_OCCURS weight       : 3.0
+  Recipe-neighbor degree : 0 / 0
+
+tomato <-> tomato paste
+  GraphSAGE cosine       : 0.991596
+  Shared molecules       : 271
+  CO_OCCURS weight       : 178.0
+  Recipe-neighbor degree : 0 / 0
+
+olive oil <-> extra virgin olive oil
+  GraphSAGE cosine       : 0.997899
+  Shared molecules       : 0
+  CO_OCCURS weight       : 50.0
+  Recipe-neighbor degree : 0 / 0
+
+black pepper <-> pepper
+  GraphSAGE cosine       : 0.998142
+  Shared molecules       : 223
+  CO_OCCURS weight       : 29.0
+  Recipe-neighbor degree : 0 / 0
+
+onion <-> yellow onion
+  GraphSAGE cosine       : 0.993279
+  Shared molecules       : 0
+  CO_OCCURS weight       : 4.0
+  Recipe-neighbor degree : 0 / 0
+
+----------------------------------------------------------------------
+EXPECTED UNRELATED PAIRS
+----------------------------------------------------------------------
+
+beef <-> bay leaf
+  GraphSAGE cosine       : 0.998376
+  Shared molecules       : 0
+  CO_OCCURS weight       : 55.0
+  Recipe-neighbor degree : 0 / 0
+
+beef <-> wine vinegar
+  GraphSAGE cosine       : 0.997698
+  Shared molecules       : 0
+  CO_OCCURS weight       : 3.0
+  Recipe-neighbor degree : 0 / 0
+
+chicken <-> dill seed
+  GraphSAGE cosine       : 0.999727
+  Shared molecules       : 0
+  CO_OCCURS weight       : 0
+  Recipe-neighbor degree : 0 / 0
+
+lobster <-> tofu
+  GraphSAGE cosine       : 0.999599
+  Shared molecules       : 0
+  CO_OCCURS weight       : 0
+  Recipe-neighbor degree : 0 / 0
+
+fish <-> broccoli
+  GraphSAGE cosine       : 0.999507
+  Shared molecules       : 10
+  CO_OCCURS weight       : 0
+  Recipe-neighbor degree : 0 / 0
+
+======================================================================
+EXPLICIT PAIR SUMMARY
+======================================================================
+
+RELATED
+Mean cosine: 0.995723
+Mean shared molecules: 104.17
+Mean CO_OCCURS weight: 49.83
+
+UNRELATED
+Mean cosine: 0.998981
+Mean shared molecules: 2.00
+Mean CO_OCCURS weight: 11.60
+
+======================================================================
+RANDOM PAIR ANALYSIS
+======================================================================
+
+Random pairs: 10000
+Mean GraphSAGE cosine: 0.085692
+Median GraphSAGE cosine: 0.040925
+Mean CO_OCCURS weight: 0.039000
+Pairs with CO_OCCURS > 0: 98 (0.98%)
+Pairs with shared molecules > 0: 24 (0.24%)
+
+CORRELATIONS
+GraphSAGE cosine <-> CO_OCCURS      : 0.071314
+GraphSAGE cosine <-> molecule overlap: 0.068338
+CO_OCCURS <-> molecule overlap       : 0.134766
+
+======================================================================
+GRAPH SAGE COSINE BY CO-OCCURRENCE
+======================================================================
+
+No CO_OCCURS:
+  Count: 9902
+  Mean cosine: 0.079438
+  Median cosine: 0.036054
+
+CO_OCCURS > 0:
+  Count: 98
+  Mean cosine: 0.717651
+  Median cosine: 0.876109
+
+======================================================================
+GRAPH SAGE COSINE BY MOLECULAR OVERLAP
+======================================================================
+
+No shared molecules:
+  Count: 9976
+  Mean cosine: 0.083859
+  Median cosine: 0.039538
+
+Shared molecules > 0:
+  Count: 24
+  Mean cosine: 0.847595
+  Median cosine: 0.904212
+
+======================================================================
+INTERPRETATION
+======================================================================
+
+[WEAK]
+GraphSAGE cosine has a weak relationship with recipe co-occurrence.
+
+[WEAK]
+GraphSAGE cosine has a weak relationship with molecular overlap.
+
+Cosine difference:
+  CO_OCCURS > 0 minus CO_OCCURS = 0
+  0.638213
+
+GraphSAGE clearly gives higher similarity to ingredients that co-occur.
+
+IMPORTANT:
+CO_OCCURS measures culinary compatibility/context, not substitution suitability.
+Shared molecules measure molecular overlap, not automatically sensory flavor similarity.
+GraphSAGE cosine should therefore not be interpreted as a substitution score without validation.

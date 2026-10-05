@@ -1,0 +1,17 @@
+recipe_ingredient,mapped_entity,mapping_type,occurrences
+black pepper,pepper,controlled_normalization,2249
+extra virgin olive oil,olive,controlled_normalization,1029
+brown sugar,sugar,controlled_normalization,965
+heavy cream,cream,controlled_normalization,763
+white sugar,sugar,controlled_normalization,650
+black olive,olive,controlled_normalization,357
+cayenne pepper,pepper,controlled_normalization,323
+white pepper,pepper,controlled_normalization,320
+french bread,bread,controlled_normalization,293
+maple syrup,syrup,controlled_normalization,266
+active yeast,yeast,controlled_normalization,260
+pine nut,nut,controlled_normalization,196
+white bread,bread,controlled_normalization,188
+celery rib,celery,controlled_normalization,186
+cold water,water,controlled_normalization,179
+creme fraiche,creme,controlled_normalization,178

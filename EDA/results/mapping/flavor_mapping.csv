@@ -1,0 +1,182 @@
+recipe_ingredient,flavor_entity,mapping_type
+allspice,allspice,exact
+almond,almond,exact
+angelica,angelica,exact
+anise,anise,exact
+apple,apple,exact
+apricot,apricot,exact
+artichoke,artichoke,exact
+asparagus,asparagus,exact
+avocado,avocado,exact
+banana,banana,exact
+barley,barley,exact
+basil,basil,exact
+beef,beef,exact
+beer,beer,exact
+beetroot,beetroot,exact
+berry,berry,exact
+blackberry,blackberry,exact
+blueberry,blueberry,exact
+brandy,brandy,exact
+bread,bread,exact
+broccoli,broccoli,exact
+butter,butter,exact
+buttermilk,buttermilk,exact
+cabbage,cabbage,exact
+capsicum,capsicum,exact
+caraway,caraway,exact
+cardamom,cardamom,exact
+carrot,carrot,exact
+cauliflower,cauliflower,exact
+caviar,caviar,exact
+celery,celery,exact
+cheese,cheese,exact
+cherry,cherry,exact
+chervil,chervil,exact
+chicken,chicken,exact
+chive,chive,exact
+cinnamon,cinnamon,exact
+clam,clam,exact
+cloudberry,cloudberry,exact
+clove,clove,exact
+cocoa,cocoa,exact
+coconut,coconut,exact
+coffee,coffee,exact
+coriander,coriander,exact
+corn,corn,exact
+crab,crab,exact
+cranberry,cranberry,exact
+cucumber,cucumber,exact
+cumin,cumin,exact
+currant,currant,exact
+dill,dill,exact
+egg,egg,exact
+eggplant,eggplant,exact
+elderberry,elderberry,exact
+endive,endive,exact
+fennel,fennel,exact
+fenugreek,fenugreek,exact
+fig,fig,exact
+fish,fish,exact
+frankfurter,frankfurter,exact
+garlic,garlic,exact
+ghee,ghee,exact
+gin,gin,exact
+ginger,ginger,exact
+gooseberry,gooseberry,exact
+grape,grape,exact
+grapefruit,grapefruit,exact
+ham,ham,exact
+hazelnut,hazelnut,exact
+honey,honey,exact
+horseradish,horseradish,exact
+jalapeno,jalapeno,exact
+kiwi,kiwi,exact
+kumquat,kumquat,exact
+lamb,lamb,exact
+leek,leek,exact
+lemon,lemon,exact
+lettuce,lettuce,exact
+lime,lime,exact
+lingonberry,lingonberry,exact
+lobster,lobster,exact
+lovage,lovage,exact
+macaroni,macaroni,exact
+mace,mace,exact
+malt,malt,exact
+mango,mango,exact
+marjoram,marjoram,exact
+meat,meat,exact
+milk,milk,exact
+mint,mint,exact
+mushroom,mushroom,exact
+mustard,mustard,exact
+mutton,mutton,exact
+nutmeg,nutmeg,exact
+okra,okra,exact
+olive,olive,exact
+onion,onion,exact
+orange,orange,exact
+oregano,oregano,exact
+oyster,oyster,exact
+papaya,papaya,exact
+parsley,parsley,exact
+parsnip,parsnip,exact
+peach,peach,exact
+peanut,peanut,exact
+pear,pear,exact
+pepper,pepper,exact
+peppermint,peppermint,exact
+pimiento,pimiento,exact
+pineapple,pineapple,exact
+plum,plum,exact
+pomegranate,pomegranate,exact
+pork,pork,exact
+potato,potato,exact
+prawn,prawn,exact
+pumpkin,pumpkin,exact
+quince,quince,exact
+radish,radish,exact
+raisin,raisin,exact
+raspberry,raspberry,exact
+rhubarb,rhubarb,exact
+rice,rice,exact
+rosemary,rosemary,exact
+rum,rum,exact
+saffron,saffron,exact
+sage,sage,exact
+salmon,salmon,exact
+scallop,scallop,exact
+sesame,sesame,exact
+shrimp,shrimp,exact
+soybean,soybean,exact
+spinach,spinach,exact
+squid,squid,exact
+strawberry,strawberry,exact
+tangerine,tangerine,exact
+tarragon,tarragon,exact
+tea,tea,exact
+thyme,thyme,exact
+tomato,tomato,exact
+truffle,truffle,exact
+turkey,turkey,exact
+turmeric,turmeric,exact
+turnip,turnip,exact
+vanilla,vanilla,exact
+vinegar,vinegar,exact
+walnut,walnut,exact
+watercress,watercress,exact
+wine,wine,exact
+yogurt,yogurt,exact
+beef broth,beef,normalized
+black olive,olive,normalized
+black pepper,pepper,normalized
+brown sugar,sugar,normalized
+caster sugar,sugar,normalized
+cayenne pepper,pepper,normalized
+chicken breast,chicken,normalized
+chicken broth,chicken,normalized
+chicken stock,chicken,normalized
+confectioner ' sugar,sugar,normalized
+dijon mustard,mustard,normalized
+egg white,egg,normalized
+egg yolk,egg,normalized
+garlic powder,garlic,normalized
+green onion,onion,normalized
+heavy cream,cream,normalized
+kalamata olive,olive,normalized
+kosher salt,salt,normalized
+lemon juice,lemon,normalized
+lemon zest,lemon,normalized
+olive oil,olive,normalized
+orange juice,orange,normalized
+plain flour,flour,normalized
+purpose flour,flour,normalized
+red bell pepper,pepper,normalized
+red onion,onion,normalized
+red pepper,pepper,normalized
+sea salt,salt,normalized
+tomato paste,tomato,normalized
+vanilla extract,vanilla,normalized
+whipping cream,cream,normalized
+white sugar,sugar,normalized

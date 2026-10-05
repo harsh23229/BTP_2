@@ -1,0 +1,246 @@
+recipe_ingredient,flavor_entity
+allspice,allspice
+almond,almond
+angelica,angelica
+anise,anise
+aniseed,anise
+apple,apple
+apple brandy,brandy-apple
+apple cider vinegar,vinegar-cidervinegar
+apricot,apricot
+arak,arrack
+armagnac,brandy
+artichoke,artichoke
+asparagus,asparagus
+aubergine,eggplant
+avocado,avocado
+bacon,pork
+banana,banana
+barley,barley
+bartlett pear,pear-barlett
+basil,basil
+basmati rice,ricebasmati
+beef,beef
+beer,beer
+beet,beetroot
+beetroot,beetroot
+berry,berry
+black currant,currant-black
+black tea,tea-black
+blackberry,blackberry
+blue cheese,cheese-blue
+blueberry,blueberry
+brandy,brandy
+brazil nut,brazilnut
+bread,bread
+broccoli,broccoli
+brussels sprout,brusselssprout
+butter,butter
+butter bean,beans-limabeans
+buttermilk,buttermilk
+cabbage,cabbage
+camembert cheese,cheese-camembert
+canola oil,canola
+capsicum,capsicum
+caraway,caraway
+cardamom,cardamom
+carom seed,caromseed
+carrot,carrot
+cauliflower,cauliflower
+caviar,caviar
+celery,celery
+champagne,wine-champagne
+chayote,gourd
+cheddar cheese,cheese-cheddar
+cheese,cheese
+cherry,blueberry
+cherry brandy,brandy-cherry
+cherry pepper,pimiento
+chervil,chervil
+chicken,chicken
+chive,chive
+cider,wine-cider
+cinnamon,cinnamon
+clam,clam
+cloudberry,cloudberry
+clove,clove
+cocoa,cocoa
+coconut,coconut
+coffee,coffee
+cognac,brandy
+comte cheese,cheese-comte
+coriander,coriander
+corn,corn
+corn oil,corn-oil
+cottage cheese,cheese-cottage
+crab,crab
+cracker,crispbread
+cranberry,cranberry
+crawfish,crayfish
+cream cheese,cheese-cream
+cucumber,cucumber
+cumin,cumin
+currant,currant
+curry leaf,curryleaf
+dill,dill
+egg,egg
+eggplant,eggplant
+elderberry,elderberry
+endive,endive
+fennel,fennel
+fenugreek,fenugreek
+feta cheese,cheese-feta
+fig,fig
+fish,fish
+flageolet bean,beans-redkidneybeans
+frankfurter,frankfurter
+french bean,beans-redkidneybeans
+garlic,garlic
+ghee,butter
+gin,gin
+ginger,ginger
+goat cheese,cheese-goat
+gooseberry,gooseberry
+grape,grape
+grapefruit,grapefruit
+green bean,beans-redkidneybeans
+green tea,tea-green
+gruyere cheese,cheese-gruyere
+ham,ham
+haricot bean,beans-redkidneybeans
+hazelnut,hazelnut
+honey,honey
+horseradish,horseradish
+jalapeno,jalapeno
+kiwi,kiwi
+kohlrabi,turnip-kohlrabi
+kumquat,kumquat
+lamb,lamb
+leek,leek
+lemon,lemon
+lemon balm,lemonbalm
+lemon grass,grass
+lettuce,lettuce
+lima bean,beans-limabeans
+limburger cheese,cheese-limburger
+lime,lime
+lingonberry,lingonberry
+lobster,lobster
+lovage,lovage
+lychee,litchi
+macadamia nut,macadamianut
+macaroni,macaroni
+mace,mace
+malt,malt
+mandarin orange,mandarinorange
+mango,mango
+marjoram,marjoram
+meat,meat
+milk,milk
+milk powder,milk-powder
+mint,mint
+mozzarella cheese,cheese-mozzarella
+mushroom,mushroom
+mustard,mustard
+mustard oil,mustard
+mutton,mutton
+nectarine,peach
+nigella seed,nigella
+nutmeg,nutmeg
+okra,okra
+olive,olive
+onion,onion
+orange,orange
+oregano,marjoram
+oyster,oyster
+papaya,papaya
+parmesan cheese,cheese-parmesan
+parsley,parsley
+parsnip,parsnip
+peach,peach
+peanut,peanut
+peanut butter,peanut
+peanut oil,peanut-peanutoil
+pear,pear
+pear brandy,brandy-pear
+pepper,pepper
+peppermint,peppermint
+pimento,pimiento
+pimiento,pimiento
+pineapple,pineapple
+plum,plum
+plum brandy,brandy-plum
+pomegranate,pomegranate
+popcorn,corn-popcorn
+poppy seed,poppy
+pork,pork
+port wine,wine-port
+potato,potato
+prawn,prawn
+provolone cheese,cheese-provolone
+pumpkin,pumpkin
+quince,quince
+radish,radish
+raisin,raisin
+raspberry,raspberry
+red beet,beetroot
+red currant,currant-red
+red kidney bean,beans-redkidneybeans
+red wine,wine-red
+rhubarb,rhubarb
+rice,rice
+ricotta cheese,cheese-ricotta
+romano cheese,cheese-romano
+roquefort cheese,cheese-roquefort
+rose wine,wine-rose
+rosemary,rosemary
+rum,rum
+rutabaga,turnip-rutabaga
+rye bread,bread-rye
+saffron,saffron
+sage,sage
+salmon,salmon
+satsuma orange,satsumamandarin
+scallop,scallop
+scotch,whisky-scotch
+scotch whisky,whisky-scotch
+sesame,sesame
+seville orange,orange
+shallot,onionshallow
+sherry,wine-sherry
+shrimp,shrimp
+soya sauce,soybean-sauce
+soybean,soybean
+sparkling wine,wine-sparkling
+spearmint,spearmint-oil
+spinach,spinach
+squid,squid
+star anise,anise-staranise
+strawberry,strawberry
+strawberry jam,strawberry-jam
+string bean,beans-redkidneybeans
+sultana,raisin
+swede,turnip-rutabaga
+sweetcorn,corn-sweetcorn
+swiss cheese,cheese-swiss
+tangerine,satsumamandarin
+tarragon,tarragon
+tart cherry,cherry-morello
+tea,tea
+thyme,thyme
+tomato,tomato
+truffle,truffle
+turkey,turkey
+turmeric,turmeric
+turnip,turnip
+vanilla,vanilla
+vinegar,vinegar
+walnut,walnut
+water chestnut,waterchestnut
+watercress,watercress
+white bread,bread-white
+white cheese,cheese-domiati
+white pepper,pepper-whitepepper
+white wine,wine-white
+wine,wine
+yogurt,yogurt

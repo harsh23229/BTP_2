@@ -2,10 +2,11 @@ import pandas as pd
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
-RAW_DIR = BASE_DIR / "raw"
-PROCESSED_DIR = BASE_DIR / "processed"
-PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
+RAW_DIR = BASE_DIR
+PROCESSED_DIR = BASE_DIR / "processed"
+
+PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 def prepare_carbon_dataset():
     input_file = RAW_DIR / "SustainableFoodDB_CarbonFootprints.csv"
     output_file = PROCESSED_DIR / "SustainableFoodDB_CarbonFootprints.csv"

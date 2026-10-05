@@ -1,0 +1,135 @@
+OUR GASTROGRAPH — VALIDATION
+
+======================================================================
+1. LOADING GRAPH
+======================================================================
+Nodes: 7,239
+Edges: 191,483
+
+======================================================================
+2. NODE TYPES
+======================================================================
+ingredient     : 5,693
+compound       : 1,546
+
+======================================================================
+3. CONNECTED COMPONENTS
+======================================================================
+Number of connected components: 2
+
+Largest components:
+Component 1: 7,237 nodes (ingredient=5,691, compound=1,546)
+Component 2: 2 nodes (ingredient=2)
+
+======================================================================
+4. INGREDIENT / MOLECULE COUNTS
+======================================================================
+Ingredient nodes : 5,693
+Molecule nodes   : 1,546
+
+======================================================================
+5. EDGE TYPES
+======================================================================
+ingr-ingr      : 157,329
+ingr-dcomp     : 34,154
+
+======================================================================
+6. ISOLATED NODES
+======================================================================
+Isolated nodes: 0
+
+======================================================================
+7. DEGREE DISTRIBUTION
+======================================================================
+Mean degree   : 52.9032
+Median degree : 12.0000
+Minimum degree: 1
+Maximum degree: 3003
+90th percentile: 118.00
+99th percentile: 808.48
+
+======================================================================
+8. IMPORTANT INGREDIENT CONNECTIVITY
+======================================================================
+Ingredient names available: 5,693
+
+Ingredient checks:
+beef                 | degree= 823 | CO_OCCURS= 731 | molecules=  92 | main_component=True
+chicken              | degree= 676 | CO_OCCURS= 545 | molecules= 131 | main_component=True
+pork                 | degree= 518 | CO_OCCURS= 361 | molecules= 157 | main_component=True
+lamb                 | degree= 480 | CO_OCCURS= 443 | molecules=  37 | main_component=True
+fish                 | degree= 147 | CO_OCCURS= 100 | molecules=  47 | main_component=True
+shrimp               | degree= 477 | CO_OCCURS= 401 | molecules=  76 | main_component=True
+prawn                | degree= 129 | CO_OCCURS= 128 | molecules=   1 | main_component=True
+lobster              | degree=  90 | CO_OCCURS=  84 | molecules=   6 | main_component=True
+mushroom             | degree=1135 | CO_OCCURS= 908 | molecules= 227 | main_component=True
+onion                | degree=2425 | CO_OCCURS=2245 | molecules= 180 | main_component=True
+garlic               | degree=1553 | CO_OCCURS=1410 | molecules= 143 | main_component=True
+tomato               | degree=1799 | CO_OCCURS=1528 | molecules= 271 | main_component=True
+potato               | degree=1340 | CO_OCCURS=1086 | molecules= 254 | main_component=True
+carrot               | degree=1387 | CO_OCCURS=1196 | molecules= 191 | main_component=True
+olive oil            | degree=2280 | CO_OCCURS=2125 | molecules= 155 | main_component=True
+butter               | degree=3003 | CO_OCCURS=2872 | molecules= 131 | main_component=True
+milk                 | degree=2042 | CO_OCCURS=1931 | molecules= 111 | main_component=True
+egg                  | degree=2441 | CO_OCCURS=2386 | molecules=  55 | main_component=True
+black pepper         | degree=2008 | CO_OCCURS=1785 | molecules= 223 | main_component=True
+salt                 | degree=2987 | CO_OCCURS=2987 | molecules=   0 | main_component=True
+lemon                | degree=1493 | CO_OCCURS=1275 | molecules= 218 | main_component=True
+rice                 | degree= 627 | CO_OCCURS= 428 | molecules= 199 | main_component=True
+soybean              | degree= 252 | CO_OCCURS=  27 | molecules= 225 | main_component=True
+
+======================================================================
+9. LEARNED EMBEDDINGS
+======================================================================
+Embedding matrix shape: (7239, 64)
+Graph nodes       : 7,239
+Mapping nodes     : 7,239
+Embedding rows    : 7,239
+
+======================================================================
+10. EMBEDDING NORMALIZATION
+======================================================================
+Mean norm   : 1.000000
+Median norm : 1.000000
+Min norm    : 1.000000
+Max norm    : 1.000000
+
+======================================================================
+11. IMPORTANT INGREDIENT EMBEDDINGS
+======================================================================
+Showing embedding statistics for important ingredients:
+beef                 | index=  353 | norm=1.000000 | first5=[-0.2447, 0.0003, 0.1171, -0.1112, -0.0124]
+chicken              | index= 1010 | norm=1.000000 | first5=[-0.2842, -0.0163, 0.0772, -0.0813, -0.0242]
+pork                 | index= 4016 | norm=1.000000 | first5=[-0.2514, -0.0281, 0.0915, -0.1088, 0.0012]
+lamb                 | index= 2878 | norm=1.000000 | first5=[-0.2819, -0.0171, 0.0854, -0.0836, -0.0221]
+fish                 | index= 1928 | norm=1.000000 | first5=[-0.2681, -0.0354, 0.0822, -0.0898, 0.0170]
+shrimp               | index= 4665 | norm=1.000000 | first5=[-0.2849, -0.0179, 0.0810, -0.0798, -0.0192]
+prawn                | index= 4110 | norm=1.000000 | first5=[-0.2922, -0.0115, 0.0756, -0.0813, -0.0355]
+lobster              | index= 3111 | norm=1.000000 | first5=[-0.2715, -0.0206, 0.0973, -0.0884, 0.0045]
+mushroom             | index= 3378 | norm=1.000000 | first5=[-0.2792, -0.0121, 0.0954, -0.0928, -0.0180]
+onion                | index= 3540 | norm=1.000000 | first5=[-0.2846, 0.0101, 0.0778, -0.0919, -0.0701]
+garlic               | index= 2134 | norm=1.000000 | first5=[-0.2920, 0.0112, 0.0759, -0.0923, -0.0643]
+tomato               | index= 5092 | norm=1.000000 | first5=[-0.2918, 0.0047, 0.0796, -0.0885, -0.0457]
+potato               | index= 4088 | norm=1.000000 | first5=[-0.2709, -0.0203, 0.0968, -0.0909, -0.0130]
+carrot               | index=  874 | norm=1.000000 | first5=[-0.2743, -0.0036, 0.0931, -0.0863, -0.0249]
+olive oil            | index= 3526 | norm=1.000000 | first5=[-0.2840, 0.0101, 0.0804, -0.0932, -0.0502]
+butter               | index=  714 | norm=1.000000 | first5=[-0.0819, -0.0147, 0.1777, -0.1255, 0.0740]
+milk                 | index= 3280 | norm=1.000000 | first5=[-0.0861, -0.0370, 0.1894, -0.1096, 0.0802]
+egg                  | index= 1712 | norm=1.000000 | first5=[-0.0503, -0.0151, 0.2191, -0.1112, 0.0423]
+black pepper         | index=  509 | norm=1.000000 | first5=[-0.2744, 0.0131, 0.0894, -0.0966, -0.0485]
+salt                 | index= 4526 | norm=1.000000 | first5=[-0.1901, 0.0348, 0.1843, -0.0847, -0.0104]
+lemon                | index= 2959 | norm=1.000000 | first5=[-0.2557, -0.0308, 0.1019, -0.0949, 0.0153]
+rice                 | index= 4375 | norm=1.000000 | first5=[-0.2630, -0.0296, 0.0931, -0.0940, 0.0098]
+soybean              | index= 4749 | norm=1.000000 | first5=[-0.2320, -0.1105, -0.0307, -0.0725, 0.1015]
+
+======================================================================
+12. FINAL SANITY SUMMARY
+======================================================================
+[PASS] Graph contains ingredient nodes
+[PASS] Graph contains molecule nodes
+[PASS] Graph contains CO_OCCURS edges
+[PASS] Graph contains molecule edges
+[PASS] Embeddings have 64 dimensions
+[PASS] Embedding count matches graph
+[PASS] No NaN embeddings
+[PASS] No infinite embeddings

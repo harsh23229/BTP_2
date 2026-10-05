@@ -1,0 +1,72 @@
+recipe_ingredient,candidate,relationship,candidate_count,ambiguous
+olive oil,olive,single_word_component,1,False
+garlic clove,clove,single_word_component,2,True
+garlic clove,garlic,single_word_component,2,True
+black pepper,pepper,single_word_component,1,False
+lemon juice,lemon,single_word_component,1,False
+purpose flour,flour,single_word_component,1,False
+salt pepper,pepper,single_word_component,2,True
+salt pepper,salt,single_word_component,2,True
+vanilla extract,vanilla,single_word_component,1,False
+extra virgin olive oil,gin,single_word_substring,2,True
+extra virgin olive oil,olive,single_word_component,2,True
+brown sugar,sugar,single_word_component,1,False
+egg yolk,egg,single_word_component,1,False
+heavy cream,cream,single_word_component,1,False
+red onion,onion,single_word_component,1,False
+salt black pepper,pepper,single_word_component,2,True
+salt black pepper,salt,single_word_component,2,True
+white sugar,sugar,single_word_component,1,False
+chicken broth,chicken,single_word_component,1,False
+egg white,egg,single_word_component,1,False
+breadcrumb,bread,single_word_substring,2,True
+breadcrumb,rum,single_word_substring,2,True
+oil,canola oil,recipe_name_substring,20,True
+oil,citronella-oil,recipe_name_inside_candidate,20,True
+oil,citrus peel oil,recipe_name_substring,20,True
+oil,citrus-fruitpeeloil,recipe_name_inside_candidate,20,True
+oil,cooking oil,recipe_name_substring,20,True
+oil,corn oil,recipe_name_substring,20,True
+oil,corn-oil,recipe_name_inside_candidate,20,True
+oil,eucalyptusoil,recipe_name_inside_candidate,20,True
+oil,fish oil,recipe_name_substring,20,True
+oil,fish-oil,recipe_name_inside_candidate,20,True
+oil,grapefruit peel oil,recipe_name_substring,20,True
+oil,grapefruit-peeloil,recipe_name_inside_candidate,20,True
+oil,hops oil,recipe_name_substring,20,True
+oil,hops-oil,recipe_name_inside_candidate,20,True
+oil,hyssop oil,recipe_name_substring,20,True
+oil,hyssopoil,recipe_name_inside_candidate,20,True
+oil,lemon peel oil,recipe_name_substring,20,True
+oil,lime peel oil,recipe_name_substring,20,True
+oil,maize oil,recipe_name_substring,20,True
+oil,mandarin orange peel oil,recipe_name_substring,20,True
+kosher salt,salt,single_word_component,1,False
+lemon zest,lemon,single_word_component,1,False
+red wine vinegar,red wine,candidate_substring,3,True
+red wine vinegar,vinegar,single_word_component,3,True
+red wine vinegar,wine,single_word_component,3,True
+tomato paste,tomato,single_word_component,1,False
+dijon mustard,mustard,single_word_component,1,False
+kalamata olive,olive,single_word_component,1,False
+chicken breast,chicken,single_word_component,1,False
+bacon,"pork, bacon",recipe_name_substring,1,False
+cornstarch,corn,single_word_substring,1,False
+worcestershire sauce,sauce,single_word_component,1,False
+green onion,"bunching onion, long green onion, japanese bunching onion, scallion, spring onion, welsh onion",recipe_name_substring,2,True
+green onion,onion,single_word_component,2,True
+confectioner ' sugar,sugar,single_word_component,1,False
+caster sugar,sugar,single_word_component,1,False
+sea salt,salt,single_word_component,1,False
+garlic powder,garlic,single_word_component,1,False
+plain flour,flour,single_word_component,1,False
+black olive,olive,single_word_component,1,False
+zucchini,green zucchini,recipe_name_substring,2,True
+zucchini,yellow zucchini,recipe_name_substring,2,True
+red pepper,pepper,single_word_component,1,False
+chicken stock,chicken,single_word_component,1,False
+orange juice,orange,single_word_component,1,False
+cayenne pepper,pepper,single_word_component,1,False
+whipping cream,cream,single_word_component,1,False
+red bell pepper,pepper,single_word_component,1,False
+beef broth,beef,single_word_component,1,False

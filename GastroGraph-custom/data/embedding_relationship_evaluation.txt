@@ -1,0 +1,84 @@
+GASTROGRAPH EMBEDDING RELATIONSHIP EVALUATION
+======================================================================
+
+EXPECTED RELATED PAIRS
+======================================================================
+
+beef <-> beef stock
+Status: OK
+Cosine: 0.997417
+Rank: 4 / 5693
+Percentile: 99.95%
+
+chicken <-> chicken breast
+Status: OK
+Cosine: 0.996006
+Rank: 354 / 5693
+Percentile: 93.80%
+
+tomato <-> tomato paste
+Status: OK
+Cosine: 0.991596
+Rank: 285 / 5693
+Percentile: 95.01%
+
+olive oil <-> extra virgin olive oil
+Status: OK
+Cosine: 0.997899
+Rank: 6 / 5693
+Percentile: 99.91%
+
+black pepper <-> pepper
+Status: OK
+Cosine: 0.998143
+Rank: 1 / 5693
+Percentile: 100.00%
+
+onion <-> yellow onion
+Status: OK
+Cosine: 0.993279
+Rank: 2 / 5693
+Percentile: 99.98%
+
+
+EXPECTED UNRELATED PAIRS
+======================================================================
+
+beef <-> bay leaf
+Status: OK
+Cosine: 0.998376
+Rank: 1 / 5693
+Percentile: 100.00%
+
+beef <-> wine vinegar
+Status: OK
+Cosine: 0.997698
+Rank: 2 / 5693
+Percentile: 99.98%
+
+chicken <-> dill seed
+Status: OK
+Cosine: 0.999727
+Rank: 2 / 5693
+Percentile: 99.98%
+
+lobster <-> tofu
+Status: OK
+Cosine: 0.999599
+Rank: 4 / 5693
+Percentile: 99.95%
+
+fish <-> broccoli
+Status: OK
+Cosine: 0.999507
+Rank: 1 / 5693
+Percentile: 100.00%
+
+
+SEPARATION
+======================================================================
+Related mean cosine: 0.995723
+Unrelated mean cosine: 0.998981
+Cosine gap: -0.003258
+Related mean rank: 108.7
+Unrelated mean rank: 2.0

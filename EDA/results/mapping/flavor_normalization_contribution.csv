@@ -1,0 +1,33 @@
+recipe_ingredient,mapped_entity,mapping_type,occurrences
+olive oil,olive,controlled_normalization,3961
+black pepper,pepper,controlled_normalization,2249
+lemon juice,lemon,controlled_normalization,1955
+purpose flour,,controlled_normalization,1819
+vanilla extract,vanilla,controlled_normalization,1131
+brown sugar,,controlled_normalization,965
+egg yolk,egg,controlled_normalization,904
+heavy cream,,controlled_normalization,763
+red onion,onion,controlled_normalization,719
+white sugar,,controlled_normalization,650
+chicken broth,chicken,controlled_normalization,552
+egg white,egg,controlled_normalization,526
+kosher salt,,controlled_normalization,504
+lemon zest,lemon,controlled_normalization,499
+tomato paste,tomato,controlled_normalization,486
+dijon mustard,mustard,controlled_normalization,473
+kalamata olive,olive,controlled_normalization,473
+chicken breast,chicken,controlled_normalization,463
+green onion,onion,controlled_normalization,423
+confectioner ' sugar,,controlled_normalization,409
+caster sugar,,controlled_normalization,405
+garlic powder,garlic,controlled_normalization,396
+sea salt,,controlled_normalization,396
+plain flour,,controlled_normalization,375
+black olive,olive,controlled_normalization,357
+red pepper,pepper,controlled_normalization,336
+chicken stock,chicken,controlled_normalization,329
+orange juice,orange,controlled_normalization,329
+cayenne pepper,pepper,controlled_normalization,323
+whipping cream,,controlled_normalization,318
+red bell pepper,pepper,controlled_normalization,309
+beef broth,beef,controlled_normalization,306

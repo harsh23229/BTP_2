@@ -1,0 +1,35 @@
+recipe_ingredient,candidate,relationship
+beef broth,beef,single_word_component
+black olive,olive,single_word_component
+black pepper,pepper,single_word_component
+brown sugar,sugar,single_word_component
+caster sugar,sugar,single_word_component
+cayenne pepper,pepper,single_word_component
+chicken breast,chicken,single_word_component
+chicken broth,chicken,single_word_component
+chicken stock,chicken,single_word_component
+confectioner ' sugar,sugar,single_word_component
+cornstarch,corn,single_word_substring
+dijon mustard,mustard,single_word_component
+egg white,egg,single_word_component
+egg yolk,egg,single_word_component
+garlic powder,garlic,single_word_component
+green onion,onion,single_word_component
+heavy cream,cream,single_word_component
+kalamata olive,olive,single_word_component
+kosher salt,salt,single_word_component
+lemon juice,lemon,single_word_component
+lemon zest,lemon,single_word_component
+olive oil,olive,single_word_component
+orange juice,orange,single_word_component
+plain flour,flour,single_word_component
+purpose flour,flour,single_word_component
+red bell pepper,pepper,single_word_component
+red onion,onion,single_word_component
+red pepper,pepper,single_word_component
+sea salt,salt,single_word_component
+tomato paste,tomato,single_word_component
+vanilla extract,vanilla,single_word_component
+whipping cream,cream,single_word_component
+white sugar,sugar,single_word_component
+worcestershire sauce,sauce,single_word_component
