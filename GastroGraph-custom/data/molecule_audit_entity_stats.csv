@@ -1,0 +1,937 @@
+entity_id,entity_name,alias_count,molecule_count,small_profile_flag,profile_signature
+1,bakery,2,6,False,32b0743d0dbef47c70a8f4c158106a9666613020
+2,bread,1,129,False,c5d075694fb108a6352a9fb53679d7be8fbbb42a
+3,bread rye,2,30,False,fb2ecb3295146ee2effd8fe08a0a47e6d954d8c8
+4,bread wheaten,5,30,False,bed990735195a81d22087c848588533e857af221
+5,bread white,2,13,False,f6c9b32d90d9d8d48af3ca7c3ec29d394b093c02
+6,bread wholewheat,2,58,False,f959ea9e4023f6e4270c3de8b2a0a95db6d5853f
+8,arak,2,5,False,6ef4fa957a429116a04e26c555ac7f900ee4130f
+10,bantu beer,8,13,False,298b5cd07eaa9158fd1dac17dfe694019baba5e0
+11,armagnac,8,50,False,0c7bb7adfa9db7e8ef00e7cb29fa0ed3504b1578
+12,anise brandy,3,51,False,063b74c9d7072208d7638893a7028d4063d7a958
+13,anise brandy,3,74,False,9b9c9c510dcb68df82ab3fffa9af02af540d6104
+14,armagnac brandy,3,51,False,063b74c9d7072208d7638893a7028d4063d7a958
+15,blackberry brandy,3,51,False,e39c16feb2be85536c3d4621adb97b7ea6f6bfbe
+16,brandy cherry,2,52,False,eff32eff47adc07eb03d46d6fbc8cc8d86116793
+17,brandy cognac,2,204,False,0c51f7642a005b18ec0e59c7cea18241f3d48a89
+18,brandy papaya,2,51,False,f6456cb8e088fe93058db091a0bc34e185ed654c
+19,brandy pear,7,64,False,c1507fdbcb321013a6b6728685f28babfac920d1
+20,asliwowica,10,75,False,3f2c927459d284c2ee9005929ac48f7a11ab8460
+21,brandy raspberry,2,52,False,08fa1d46c96a4e65dc68713a8658ddb4182370ca
+22,brandy weinbrand,2,53,False,4b1043c7f9f799d49957333a91035237c8296379
+27,canadian whisky,2,105,False,1230429dc5aaafcf860d7974a53c5ba7b1a73629
+29,japanese whisky,2,111,False,4f826c16522a18f72802a7ee930e376d6e6956b4
+30,malt whisky,2,133,False,89a507f32d7cc0bdefab1604ecaf41c3709cc522
+35,champagne,2,128,False,cc677aa5c5140b59792bb69c986cbaa4011ed078
+40,rosada,5,134,False,e440a9d828fc653b92c1cdf480551e245f6a9891
+41,sake,2,35,False,97a91e7666966dd5407309f273fcfae951e55550
+43,sparkling wine,2,142,False,9ab9215aeeda9ee0849b95ae5e6e8309bf0b0823
+44,strawberry wine,2,132,False,06aabbe82d58df1156d1e3e21774bf2ad14a807b
+47,mate,4,51,False,7692c52432b362ce872112df2b526022190ff4fa
+48,black tea,2,85,False,e078dd36ade9ee3b6636e861599da3feb457fbae
+49,green tea,2,35,False,af2027ddc1075e0d333f745d6718eafd84e80827
+50,bush tea,3,13,False,5388e160ea137759d723f7cf56dea2be164fb973
+51,barley,1,141,False,88b0d8864c4351f1977d67747240fbf6adf4a93b
+52,cracker,3,23,False,3dca0ec0afd7a232c4e80797b94034f48cb4c169
+53,malt,1,107,False,3241de95d6c5301ed1036a2aab6cff9b10dc7b7c
+54,oats,1,170,False,35a3b42cda7c2868530c105c9f7ede173c0d34f5
+57,corn oil,2,46,False,6499e65fbddb3df7e8a53615a3e539b288ed9805
+59,corn sweetcorn,5,36,False,35de503a40eef017748f7b8f5fcca85fe25c31b5
+64,camembert cheese,2,132,False,d3c703fcd09e9c4d082097433aae5d63a2e66620
+65,cheddar cheese,2,148,False,c3d2f6881f297955661f3288dc10c739c83b59d2
+67,cheese cottage,2,117,False,0e59b7b5fc0dfc4dba6af5dca8962c3949e11137
+68,cheese cream,2,116,False,9894d59f9c3ec50ed3c63ad3fb69d6825802ab86
+69,cheese domiati,4,114,False,c188b125a674699c3b7950aa7755cd2f73e5a4d2
+70,cheese emmental,5,114,False,dbbe21f9b5382abde6cd632ab363b952da2763ef
+71,cheese feta,2,116,False,697bcb0be6c8ada4315e4ebcbcd8ee0209f62642
+72,cheese goat,2,117,False,b546b4dc7b8530695fa6636453c2de2265873b31
+75,cheese mozzarella,2,120,False,ff9f42473ff28281753879e525fcc446f773042a
+76,cheese munster,3,113,False,672228fd210b56c5238d1508520c92bc079b8f2c
+78,cheese parmesan,4,165,False,34bb62213c8972234a7ba8781ac168d3dea69e6d
+80,cheese romano,2,121,False,bd3004b6bd5f42a59605cd2ad3ab9d993f7e7f50
+82,cheese russia,2,122,False,72933dd6a5406209610583fd8aa47ac45900446f
+86,dairy products,1,11,False,2671a7306ef895f449e538e01c7d06fae2cfdf48
+89,milk fat,1,28,False,de9d6cbff90c5c9f5fc968fcb84b3e149a09ddf3
+90,goat milk,2,4,False,ac6cd9948fc2dc3f8719f9261b156e29c2ad1560
+95,achillea,6,1,True,6be7996f0ee0b877cad0afc2235c193b6bdceb0b
+96,arar,2,13,False,54339940f826f05ee44fd4699ef26eac27e20110
+97,boegoe,6,27,False,d59ea9f79c5c3b802e9901aa2dd563b45e9c765e
+98,cajeput,1,6,False,31c90023d8ba4d01bc2cde0620baafad5562e18b
+99,camphor,1,13,False,51f8fece17004164adb9cc874b20fbd56ea30e9a
+100,cascarilla,1,2,True,e058fd67d76cfd321613525f2ad564af5f941fd1
+101,cedar,1,1,True,f32dcde4591ac3bc21d16d7affd28fd1ea6b4cca
+102,camomile,7,187,False,1c07be86205a8af09311769b9baab0aca2c972f8
+103,citronella,2,24,False,1d726126624c5b701c0f9470ef1ac9a8b3508c36
+105,eucalyptus,2,43,False,69785151ee6d03ab34f1152264ceb7da0f418774
+107,cranesbills,2,25,False,ff13d428b2f2ed6133a3806775e0edb1a6ccd421
+108,grapefruit peel oil,2,13,False,3dde7d1027f258540eff2d96b42e89fd3adfe7ee
+109,bluestem grass,4,2,True,fa18ca0824fcfef44b1ce29f5436ecf9837eb3f8
+111,common hyacinth,5,11,False,6e380200f58bfd5c720881396438272bed760bd6
+113,barbed wire grass,7,121,False,1ceae792141185c4fafbd1ea8acc9d1eac3c9f7c
+116,lovage,1,164,False,210ef7b63a27b4cbb4563c8c03119b609a3e4ac2
+117,mandarin orange peel oil,2,23,False,11179cc722a812649364e3d47a706bb9937ad36d
+118,arabic gum,6,49,False,935b1eb6ec44e072ccbf0247cad2759c44720406
+119,mentha oil,2,42,False,ea5ab998ae48237261b50e4bff952286020232ce
+122,bigarade orange,7,34,False,50d247668e56b20367d5547083a4df5dc56193ea
+124,clary,3,43,False,4f68cad43e18d1b46dcf4f51b254fc12e8a6fee4
+125,big sage,5,7,False,4731ec102139f9c827eb50234760cfe03d0bf928
+126,sage spanishsage,2,8,False,e80ddf38267a26d7e839fb8f8a840d42c78aeed8
+127,sandalwood,1,2,True,7025270e334ec3ef55fcb45138cc7ae161a0fda5
+128,sallowthorn,6,113,False,184fb3d4ebb179da4f6c84ef3cfe9e83f1e75dbc
+129,bison grass,8,19,False,b4b62840c39e2576dfe666d78d958134c1daacc7
+130,all heal,6,9,False,b0e8397a69181bf692ad5821936910c448398032
+131,cascalotte,18,11,False,11f65c58ff46302db6a40be3bc0640f48e949097
+132,devil s nettle,11,1,True,2c35445b2a6b84cbc849a2d89f78aefff35c6c3e
+133,ylang ylang,2,21,False,178081a7e09bc7fec006110888eeeff333aec493
+134,clam,1,61,False,4cd1c279972c8697b2b39b90aac10288ac9981c7
+135,crab,1,38,False,28ea24ceb556b2ec262544d800dd0d8e0c6618af
+136,crawfish,2,32,False,cacf973a8afc9162a046803427b6ea67726dce28
+139,clawed lobster,3,6,False,6b918b964277f93c2a30779eb3897ec633d2eb94
+142,prawn,1,1,True,886cf0485a111a109069f718d4c3455d0c747956
+143,scallop,1,41,False,afb6863fd8b3c07c84baa5e055ac88e68d14c37e
+146,shrimp pastedried,2,28,False,9b2e193545a48203e9f73c6904df801f6be113c5
+148,bonito,5,60,False,a27f3f8727f7f53b12fe5947409d384f9ce6aaa2
+149,caviar,1,26,False,e2714e499aa87b76e6fb610e1f4e48337ef470ec
+152,fatty fish,2,38,False,7e6258403e825d66acb726dd97cfd44e98baea4d
+153,fish lean,2,18,False,9df156124ee0f8209760dcc389d6e1b277811180
+156,salmon,1,6,False,ef89b2f65b8a43d940a8c39f4436212f5e04e10c
+157,artichoke,2,101,False,a0f163df8b6780a5509c85ea9cb61bf8845c27bc
+158,champaca,2,7,False,7bbdd9b20f9227990b058972b5ddf2327fe1b4c1
+159,jasmine,1,18,False,35ba64b851522da55d4ba6abfab6cea687b453b6
+160,lavendar,1,46,False,7c045181201ede2f8000f251a74b404126862035
+162,apple,1,300,False,78c72059200d32f4090961af18c7b5d04c91a07b
+163,apple sauce,1,1,True,e6e6a5e72aeb31e467b07a9a2bf6dcb2dedad6e9
+164,apricot,4,207,False,8c6618a2c834338e1ce4d25f19868c81b0376175
+165,alligator pear,4,134,False,376064fd27cf4a040cc57a49887f9f62f8ae2d01
+166,babaco,1,17,False,0aa610d343154038b7a0c71a4e4f6e485b98b247
+167,banana,1,206,False,6e2dd3378d15f541fff6bd2a9a5ff44d22941db6
+168,bael,7,3,False,a54010baa2d174312ff8ec20aaf8ee190f428e17
+169,byrsonima crassifolia,7,1,True,2973c23c64108946e8504709336e2131376d0e80
+170,cashew apple,2,7,False,a24e02d1fd533f8633d3a1d441e66c5b70971acc
+171,cherimoya,2,166,False,2ab1d9dcef854aa08d9291820ad4ba2ad19f8f0b
+173,currant,1,37,False,35eaafc800c0b10737b9642eb2c703c66f0b56b3
+174,black currant,2,213,False,5c1c981df0ab0729aff26e2e7112b06c2b3fca25
+175,currant red,2,143,False,97864adf972d310f12fd64dc6780538a28ab29d6
+176,currant white,2,37,False,35eaafc800c0b10737b9642eb2c703c66f0b56b3
+177,date palm,2,101,False,4d62abe23cbfb5fab39d1aba745350c73f897a5d
+178,durian,1,138,False,7762c70b598554e47d279006c0083c4c7401be37
+180,feijoa,4,106,False,286056cac25c3e33e1682a7f6fe1f7b0e7bb0a48
+182,grape,1,261,False,657efbb67e97d45fecda084d6756ffd5603a37e0
+183,guava,1,259,False,9e42d148a6b71811e5dd0393bdec2cc2a54a93f4
+184,ambaralla,12,102,False,dcfa078746271810b5504c9d10221efde0f2e4ab
+185,jackfruit,2,107,False,6be042b94751e66979bd50a5d6a2102e57ae6396
+188,chinese plum,6,134,False,27f78fb39a3ca3e6bcbc95a64804f2139e934e11
+189,malay apple,9,5,False,42e4e88f627a0f53ebd8861a1bb2f90b07966543
+190,mango,1,238,False,24f982c729d839df1482007e01cd11db3416d836
+193,little orange,4,110,False,f5fc1a1e37e767f27dae15d80496cdd8fc72f40e
+194,orange,1,245,False,92b8b36ab26da829c5b8b074f9ca9d7c014c89a0
+195,bigarade orange,7,22,False,7315f1872472b74881dc32cd26c91f1c26811936
+196,papaw,4,241,False,156c2046a164d03bdab516b2be18f5abd064d72f
+197,chamburo,6,54,False,21a59b035427fc66009fbbb03f3378151efe9a67
+198,passionfruit,1,227,False,94e17aa5e54988f6733aa2a2c56e45ecb93e2d19
+199,passionfruit yellow,2,40,False,1c2976a26d2cdaa3aa39475f35c649262d9e0004
+200,common pawpaw,4,25,False,f7961481ba4ca9dbd9775dbe4f7efe92f907636d
+201,nectarine,2,199,False,033f812a0415c3114a57e5634f9e45582db7feb8
+202,pear,1,149,False,b65420c927756d6d74bee61c911eebf364e53357
+203,bartlett pear,4,50,False,45b76ec0e9382fa6789c5ffffeb75f813e6b55cc
+204,pear prickly,2,128,False,23c770b82fab1cedba29a2fcf1eadf8772685a36
+206,ananas,2,220,False,10f6bad4d4692b54a26384bb519d65b4fd7e4ea6
+208,apriplums,6,24,False,78bf3fa2e0e4e5d536e12764f54c0e9309343e28
+212,currant,5,23,False,8cdfb12bae1937bfe5e702ca3c700f6f58f24778
+213,bell fruit,17,105,False,ecf80f72d9a386103d2fd3fa7ee10dfae54a4a5d
+214,sapodilla,2,106,False,a1d0d54e94f2e8b5890486ae64a836218eec2e4b
+216,muquaqua,3,20,False,70f7bb09baf26195586d16a6410a4708c1f5a308
+217,carambola,2,190,False,ee609ea018fee5e7a1200edf40f348eadc32de56
+218,tamarind,1,164,False,503735a59c50f2fe0836977e2037894737fbe06e
+219,bael,6,6,False,5a93154117107b600846f0a565bfaca95ac7241d
+221,bilberry,8,169,False,ff478370120c2f50c2cb51fcc724d295bd7a5bb0
+222,blackberry,1,150,False,214e8323d49d26ec191b3a082c05b55b47e3db59
+225,bitter berry,7,106,False,a11b85d5d6045b0a2f5958c9eb511ecb8ad1a258
+226,cherry morello,5,136,False,3a67094599cc9217e89e64487794a7746e37eb42
+227,cherry sweet,4,13,False,5ad37e35df4417ceac41e6047639326066ef120b
+228,averin,7,116,False,d3d94bbb769d0b33146b808fa7f69a0dd0e9887b
+229,cranberry,1,182,False,b14ca10dd837034940eb521ceb47499581508b3f
+231,cowberry,4,125,False,13404eacf24fb05ac98e9693c43e340a702e7f0e
+232,loganberry,1,109,False,66e3ba82ee3bbafa4f273dc07f61b4abc96859a6
+233,raspberry,1,187,False,90f22c5201c2267e72f7f461ca4debceb1fefe14
+234,strawberry,1,257,False,f48ee370fa24a2c85db2149d8abbef49ce95043e
+235,strawberry jam,1,28,False,8da48acd1dae20c62cfe477d52231ba061bd7380
+236,bergamot,1,16,False,b81d4035e5d99c8d4c31b1f1ed80ea1413d5446f
+238,grapefruit,1,165,False,151e172b74a4b3076f8592ff4aa9a5c4d85dda2d
+239,cumquat,2,129,False,27345cb2bf524d98a7d053c7e5d25c777041006d
+241,bartender s lime,8,164,False,1fabd685002f730f8fbe166603e1116474a8b5e8
+242,mandarin,5,183,False,ad6f76dc0b2d7c140f51193733b488e975c805ef
+243,cold hardy mandarin,7,5,False,c97cc90acf8357499697fa966374bcb3ee3c4edb
+244,tangerine,1,21,False,d73dcecd652754a94e0bf87a78b850a86eb485c5
+245,vanilla,1,174,False,a90c018ee292804181fe22db98b52feb1ebc8bf2
+248,angelica,2,112,False,3277ae74197cd433e8e3f65e2bd08b6e9afcad57
+249,artemisia,5,121,False,8d79742d961643e618c508eb4a3080dad92dc05a
+250,basil,2,210,False,fd2368a8dce98bfa5f17a26a8f646cfb8fe33c3f
+251,buckwheat,5,163,False,194e823df3f4233f0f0e571d34e63d5e46d63711
+252,calamus,2,31,False,ea23ac98d4667691a5e3f881cec227ad64080734
+253,chervil,4,102,False,c31f7051d9d7f92d5bacab45082fa9b853e6a0a4
+254,coriander,1,196,False,5f39bf91ec2ae8d9ce9bf3fc23bc747635aa63e7
+259,garlic,1,143,False,7589603564d1cac5d5eee271422e47bf4120ac27
+260,balm,6,177,False,643c95e3330ef0f67a1fe74a250bd15cd0bdc4cb
+263,rhubarb,1,115,False,de6a0e4fa87c4fe12342deba6ec3db663cdc7077
+264,anthos,2,207,False,c81e34c019328569cb131d5745906d6fce02434d
+265,common sage,5,159,False,f0a074c1fc6d90f1d64215ab4724d88ea2121f27
+266,common mint,7,237,False,9caa5d82e6b42f5d5559c9896974172ec0d9b91f
+267,scotch spearmint,2,36,False,a1dd1d8263b368c072900f2993e5b71d7023f609
+268,estragon,2,144,False,41238c29e7c92f3ba79386b576b8d0a4c40b9f16
+273,frankfurt sausage,3,4,False,3b46dd2b8dfd3154c23c550ffef90bce24a13e43
+274,ham,1,6,False,bc0de59859cd9fe8a2c3e960318449a3223636b9
+275,lamb,1,37,False,7772a3cf042c168b64e1e8aa32c982276f66c5a3
+276,meat,1,47,False,03f8503611e21ca073f8d077e0a9be2fec7a6c13
+278,bacon,3,157,False,55210c210ffc0220e3365152c45f4ee447386aec
+279,sukiyaki,1,10,False,0ba81f225572cac016ffe2920998af153a58ce21
+281,almond,1,130,False,165e807ddc87b5286ee6d1f5c2c4218c68447864
+282,brazil nut,2,111,False,9f7bfe6d2460e45644cb8b792b736071a6503a5d
+283,cocoa,1,294,False,22a79490fdb6c26c4156bd95db5d03bbfb91212e
+284,beans,1,178,False,2731eeeec010a3e80fde9151c24e613017651146
+285,beans limabeans,6,174,False,2c9fb0d504d3f59909a78a635f17fdcee0114cee
+286,beans redkidneybeans,13,91,False,e66da1cf83cf74f178b02f0666b4f648fd673d4f
+287,goober,4,212,False,710c3af27416b2ed892d145b62670c91a8d652ec
+288,peas,1,169,False,bcc6fad803bf53cf18ed981feffcae9cad5afa37
+289,soya bean,2,225,False,5e671c3b1fd3bfa27d1da0910f0bc334792f136f
+290,soya bean oil,2,4,False,66c36771678508c383c3c0beaef5222058d38c08
+291,soya sauce,2,19,False,8831294661788ea21d714980113f6ecd5dde4251
+292,filbert,2,100,False,6035f15e21f57ffda01f6492cd5ae95f717e7af6
+293,cobnut,4,109,False,c78d6f1cab385f158b62c488852073951f4de3bf
+294,bauple nut,8,111,False,a38b1bc708c1d1ce3bf36a8f07f8ffd1dffb7a31
+296,pecans,1,148,False,4f7f5563f3602a6a7b8c36605c600f833cc58620
+297,walnut,1,135,False,ab56a8cdef1ac654a2654ad3e1b4320cbe87be37
+298,abelmosk,11,1,True,5eacaf510fbccacfd9b3ee885644d0c9ef2464e8
+299,sesame,1,130,False,7f473064cc42435ca2462d50f9a59705333d7c8b
+300,allium,3,8,False,5454b4cad85593125d034428825137d8675b322f
+301,alpinia,3,1,True,caebf4af28bb931c2733af0a1c22a8c7f36e55e3
+302,ceriman,10,2,True,97067c2132bd4093e18a2eba7c033c0605dbb8eb
+303,blue daisy,10,112,False,69cc4d007e913b893d26f4b68c5e9a75a7ae3119
+305,bay,8,209,False,7fa62a36209ebc405be7a83fc29367751809477a
+309,sassafras,1,7,False,c6c98cf5a7aebcc95e3cf001f0aaa3d28a39ef15
+310,tea,1,391,False,71996297bb98bcef3f24cb2fca0c84320bcdf5f9
+311,dark tea,3,8,False,64fc38855fb4fe24ad5547f54ef02cf155558a13
+312,tobacco,1,46,False,24ef8692b8e0162b1ca7b316907416ce050a6b86
+313,watercress,1,105,False,a1d5ce1be3a42b64e85e437d9dedd43228e5f743
+316,macaroni,1,3,False,5549a715f8d59028414f63ab9f0d0b61b852f2a4
+317,mustard,2,2,True,cf5e5693d1c55e7080caef7c30ff146907e5b560
+318,peanut,2,9,False,9770b4c3ff2225bfb571be81e85e7e54648685f2
+319,peanut oil,2,20,False,caa43db53cf696189248a1433acd631a46ad4c03
+321,storax,4,1,True,1621076fee1bbd188c60edcf2c96642ce44114ec
+322,vinegar,1,49,False,499e9b682dd74d806acdc298f745e6b8f4dfd0c9
+323,anise,4,145,False,0569e17be6c96889f4f9ba2bb0189b8f752f36a6
+324,anise hyssop,4,9,False,746f5acdd707dd5497e6da7f6e8e3b2e87282b3b
+325,anise staranise,7,150,False,1d26e314cc6147cd189fdecd6c5372b551fb3fb6
+326,caraway,4,16,False,b4030038c972c9410694d8b464338346a66b694e
+327,cardamom,1,173,False,6a2334d74ad3d5c31256553b66ba2aa878a31cc5
+328,cassia,4,145,False,0b42ce5157b745f70dbf9f5c04dfd5b390a7b6c6
+330,cinnamon,1,183,False,b8767d46c39ffbd5163d01e15bff3b8cfd2f2ab2
+334,mace,1,21,False,cb2d8a002ca3d08b99664154b8dd96ad04da67e6
+335,knotted marjoram,6,180,False,20f10348f001f1ed10b2c6783bdcce1f9779d9cc
+337,oregano,1,193,False,c6e4a07d99ddbfff11155cfbf3fe431f5f72e55a
+338,parsley,1,167,False,9d06fae75a35d8c7686c949a789799b541e1b8d5
+340,saffron,1,127,False,25ec4a6f6069d9fe8aaf6c07d15a03bcf4a219d1
+342,beans greenbeans,6,189,False,eeda5b2e24d93ad92d3f6cac24530f92c2ef4522
+347,lady s fingers,5,121,False,8af9c9ec46d13863abb95ce951e671ce18c87775
+349,onionshallow,2,108,False,b4d853f1c33cc353839b3f3d6daa0a512b719204
+353,cabbage,1,173,False,9633c43540ca88b91c49aea04f233dc7f24ab9da
+354,cauliflower,1,125,False,f5cecdcc4be366df526af902962fb850ff80de51
+355,horseradish,1,118,False,573b752321773f8d94d5241c3e2a52351ae713f1
+356,mustard,1,134,False,917cd98b2c222bf3073a0f9acbd2a7a0a9a8c302
+357,radish,1,113,False,79837b0c3bf38d11f830e2b4ee8aff710e039e23
+359,german turnip,5,142,False,26f54b1ce070001557fa83ba27c3d6501e64a354
+360,neep,5,113,False,04b8a0a4e3ad5a708bfcb3ab77b4882295ab8964
+361,wasabi,1,100,False,da7ab985056709937169296a8686c8623af9555a
+362,capsicum,2,218,False,06aa2b7c8eb97e1ead7eff5cd1a004918b269eae
+364,tomato,1,271,False,aa8632458d4f25b34e702099c0dac394ed265aac
+365,chayote,9,96,False,950d9f5dc07ef3b05d67510a644ca980c3d1b6ab
+367,beet,8,121,False,070da62d2d0af2e9c5c6013b8dc36151cabbf7bd
+368,carrot,1,191,False,b24ec0faf2d0ae7191e9179b7afb20f77eb24d2a
+369,parsnip,1,132,False,b4e8682d40f8c6c3bb7389728484843c7524faf3
+370,sweet potato,2,104,False,cef18df916411f91ce086b6bd36347b75ada986f
+371,asparagus,2,168,False,a8ee6cb6924318e3ebb9e8fef7af5bda99ba1f23
+372,brazilian arrowroot,6,101,False,2c2f1d569ec47b0d843d3c217f92708f9e63500f
+373,potato,1,254,False,8e668c71fe8da19a81a85a3cde400916d51bd13a
+374,fried potato,2,68,False,6237bf59b635ad13be58913775f4a3af8191deca
+375,allspice,4,166,False,218f534b7cc5e914ffc985192093364306ae8158
+376,asafedity,10,37,False,06a1341772a1d8884b1623a5948ac86bcf9c84a8
+377,ash gourd,6,94,False,85887f938a511a2f535cbf0feb1103882290eea3
+378,balsam pear,15,119,False,d3321f85c45a74b0cdc79d6f49fbce46effe67dd
+379,bottle gourd,9,114,False,89f639065c88e6f39c9bf9287b2cbd7d966a1676
+380,canola,2,153,False,cf43dd8a13c7d15cb94c360995de0098d3be1c01
+381,ajowan,7,155,False,e35c49b481d838513e51c7f4e94a43167638b67d
+382,chard,1,100,False,8e90450564af140c858c774d090a2626301216c3
+383,apple cider vinegar,2,16,False,8eebca500ee977dafa84363c283096c55a796cfe
+384,colocasia,1,59,False,2eb63297c3fe0c85b7d1dd950d5c8994f906e968
+385,curry leaf,3,31,False,771c2db94a839132b157751c40ff163b5f8ab9c0
+386,drumstick,3,84,False,95688b6637925601cf05c7dd17dd868515d63068
+387,aubergine,4,132,False,dbf2b0a3a1583ba75037cb913a19d164496bdfae
+388,flaxseed,1,132,False,9071e6ad2fc751653d399bcc0ab3c7eae0d40e33
+389,cuaresmeno,5,1,True,ddba5d107a08cbf8e6391bd5aae592697e77c962
+390,ambaadi,13,52,False,bda56d6bc85f5af94ed3ec630035e7550bb03f19
+392,black caraway,9,30,False,4c891c09964825d274b2b556624ae2c66d724277
+393,kewda,4,18,False,b6c96c97d97273abe933ccdc0be38576849e1ba4
+394,pomegranate,1,128,False,01767839186b1cdee92c60a5c6a3036be3d41489
+396,palak,2,137,False,a01ad47ef2b7faf1fae2e2e39f153a31e7329368
+397,kudanekayi,11,38,False,81e388568cfc612256cfc38ef403e0e7a18ccb94
+398,bat nut,13,101,False,cd57f060f0192df87eaebe36bcbffff44ca352f0
+400,garcinia indica,3,6,False,5af065adcc13b551302e503250b9967695006c35
+401,beans,7,12,False,1c5fb9668abd25dc7fcbe331086f584d0b0a5397
+402,chhena,2,29,False,7e22d1c93b0c57bca0416b65c2d4ab6b1d532db1
+403,arhar,8,99,False,b7f864c7d22ae6f41fc5a06d804d6b31f19c87ef
+404,basmati rice,2,30,False,d8bc15036a20becdd9f5f24216fde8c5d05b8e23
+405,cheese ricotta,2,42,False,b5c78e5d5ce85d4aeb4c311c7d67436a1aad700c
+410,lemon beebrush,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+411,cashew nut,1,106,False,b22634d9f5bc04b5ebb4822b8132e87e625e8307
+412,beggar s buttons,9,104,False,60d5c1d669c5a19bc7fe9d354bb43132d5ea74df
+413,borage,2,95,False,5565c2001d090922d8415208df6cf15e025f7831
+414,capers,2,99,False,ae7f5dd5564358d190743515b2aa1ae8ab7be99e
+415,safflower,1,138,False,813fa89ee5939d7d775fb7ffc0ec6261601c8456
+417,bengal gram,6,103,False,5952668fd31833e9a1443c4c334a4698bcee14dd
+418,batabi,10,111,False,111f1b45ae6b754939b1452771ef7af0a2cd0b0d
+419,arabica coffee,1,11,False,7f0c5e07e796605d6805548c28a5022694dd5245
+421,diospyros kaki,2,100,False,5cddab9983e5c2da4739e1f0200058da167a6c09
+422,black crowberry,3,93,False,589963e34bd5b5e6fdfd367b8cac699fac95a55b
+423,arugula,11,119,False,f5560b0de8da56f4ca3fb67f1beda318ed93f8c4
+424,bitter buckwheat,8,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+425,black huckleberry,1,93,False,589963e34bd5b5e6fdfd367b8cac699fac95a55b
+426,helianthus,2,140,False,49a72e8baab46ec956c3c55802be43904e3cedaf
+427,river spinach,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+428,blue sweet pea,8,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+430,cress,8,103,False,9f4acea907b0dff0e771de32f2b19e05b0acba95
+431,mexican oregano,6,97,False,36f4ef7ba1230705336507f8f91ab32e497a1fea
+432,chocho,5,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+433,common medlar,2,98,False,2ec3a17e4d8a645e435156676961ac2675059fee
+435,black mulberry,1,94,False,2fe23a48cd60fa653f10aff740562756270ee4bc
+438,multiflora bean,5,93,False,9769615925b3f1506ca4dd72a329fd01d5d16729
+439,pistachio,1,103,False,4b00b23c7dea1e8f071fa37e5517cd242e667087
+440,purslane,1,95,False,7945536ed5350c1e4dab6751373d18bfc996305d
+441,european raspberry,2,123,False,55239cdf49cbbf6058bde54e8069e33a359c7adb
+442,black cap raspberry,7,95,False,d74878a24d3ae329c56154beb6a39ed7edc04644
+443,common sorrel,6,96,False,54f92497e6ff3642e575b0c699475ae529653fe7
+444,summer savory,1,122,False,1ff3b739eb1bf9f43e6816945689bfab6780cd3e
+445,winter savory,1,138,False,4ea13860dbb35952c196b03996c3adf017d7e2ec
+446,cherry tomato,1,94,False,4777824de9ec3ab64d86a012b95bf2f7ef7812a2
+447,amur mountain ash,9,94,False,ed79d5b7894e243b9f95485d743a2b215ea6dd86
+448,durra,6,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+449,common dandelion,2,102,False,6bff9c8406f51c38e6556a0972d5051ae67abe16
+451,littleleaf linden,5,93,False,619515e53c8582480f2e8b12bd10427cdc1c3119
+452,bread wheat,4,112,False,8ff35a42bb9e2c3c0dde4bd6d504bc3af49f5486
+453,farkleberry,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+454,common verbena,3,93,False,0154f5a17a461c72601cfabb163fcbaeb8f226a8
+455,aduki,5,97,False,4cf1df82a634653eeaba7a6c249bb11a146fe6f5
+456,black gram,7,95,False,b16216afc319881e09756762122aee384dbff2f7
+457,green gram,5,100,False,f86faf9c0c4d67269f9f0e922c0695070279dcfd
+458,climbing bean,4,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+459,muscadine,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+460,bay rum tree,6,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+462,canada blueberry,6,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+463,buffalo currant,5,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+464,buckberry,7,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+466,longan,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+467,capsicum baccatum,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+468,capsicum chinese,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+469,rambutan,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+470,brownbeard rice,4,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+471,annual wild rice,5,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+472,bunching onion,7,94,False,59c6e69bcca34e2de81af0f07439e4de6c583851
+473,durum wheat,5,94,False,aa30eb8be80869a744cfe6741bade24b8a932e28
+474,triticale,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+475,japanese mustard spinach,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+476,bok choy,2,96,False,e222fd9d27eb4d56c3ff25040f58911451f691ea
+477,jostaberry,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+478,chinese broccoli,4,93,False,589963e34bd5b5e6fdfd367b8cac699fac95a55b
+480,pineappple sage,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+481,skunk currant,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+482,breakfast cereal,1,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+484,pasta,1,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+487,distilled beverage,6,10,False,e1361c5d8415680556e728049a80e6f79ab55f1a
+488,beverage alcolohic other,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+489,abalone,8,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+490,abiyuch,4,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+491,acerola,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+492,acorn,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+493,winter squash,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+494,agar,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+495,alaskan king crab,5,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+496,alfalfa,2,97,False,80afad1c4e465a08b6d9601f0850b45d1db55996
+497,amaranth,2,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+498,arrowhead,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+499,ararao,9,95,False,a9eb7fda92be7b1eddcdfba4b4ea7c723d31f8b8
+500,atlantic herring,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+501,atlantic mackerel,6,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+502,painted comber,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+503,atlantic pollock,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+504,atlantic catfish,9,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+505,bamboo shoots,2,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+506,atlantic striped bass,7,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+507,beaver,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+509,beluga,6,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+511,black bear,1,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+512,alaska blackfish,1,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+513,giant bluefin tuna,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+514,anchoa,8,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+515,eurasian wild pig,4,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+516,arctic whale,7,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+517,breadfruit,1,94,False,59c6e69bcca34e2de81af0f07439e4de6c583851
+518,breadnut,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+519,broccoli raab,4,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+520,brown bear,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+521,buffalo,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+522,bubbot,10,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+523,butterbur,5,95,False,0d62559abf9bdbfe1f3e8a79bd75f97fe64593b3
+524,american butterfish,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+525,butternut,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+526,butternut pumpkin,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+527,artichoke thistle,2,94,False,4b93fa4a34f67af662c80505d699284bc3f3e16b
+528,caribou,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+529,large num num,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+530,carob,5,98,False,68bc833cfb7b8b20818cf19f476c74c3806f0e22
+531,common carp,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+532,channel cat,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+533,chia,1,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+535,chop suey green,8,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+537,basket cockle,5,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+539,common cornsalad,10,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+541,catjang,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+542,mooseberry,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+543,atlantic croaker,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+544,brismak,7,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+547,devilfish,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+549,common dolphinfish,6,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+550,aplodinotus grunniens,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+551,mallard,4,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+552,freshwater eel,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+553,elk,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+555,eppaw,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+556,european anchovy,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+557,european chestnut,2,94,False,59c6e69bcca34e2de81af0f07439e4de6c583851
+559,fireweed,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+560,florida pompano,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+562,greylag goose,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+563,greenland halibut,3,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+564,cape gooseberry,6,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+566,haddock,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+567,common halibut,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+569,australian pea,10,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+570,carrageen moss,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+571,californian jack mackerel,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+572,japanese chestnut,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+573,earth apple,6,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+574,chinese date,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+576,kale,2,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+577,king mackerel,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+578,fat hen,6,95,False,8309a7d016b70efdc8907ac7637ff4cd19b490c2
+579,black chiton,5,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+580,common ling,4,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+581,buffalo cod,5,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+583,buffalo spinach,8,94,False,59c6e69bcca34e2de81af0f07439e4de6c583851
+584,mamey,8,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+585,mangosteen,2,95,False,74935ab42ffd2936146c6da9c04acf549460db32
+586,alpine sweetvetch,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+588,fishing frogs,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+590,dew bean,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+591,chinese yam,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+592,black mullet,10,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+593,muskrat,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+594,botany bay spinach,8,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+595,nopal,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+596,ocean pout,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+597,giant pacific octopus,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+602,larga seal,4,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+603,pacific herring,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+604,pacific rockfish,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+606,american persimmon,7,98,False,436196869c3cda617d7cac09953e1f1d6085e8c3
+607,common pheasant,2,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+610,colorado pinyon,5,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+611,brazilian cherry,6,95,False,597820820ec8b5f4aaf9795afcf4a3b908f2931f
+612,french plantain,1,105,False,aff0c6b0a6a2b8bad2257f658a9a3fd05cee965c
+613,american pokeweed,2,95,False,a91e04e45e1c59e90f1cac34cfa2c8b4bd7af3cc
+614,polar bear,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+615,breadroot,8,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+616,quinoa,1,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+617,common rabbit,2,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+618,common raccoon,6,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+619,rainbow smelt,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+620,rainbow trout,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+621,champakka,5,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+622,rose haw,4,97,False,a5a3c3120cc00bd9971473aeb35cd7d74a63b17e
+624,deep sea perch,5,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+625,beshow,12,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+626,humpback salmon,2,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+627,chum salmon,5,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+628,coho salmon,4,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+629,blueback salmon,5,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+630,chinook salmon,6,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+631,atlantic salmon,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+632,salmonberry,1,94,False,aa30eb8be80869a744cfe6741bade24b8a932e28
+633,common salsify,6,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+634,seerfishes,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+635,australian pilchard s s neopilchardus,7,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+637,giant california sea cucumber,2,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+638,northern sea lion,4,1,True,5472187b2cb31deadea22ccab1dfa5b255366ad7
+639,bearded seal,2,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+640,jar seal,5,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+641,morpha trutta,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+642,sesbania flower,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+643,american shad,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+644,shark,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+645,connie,5,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+646,sheepshead,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+647,hedge mustard,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+648,snapper,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+649,dinkel wheat,4,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+650,spirulina,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+651,squab,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+653,greater sturgeon,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+654,bay fish,7,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+657,taro,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+658,annual bunch grass,4,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+660,mexican groundcherry,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+662,salmonidae,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+663,pickerel,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+664,alaska pollock,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+667,broad whitefish,1,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+670,canada rice,5,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+671,diamondleaf willow,5,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+672,dragon bean,7,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+673,yam,1,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+674,jicama,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+675,arrowleaf elephant ear,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+676,ahi,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+677,great amberjack,6,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+679,albacore tuna,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+680,atlantic halibut,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+682,freshwater smelts,4,2,True,00c885a19149aaa2f9f7557fbf1c274e718c57fa
+683,clupeinae,5,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+684,langouste,5,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+685,black eyed bean,4,94,False,68afb1d8b439eced5d68309174853ba79417189d
+690,rabbit,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+691,american hybrid,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+693,bivalvia,4,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+694,flatfish,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+695,walrus,1,1,True,54164c3db2c5171b138c809d3cbe7a6637c31cbf
+696,alaska wild rhubarb,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+697,kamut,3,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+698,asparagus bean,9,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+699,great horned owl,4,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+700,quail,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+702,rowal,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+703,jelly ear,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+704,shiitake,1,101,False,9889694247c047dbf54cf114ce7503fd206fe027
+705,purple laver,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+706,wakame,1,94,False,302805b48f71da7a666ab062c10eed1201e3ca12
+707,enoki,4,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+708,epazote,7,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+709,abalone mushrooms,4,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+710,black chinese fungus or mushroom,8,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+711,hen of the woods,5,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+712,fiddlehead fern,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+713,norfolk spot,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+714,arctic dock,2,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+715,apple gourd,7,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+716,atlantic menhaden,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+717,agave,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+718,lesser bulrush,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+720,anchovy,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+722,bream,6,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+723,chanterelle,2,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+725,char,2,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+726,common dab,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+727,mud shark,5,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+728,anatidae,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+729,anguilliformes,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+731,garfish,2,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+732,anacanthini,2,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+733,alpine hare,9,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+734,grey trout,7,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+737,scombridae,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+738,atlantic redfish,8,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+739,norway pout,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+740,oil palm,1,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+741,sago palm,2,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+744,pleuronectidae,2,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+745,ptarmigan,4,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+746,pacific ocean perch,6,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+747,black oyster plant,8,94,False,2e3d2e0ac122b4b028131df7652f8a632d52b141
+748,crawling seals,4,2,True,734901eadfc3629e80782c521b854b808741da0a
+749,red algae,2,94,False,2e3d2e0ac122b4b028131df7652f8a632d52b141
+751,snail,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+753,catfish,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+755,common tuna,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+756,cetacea,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+757,columbidae,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+762,vodka,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+763,ice cream,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+765,madeira wine,1,2,True,734901eadfc3629e80782c521b854b808741da0a
+766,nougat,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+768,cake,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+769,pizza,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+771,other snack food,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+772,pastry,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+773,drag e,1,2,True,734901eadfc3629e80782c521b854b808741da0a
+775,marzipan,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+776,salad dressing,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+777,sauce,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+778,salt,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+780,cream,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+781,sugar,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+782,sausage,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+783,meatball,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+784,pate,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+785,sugar substitute,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+786,meat bouillon,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+787,other meat product,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+789,casein,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+791,leavening agent,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+792,marshmallow,1,3,False,ff137819d4e2d0e568528e0b90133e4090e5c970
+793,gelatin,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+794,water,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+796,milk human,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+805,remoulade,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+806,chocolate spread,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+814,cocoa butter,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+815,cocoa powder,1,11,False,d056463d23942db31f827afb2db798b831f9aab3
+817,chocolate,1,13,False,7b774dde031cce2606abdf1475a01f768e1bc563
+818,hot chocolate,1,15,False,6c906b99cf887a78ca87ceabd19a76a0a1d24be5
+824,zwieback,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+826,cichlidae,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+828,snack bar,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+829,black turtle,4,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+832,hamburger,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+834,taco,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+835,tortilla,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+836,nachos,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+837,salad,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+841,sweet custard,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+843,arecaceae,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+845,potato chip,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+846,tortilla chip,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+848,hibiscus tea,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+850,gelatin dessert,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+852,falafel,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+853,frybread,1,2,True,00c885a19149aaa2f9f7557fbf1c274e718c57fa
+855,lasagna,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+856,morchella,1,2,True,00c885a19149aaa2f9f7557fbf1c274e718c57fa
+857,pancake,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+860,waffle,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+862,meatloaf,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+863,cocktail,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+867,coffee mocha,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+868,chimichanga,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+869,semolina,1,5,False,1e5abf447d090f6e157b5ba6aef7186e6a87c1f7
+870,tapioca pearl,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+871,tostada,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+872,quesadilla,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+873,baked potato,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+875,spread,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+876,enchilada,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+878,nutritional drink,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+879,other sandwich,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+881,breakfast sandwich,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+882,adobo,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+883,macaroni and cheese,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+889,fruit salad,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+891,vegetarian food,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+895,baba u,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+896,cupua u,1,95,False,1aae337c40c7dab66cb0c23932c44ccb34e17626
+897,shea tree,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+898,oil seed camellia,4,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+899,baboonwood,4,94,False,cd9d765fc62aaa2cad738723e540377896e2d85c
+906,soy cream,1,1,True,5472187b2cb31deadea22ccab1dfa5b255366ad7
+907,ice cream cone,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+908,black treacle,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+909,chacunga,10,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+911,natto,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+912,ravioli,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+913,scrapple,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+914,other pasta dish,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+915,succotash,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+916,tamale,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+917,rice cake,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+919,evaporated milk,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+921,akutaq,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+923,pita bread,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+924,focaccia,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+925,bagel,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+926,other bread product,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+927,piki bread,1,2,True,00c885a19149aaa2f9f7557fbf1c274e718c57fa
+928,french toast,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+929,oat bread,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+930,potato bread,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+931,cornbread,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+933,multigrain bread,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+934,rice bread,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+935,pan dulce,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+936,raisin bread,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+937,wonton wrapper,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+938,trail mix,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+939,greenthread tea,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+941,vegetable juice,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+942,horchata,2,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+944,milkshake,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+945,chocolate mousse,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+947,pupusa,1,3,False,186446d3956235c4fd4e728f9468e3c02f624d9c
+948,empanada,1,2,True,00c885a19149aaa2f9f7557fbf1c274e718c57fa
+949,arepa,1,3,False,186446d3956235c4fd4e728f9468e3c02f624d9c
+950,ascidians,3,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+952,brandy bottle,2,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+959,candy bar,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+961,margarine,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+962,margarine like spread,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+964,potato puffs,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+965,potato gratin,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+967,chinese bayberry,10,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+970,alder leaf shadbush,9,94,False,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77
+971,ando cherry,10,94,False,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77
+972,japanese pumpkin,3,100,False,0b53aac1507b1a58707919934f5ecc5dcefcda04
+977,guinea fowl,5,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+978,cucurbita,1,102,False,d45e60ecf6620b3b793fafdbe2cd8ee1cd623b9e
+9,beer,1,263,False,2c7f062dfbae046a6d6de8bcb1f76e7e8bf302b1
+26,bourbon whisky,2,114,False,7b38845874af69ea93f3af2f7052362397cd7449
+33,bilberry wine,2,130,False,12111e5366fa79d01017b6e10cba5ee8e6be0a55
+34,botrytized wine,2,133,False,bd5aaa2ff2f0191e5bf4e0fa4843950fd6e62139
+60,butter,3,131,False,8a70a62ecefeec06629eae05362aac7af1614ad1
+61,buttermilk,1,16,False,8a7c583ba65645efba446b6d58c1f793bee68c6f
+63,blue cheese,2,155,False,300d9d58ab08bf6b9334bee64707792c7ea509e6
+74,cheese limburger,2,116,False,b484707380eda029e7769ddc55dda543fe44894e
+179,elder,2,153,False,cb886628f103120b47ab27f6ad6f12f731b2f01d
+186,chinese gooseberry,4,147,False,3d65d16603bee9dba597a80ae5c4b474c976e19e
+205,pepino,2,7,False,b5645c255ff75fa88f54a8d7611e4325243290a5
+220,berry,1,39,False,e6f09f785a2e5b13ad3947aacc717a8dab8abfa2
+223,blueberry,2,152,False,97a8130e8b783d5aa72ca21aaaf29aed21563f6c
+230,gooseberry,1,138,False,9b9e03bbe5be02c6c6cbab55df13ab57f0ea99a6
+270,beef,1,92,False,9b4066fca6d043d7dce6a72ee3004d5dec88578d
+271,beef processed,2,209,False,cf0e62db50c3c79b12fa33be305041eca36c4915
+348,bulb onion,2,180,False,60316e0ff81daa5d9def05e429813f4e8575c3dc
+351,broccoli,1,130,False,11f6517445cdd814ff2cb5bff55a9c115eaedf7a
+352,breussels sprout,3,115,False,cb4bcca139302a6d7f1446673d2fba13ea3fa000
+366,cucumber,1,134,False,f39094cdbdb0c9d0e02c25b2c69ce50de8634667
+434,mulberry,1,93,False,a9d3298d769263fa10a42ce4a9482c0c5e081965
+461,elliott s blueberry,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+485,biscuit,1,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+508,beech nut,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+510,bison,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+558,turbot,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+598,ohelo berry,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+701,boysenberry,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+721,blue whiting,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+750,kombu,1,94,False,2e3d2e0ac122b4b028131df7652f8a632d52b141
+759,berry wine,3,4,False,6764391dfa526d1850509ce85331480f63830028
+831,burrito,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+865,bulgur,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+953,fish burger,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+31,scotch,3,123,False,000908f5305e29a11c436d69c5505e827cea5202
+36,cider,2,87,False,d78aa2b834ed89ccc076c565580350704bf83889
+46,coffee,1,269,False,d112f63c636d631eb237feeec53670e33fa3c38b
+55,rice,1,199,False,a212bb753a644b939f669ed1fa209db0e48e4011
+56,corn,1,200,False,3a0319523b8e7da30d0b76257a136fb29d267dd1
+58,corn popcorn,2,37,False,e469362ac422ccc1772a4d6cf3c5b615615af39a
+62,cheese,1,117,False,7993404d79be287825f5282caf44082fd1b741cb
+66,cheese comte,2,126,False,20d6ab9d091acd1ec4e4e996928cb271766896c1
+73,cheese gruyere,2,146,False,b70866b343eba7c4ab903db1f3bd3fbe7cab29c8
+77,cheese other,2,128,False,fda1ed1558909a865b7ffbf9cf4cdaf60c916a13
+79,cheese provolone,2,125,False,54f2b34638a7f350c5f656fffa990623ba943ca3
+81,cheese roquefort,2,114,False,e980904adb30278d163c388c2dfe97bad788a87a
+83,cheese sheep,2,116,False,975e252904d04d096658bf8b5d7291df369fc6a2
+84,cheese swiss,2,140,False,36bb6a572b9a1af8196f4849893de402eb3b537e
+85,cheese tilsit,2,114,False,659e403243250e973435d07ef57e9342182d7ec7
+94,curd,2,31,False,3ee82a60190f1a41a82f635fd8f74c74f95c4ba7
+104,citrus fruitpeeloil,2,57,False,c4cabe6935f48b1dfa084eeeb01593c3a4671807
+140,mollusc,1,20,False,7d61e0a5bbf66339d2765586d21926e0fbc5494f
+150,codfish,1,7,False,e5e66b0a0d80fe965bdd0f3ca52480d1c2a4654f
+172,coconut,1,161,False,48bd2ddbd584a2da88c655f3dfa12cfd53b345bb
+187,liche,7,120,False,34d93401058e16036df6d75c620da236c9df7104
+210,quince,1,147,False,15b51429b70b6a761d1adcbac84f544e47848bd8
+211,chinese quince,2,45,False,148b761e268fb3bad294718ddc7de9dfe32be864
+224,cherry,1,114,False,938382fad2ae8303ee05e21949b161c75448908a
+237,citrus,2,42,False,e16e65e5979bb6cff0de456c5c78796687537207
+255,cornmint,4,155,False,072868bb709aba45d218c7793a3fcefc85a48d4e
+261,licorice,3,42,False,de67158008d659072349231b4e6a6e9f66fb6fc7
+272,chicken,1,131,False,b8e339efa4e5fda6b4174a29f77e961b4b1be0b0
+314,creosote,1,7,False,b309b8ef10297b0dc5c7e3661db457a6f3db5e43
+329,celery,1,217,False,87c7d495b3b14cfefa00b9f8a5f8143f41c2c88c
+331,clove,1,177,False,44201ce93ed9ff3bf4a9fa1250a60b5c1830cdc9
+332,cumin,1,149,False,b124e4822a5c56e8f5a555a57874174e0d48620a
+341,turmeric,1,130,False,d48372a55a9144d69407f4cb41e85d4d4a280f79
+343,chive,1,126,False,195aa24fa698bc73ce3692eb3d904fb2eaf23513
+346,lettuce,1,140,False,fbaa7c6a14e5687908fee922dc68c9828571fff5
+363,cherry pepper,4,12,False,9618169da8e8dc645cfed63e91d41a386d88893f
+416,chestnut,1,99,False,fd4abfdb46d103f67746f0eec40af97adf49d284
+450,common linden,3,109,False,e8da9170ddb9d1b1ee842e7de3af5601d685c78b
+534,chinese chestnut,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+536,cisco,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+538,common octopus,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+540,cotton seed,2,112,False,310d694b3dd148a262ad168a199c9689e86036ca
+545,cuttlefish,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+548,dock,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+601,common ostrich,2,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+636,porgy,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+655,common sunfish,9,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+678,pollock,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+687,percoidei,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+688,perciformes,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+736,lumpfish,2,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+743,pike perch,2,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+758,conch,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+774,chewing gum,1,3,False,ff137819d4e2d0e568528e0b90133e4090e5c970
+795,other fish product,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+827,icing,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+833,chili,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+839,dulce de leche,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+847,corn chip,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+858,pectin,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+864,couscous,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+880,ketchup,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+886,fruit juice,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+893,cold cut,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+901,cooking oil,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+902,pie crust,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+932,corn grits,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+960,condensed milk,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+968,courgette,2,107,False,aafb426f2cd49389a8293da570401944f5f25f05
+969,yellow zucchini,1,103,False,41ba9762f3d7ea06aabdf3fddc1c6882346bf3d2
+38,port wine,3,142,False,4cd174539c9f99923895a8020e08a701970458a4
+39,red wine,2,167,False,1e34b72890c99de4d5259174b171813341f94b4d
+91,milk powder,1,24,False,373e3a83f0c736e44df04a11f6d5dc46cdb0c921
+93,milk skimmed,2,5,False,cc8c3fd199149b7dc74f30b04475a14aea328b1a
+147,squid,1,22,False,36090e9b90415f962fc51e292202f26e0125c44c
+155,fish smoked,2,15,False,047b86ac9abd867bd32f60572f59d4ebd1fd1fc6
+256,dill,1,200,False,8cf29978ce88c72adb7777fe5fc3e89bf064c8ae
+344,endive,1,118,False,0fd2194d46f9e4be56872611d5e1d42bcbdbdbd2
+358,swedish turnip,4,104,False,2c6cd85999ddcf25e0972657b4a6a56fe117e73c
+395,poppy,2,131,False,4b588f62594001335e3167ad4a29f8ca76cbe89a
+408,silver lime,2,94,False,9fe006d17eaa15a7fd566246c9f5aef37c8af639
+409,redskin onion,1,98,False,c5a02d7d2a72283940468e1a4b6787248cc0be79
+486,sourdough,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+546,mule deer,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+582,field lupine,2,94,False,0173d121c2fce7244a156a33aa231e0c9c8a8579
+656,swordfish,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+659,golden tile,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+661,towel gourd,1,94,False,a81ec82d515469278c87ba941cc902a80a847ef1
+686,deer,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+799,dumpling,1,2,True,734901eadfc3629e80782c521b854b808741da0a
+821,other fermented milk,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+830,energy drink,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+854,other frozen dessert,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+859,pudding,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+874,hot dog,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+884,horned melon,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+894,mixed nuts,1,94,False,6f7fa9e7acf8a5431245b5e78866effb9131e41f
+900,phyllo dough,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+943,soft drink,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+954,other dish,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+958,fudge,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+0,egg,1,55,False,8c51b4a29804eee00f1136190790f3a9bac1f31c
+32,wine,1,155,False,77bd54f0e47aa3644f46d9e7ab8255fa20c69442
+37,plum wine,2,129,False,eb56cad442bc4b534a1f8b1bb3bed9dbe2b2a211
+42,sherry,2,184,False,3482254d71fc6ee6a3b34c2d0ef51fe89eb51a6d
+45,white wine,2,225,False,5c6d60a289788e1961ceae0babfeff36e10b7e5a
+87,ghee,1,1,True,83c94ca49b075fc182d5e3c8162a291e3a30ff0f
+92,milk sheep,2,3,False,efe0bc81f61d1b02fdd55e7f56c47f57148fe141
+114,lemon,2,36,False,049f7100c89cfc75785e5a29efd8f8100c7843ff
+115,lime,2,16,False,d56b768c999dc28614617248f0f32f2ce3026706
+121,neroli oil,2,15,False,602c48a2f981b2612b456e5b07a0a3e20079c98b
+137,kelp,1,104,False,e9ce41f764d32fc3c06af08a22fee9cfd62168c0
+141,oyster,1,29,False,9718f124ef19710e3c2d21da0f4c2dcf969b7f5a
+144,shellfish,1,2,True,84b9e8ef19a254bfcf93e39c868c6a7e02962347
+161,rose,1,14,False,5dca607f285435b35c17f2f32dbf83c19b3d1d7b
+191,melon,1,207,False,3298c2097433cc342def4384e7859a5d2bccc485
+192,melon muskmelon,2,129,False,2ef78be9bfa4a57567f85818d975a5be56f012ec
+240,lemon,1,193,False,446a722d7be6da828c134c37c076a417d204ee69
+247,truffle,1,20,False,939d7555a4b136d976a9d7b86bd880867a1d31ff
+257,fennel,1,147,False,956f81c43b7d8c5260bdc4dbfaf203207d685216
+258,fenugreek,1,123,False,89bf457c5542d6d8b105390c0304e0552e99d29c
+269,thyme,1,174,False,c786392cc000e05ddaf69a3915dcc253f58482b4
+280,turkey,1,17,False,ddd89d0a47ab4bccbbde67cded144e3fff976750
+306,myrtle,1,30,False,105dbedcd97b838bdec125e07a851ecd9b20716b
+307,olive,1,155,False,7111f2c12ec0d642c85ca2ecb3871654c0a201aa
+308,pine,1,120,False,f29f23d6be36a8e02ab3a3552343756073701641
+315,honey,1,60,False,18a7676a4a7190f4939e7f7840b5e571041415e8
+320,rye,2,100,False,31cac817d69cc8ba6b6ad8a2c90fa9b780bece1b
+333,ginger,1,251,False,95eca7f6583040a17b83c1e86c1d10865df190a1
+336,nutmeg,1,170,False,8460296afd307921ea57ec2663888d554e776b9b
+339,pepper,1,223,False,f6aa1d5476744c72ed525612116ae3e50c5aa053
+345,leek,1,128,False,2c839022221bb490aed7ce28b004b34db20aeafc
+350,peppermint,1,227,False,7143703b42bd0a98b1347fee8c7b35ae59278b58
+399,pepper whitepepper,2,18,False,f4d46d397f2468db61d29e2e9688bc615b9b03f7
+429,lentils,1,103,False,308ac5dee4ebdf593bfd1189648909baec5156e6
+436,evening primrose,1,93,False,589963e34bd5b5e6fdfd367b8cac699fac95a55b
+437,millet,1,95,False,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4
+465,ginseng,1,92,False,65e7e60dd08692b4a0d4b336068e74bff53227f1
+554,emu,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+565,grouper,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+568,horse,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+575,jute,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+589,moose,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+608,northern pike,2,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+623,roselle,1,114,False,cff2fb9616f7172e696e3e851c9e2a1d9014f306
+652,squirrel,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+665,whelk,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+668,whitefish,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+669,merling,2,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+719,jellies,2,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+724,sturgeon,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+730,true frog,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+735,lemon sole,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+742,persimmon,2,94,False,2e3d2e0ac122b4b028131df7652f8a632d52b141
+752,true sole,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+754,thistle,1,94,False,2e3d2e0ac122b4b028131df7652f8a632d52b141
+764,vermouth,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+767,toffee,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+770,ymer,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+788,whey,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+790,fruit preserve,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3
+810,meringue,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+820,kefir,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+825,roe,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+842,egg roll,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+849,stew,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+851,junket,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+887,relish,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+904,pie,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+905,shortening,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+918,tree fern,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+951,gefilte fish,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+955,pot pie,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+28,finnish whisky,2,112,False,318303f498739e1cbeb23ab9ca785b971708c171
+106,fir,1,2,True,f2fa5a3950962b4e4d1cd7f0aabdd8215d0fb237
+151,fish,1,47,False,b273a881d4994e4e36edd639ab132f8a485a820a
+154,fish oil,1,23,False,a2ba6e583ba8db56a848e1089824233b1c667737
+181,fig,1,168,False,aa336e8f58c668abe1c06c30a17a440c537d2c1d
+587,milkfish,1,2,True,98d55babc12e38baaf60bb257bbeebacd76da9fa
+807,fruit gum,1,3,False,8d7e72b972ba72b55fb575b4ca917dc8d98769fc
+823,tofu,1,9,False,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b
+920,flour,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+956,stuffing,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+23,gin,1,17,False,3b03522a5ee7820e77bab9fb5cc6636f571c3957
+561,gingko,4,117,False,0e9b304617eaed65ba696f07bcd94304512d7e1a
+840,topping,1,4,False,aa99c0e837da87f925a343cfe1c5292538c034eb
+890,soy yogurt,1,6,False,4f07a96b662d4cba5d9a628ef77d4028355b53e7
+25,whisky,1,108,False,ceec72661fd476fba09d1b61b2b09b13afc61cdd
+110,hops oil,1,108,False,985705cc6a2c274bd03b4233535090204d8a2c00
+112,hyssop oil,2,162,False,08dee2f3c999bb8ad1ad633383ed3a456354b406
+120,myrrh,1,3,False,6562b02602fbeb7d40033764f2d323b33210b738
+145,shrimp,1,76,False,e7e79799a9735dfbc679da5dff592a238d27be66
+246,mushroom,1,227,False,202e21c19c658a9faac6546fb4c6da84f1e824f2
+304,hops,1,16,False,d7184b38fcf631811a0a0dd3943fe558ce54436c
+885,hushpuppy,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+963,hummus,1,3,False,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa
+88,milk,1,111,False,22c94004f055919e53cbb08ea2f3017dcfa37941
+123,orris,1,10,False,edf182760f46f1230022fa6dd5050d04b58fc573
+138,krill,1,22,False,4f7012d3dc465572ec7d1ce031817cd717945a7a
+209,pumpkin,1,106,False,c917457d843da6e7d3b0a24e952daca20bb0f9c8
+262,mint,1,162,False,f63251c9cd1e0ff77da4f90a3ae1c98390d68592
+609,pili nut,1,93,False,92576d14edb61ed51c40ad23385b541f73c4fdd0
+822,miso,1,8,False,d85db05a09220c2c3f6dddba36952c18f6be71d5
+861,soy milk,1,9,False,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b
+207,plum,1,189,False,f33427134dfafe3512ed6f0ed442f29e884e5319
+391,lotus,1,170,False,69d07703e0f8d393029fda20d7f3b0618ee3eee4
+24,rum,1,195,False,57bd7ba2476b7e79d062da8ae38fe2a5d90b648b
+277,mutton,1,47,False,78248a7dfb501d1c99803fed5edf12835e4ba321
+600,opossum,1,3,False,1f218a05b6f5f1f17e9f285a8956fac660c1830b
+295,nuts,1,7,False,8705220521446bd76479fd461dae3a375a27d6d0
+7,wort,1,63,False,b0e66a5c378d5461383146c92538497a41494348
+215,soursop,1,118,False,82af6c521efb413654c1697d60ec6a0d8912ca06
+800,soup,1,5,False,a47f48cd462756b4a64c9e090818b284f87aad5e
+803,syrup,1,4,False,831ade573357cd11e8f29d78edb7618560d935d3

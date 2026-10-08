@@ -1,0 +1,977 @@
+profile_group_id,profile_signature,molecule_count_in_profile,pubchem_id,common_name,iupac_name,odor,taste,functional_groups,flavor_profile,fema_flavor_profile,fooddb_flavor_profile,molecular_weight,xlogp,heavy_atom_count
+1,98d55babc12e38baaf60bb257bbeebacd76da9fa,2,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+1,98d55babc12e38baaf60bb257bbeebacd76da9fa,2,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,454,Octanal,octanal,,,,,,,128.215,2.7,9
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,798,indole,1H-indole,,,,,,,117.151,2.1,9
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+2,92576d14edb61ed51c40ad23385b541f73c4fdd0,93,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+3,aa99c0e837da87f925a343cfe1c5292538c034eb,4,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+3,aa99c0e837da87f925a343cfe1c5292538c034eb,4,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+3,aa99c0e837da87f925a343cfe1c5292538c034eb,4,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+3,aa99c0e837da87f925a343cfe1c5292538c034eb,4,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+4,8d7e72b972ba72b55fb575b4ca917dc8d98769fc,3,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+4,8d7e72b972ba72b55fb575b4ca917dc8d98769fc,3,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+4,8d7e72b972ba72b55fb575b4ca917dc8d98769fc,3,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+5,831ade573357cd11e8f29d78edb7618560d935d3,4,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+5,831ade573357cd11e8f29d78edb7618560d935d3,4,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+5,831ade573357cd11e8f29d78edb7618560d935d3,4,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+5,831ade573357cd11e8f29d78edb7618560d935d3,4,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+6,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa,3,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+6,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa,3,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+6,a69022eac1ecfccdb0ca58fd84fffd2c0f4454aa,3,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,454,Octanal,octanal,,,,,,,128.215,2.7,9
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,798,indole,1H-indole,,,,,,,117.151,2.1,9
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+7,65e7e60dd08692b4a0d4b336068e74bff53227f1,92,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+8,a47f48cd462756b4a64c9e090818b284f87aad5e,5,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+8,a47f48cd462756b4a64c9e090818b284f87aad5e,5,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+8,a47f48cd462756b4a64c9e090818b284f87aad5e,5,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+8,a47f48cd462756b4a64c9e090818b284f87aad5e,5,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+8,a47f48cd462756b4a64c9e090818b284f87aad5e,5,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+9,1f218a05b6f5f1f17e9f285a8956fac660c1830b,3,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+9,1f218a05b6f5f1f17e9f285a8956fac660c1830b,3,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+9,1f218a05b6f5f1f17e9f285a8956fac660c1830b,3,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,454,Octanal,octanal,,,,,,,128.215,2.7,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,798,indole,1H-indole,,,,,,,117.151,2.1,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+10,6f7fa9e7acf8a5431245b5e78866effb9131e41f,94,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,454,Octanal,octanal,,,,,,,128.215,2.7,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,798,indole,1H-indole,,,,,,,117.151,2.1,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+11,b1d6cbc6646459616fa9cbdf6d61d4d6867278a4,95,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+12,54164c3db2c5171b138c809d3cbe7a6637c31cbf,1,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,454,Octanal,octanal,,,,,,,128.215,2.7,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,798,indole,1H-indole,,,,,,,117.151,2.1,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+13,2e3d2e0ac122b4b028131df7652f8a632d52b141,94,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+14,00c885a19149aaa2f9f7557fbf1c274e718c57fa,2,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+14,00c885a19149aaa2f9f7557fbf1c274e718c57fa,2,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,454,Octanal,octanal,,,,,,,128.215,2.7,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,798,indole,1H-indole,,,,,,,117.151,2.1,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5280343,quercetin,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",,,,,,,302.238,1.5,22
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+15,59c6e69bcca34e2de81af0f07439e4de6c583851,94,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,454,Octanal,octanal,,,,,,,128.215,2.7,9
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,798,indole,1H-indole,,,,,,,117.151,2.1,9
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5280343,quercetin,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",,,,,,,302.238,1.5,22
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+16,589963e34bd5b5e6fdfd367b8cac699fac95a55b,93,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+17,734901eadfc3629e80782c521b854b808741da0a,2,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+17,734901eadfc3629e80782c521b854b808741da0a,2,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,454,Octanal,octanal,,,,,,,128.215,2.7,9
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,798,indole,1H-indole,,,,,,,117.151,2.1,9
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,8468,Vanillic acid,4-hydroxy-3-methoxybenzoic acid,,,,,,,168.148,1.4,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+18,aa30eb8be80869a744cfe6741bade24b8a932e28,94,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,72,"3,4-Dihydroxybenzoic Acid","3,4-dihydroxybenzoic acid",,,,,,,154.121,1.1,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,107,3-Phenylpropanoic acid,3-phenylpropanoic acid,,,,,,,150.177,1.8,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,180,acetone,propan-2-one,,,,,,,58.08,-0.1,4
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,240,benzaldehyde,benzaldehyde,,,,,,,106.124,1.5,8
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,244,benzyl alcohol,phenylmethanol,,,,,,,108.14,1.1,8
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,323,coumarin,chromen-2-one,,,,,,,146.145,1.4,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,338,salicylic acid,2-hydroxybenzoic acid,,,,,,,138.122,2.3,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,454,Octanal,octanal,,,,,,,128.215,2.7,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,527,Propionaldehyde,propanal,,,,,,,58.08,0.6,4
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,650,"2,3-butanedione","butane-2,3-dione",,,,,,,86.09,-1.3,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,768,hydrogen cyanide,formonitrile,,,,,,,27.026,0.1,2
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,784,hydrogen peroxide,hydrogen peroxide,,,,,,,34.014,-0.9,2
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,798,indole,1H-indole,,,,,,,117.151,2.1,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,802,indole-3-acetic acid,2-(1H-indol-3-yl)acetic acid,,,,,,,175.187,1.4,13
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,876,Dl-Methionine,2-amino-4-methylsulfanylbutanoic acid,,,,,,,149.208,-1.9,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,878,methanethiol,methanethiol,,,,,,,48.103,0.5,2
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,994,Dl-Phenylalanine,2-amino-3-phenylpropanoic acid,,,,,,,165.192,-1.5,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,998,phenylacetaldehyde,2-phenylacetaldehyde,,,,,,,120.151,1.8,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,999,Phenylacetic Acid,2-phenylacetic acid,,,,,,,136.15,1.4,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,1110,succinic acid,butanedioic acid,,,,,,,118.088,-0.6,8
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,1183,vanillin,4-hydroxy-3-methoxybenzaldehyde,,,,,,,152.149,1.2,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,1889,DL-Liquiritigenin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,256.257,2.2,19
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,2345,Benzyl Benzoate,benzyl benzoate,,,,,,,212.248,4.0,16
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,4788,phloretin,"3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",,,,,,,274.272,2.6,20
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6050,Tributyrin,"2,3-di(butanoyloxy)propyl butanoate",,,,,,,302.367,2.4,21
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6072,Phlorizin,"1-[2,4-dihydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-3-(4-hydroxyphenyl)propan-1-one",,,,,,,436.413,1.2,31
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6184,Hexanal,hexanal,,,,,,,100.161,1.8,7
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6251,D-mannitol,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",,,,,,,182.172,-3.1,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6569,2-Butanone,butan-2-one,,,,,,,72.107,0.3,5
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,6986,2-Isopropyl-5-methylcyclohexanone,5-methyl-2-propan-2-ylcyclohexan-1-one,,,,,,,154.253,2.7,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,7150,Methyl Benzoate,methyl benzoate,,,,,,,136.15,2.1,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,7284,2-Methylbutyraldehyde,2-methylbutanal,,,,,,,86.134,1.1,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,7288,3-Pentanone,pentan-3-one,,,,,,,86.134,0.9,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,7847,Acrolein,prop-2-enal,,,,,,,56.064,0.0,4
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,7858,Allyl Alcohol,prop-2-en-1-ol,,,,,,,58.08,0.2,4
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,8130,Heptanal,heptanal,,,,,,,114.188,2.3,8
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,8452,Cyclopentanone,cyclopentanone,,,,,,,84.118,0.4,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,8723,2-Methyl-1-Butanol,2-methylbutan-1-ol,,,,,,,88.15,1.2,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,8768,"3,4-Dihydroxybenzaldehyde","3,4-dihydroxybenzaldehyde",,,,,,,138.122,1.3,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,8857,Ethyl Acetate,ethyl acetate,,,,,,,88.106,0.7,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,9862,6-Methyl-5-Hepten-2-One,6-methylhept-5-en-2-one,,,,,,,126.199,1.9,9
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,10393,2-(4-Hydroxyphenyl)ethanol,4-(2-hydroxyethyl)phenol,,,,,,,138.166,0.4,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,10448,3-methylthiopropanol,3-methylsulfanylpropan-1-ol,,,,,,,106.183,0.5,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,11128,Linamarin,"2-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropanenitrile",,,,,,,247.247,-1.8,17
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,11509,3-Hexanone,hexan-3-one,,,,,,,100.161,1.2,7
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,11552,3-Methylbutanal,3-methylbutanal,,,,,,,86.134,1.0,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,13144,calcium lactate,calcium;2-hydroxypropanoate,,,,,,,218.218,,13
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,15394,Ethyl Vinyl Ketone,pent-1-en-3-one,,,,,,,84.118,1.0,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,18635,3-(Methylthio)propionaldehyde,3-methylsulfanylpropanal,,,,,,,104.167,0.3,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,26447,Menthone,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",,,,,,,154.253,2.7,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,31260,3-Methyl-1-butanol,3-methylbutan-1-ol,,,,,,,88.15,1.2,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,33931,2-Ethyl-4-hydroxy-5-methyl-3(2H)-furanone,2-ethyl-4-hydroxy-5-methylfuran-3-one,,,,,,,142.154,1.2,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,61503,D-Lactic acid,(2R)-2-hydroxypropanoic acid,,,,,,,90.078,-0.7,6
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,79803,1-Pyrroline,"3,4-dihydro-2H-pyrrole",,,,,,,69.107,-0.3,5
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,89594,nicotine,3-[(2S)-1-methylpyrrolidin-2-yl]pyridine,,,,,,,162.236,1.2,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,439246,naringenin,"(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",,,,,,,272.256,2.4,20
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,439263,(+)-Neomenthol,"(1S,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",,,,,,,156.269,3.0,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,439341,alpha-Maltose,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",,,,,,,342.297,-4.7,23
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,439533,Taxifolin,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one",,,,,,,304.254,1.5,22
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,441005,(+)-delta-Cadinene,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",,,,,,,204.357,3.8,15
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,441484,alpha-L-Sorbopyranose,"(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",,,,,,,180.156,-2.8,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,444539,Cinnamic Acid,(E)-3-phenylprop-2-enoic acid,,,,,,,148.161,2.1,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,445070,farnesol,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",,,,,,,222.372,4.8,16
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,637511,cinnamaldehyde,(E)-3-phenylprop-2-enal,,,,,,,132.162,1.9,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,637542,p-coumaric acid,(E)-3-(4-hydroxyphenyl)prop-2-enoic acid,,,,,,,164.16,1.5,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,637566,Geraniol,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,637775,Sinapic Acid,"(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",,,,,,,224.212,1.5,16
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,638011,Citral,"(2E)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,638278,isoliquiritigenin,"(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one",,,,,,,256.257,3.2,19
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,643779,Neral,"(2Z)-3,7-dimethylocta-2,6-dienal",,,,,,,152.237,3.0,11
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,643941,cis-3-Hexenal,(Z)-hex-3-enal,,,,,,,98.145,1.1,7
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,853433,Isoeugenol,2-methoxy-4-[(E)-prop-1-enyl]phenol,,,,,,,164.204,2.6,12
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,1549026,Geranyl Acetate,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",,,,,,,196.29,3.5,14
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5280443,apigenin,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,270.24,1.7,20
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5280445,luteolin,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",,,,,,,286.239,1.4,21
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5280511,(Z)-cinnamyl alcohol,(Z)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5280598,Farnesal,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienal",,,,,,,220.356,4.9,16
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5280863,kaempferol,"3,5,7-trihydroxy-2-(4-hydroxyphenyl)chromen-4-one",,,,,,,286.239,1.9,21
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5284503,trans-3-Hexen-1-ol,(E)-hex-3-en-1-ol,,,,,,,100.161,1.3,7
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5315892,cinnamyl alcohol,(E)-3-phenylprop-2-en-1-ol,,,,,,,134.178,1.9,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5365811,4-Hexen-3-One,(E)-hex-4-en-3-one,,,,,,,98.145,1.2,7
+19,27704fa5b5ad1dee1df874a2f22fd6ae21bfdc77,94,5367719,Methyl jasmonate,methyl 2-[3-oxo-2-[(E)-pent-2-enyl]cyclopentyl]acetate,,,,,,,224.3,1.9,16
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,126,4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,,,,,,,122.123,1.4,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,263,1-butanol,butan-1-ol,,,,,,,74.123,0.9,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,326,4-isopropylbenzaldehyde,4-propan-2-ylbenzaldehyde,,,,,,,148.205,2.7,11
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,379,octanoic acid,octanoic acid,,,,,,,144.214,3.0,10
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,460,guaiacol,2-methoxyphenol,,,,,,,124.139,1.3,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,957,1-octanol,octan-1-ol,,,,,,,130.231,3.0,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,1031,1-propanol,propan-1-ol,,,,,,,60.096,0.3,4
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,1049,Pyridine,pyridine,,,,,,,79.102,0.7,6
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,1136,4-Methyl-5-Thiazoleethanol,"2-(4-methyl-1,3-thiazol-5-yl)ethanol",,,,,,,143.204,0.8,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,6054,2-Phenylethanol,2-phenylethanol,,,,,,,122.167,1.4,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,6560,2-Methyl-1-propanol,2-methylpropan-1-ol,,,,,,,74.123,0.8,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,6584,Methyl Acetate,methyl acetate,,,,,,,74.079,0.2,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7344,Ethyl Lactate,ethyl 2-hydroxypropanoate,,,,,,,118.132,0.2,8
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7361,Furfuryl Alcohol,furan-2-ylmethanol,,,,,,,98.101,0.3,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7362,2-Furaldehyde,furan-2-carbaldehyde,,,,,,,96.085,0.4,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7711,2-Phenylethyl formate,2-phenylethyl formate,,,,,,,150.177,2.1,11
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7749,Ethyl Propionate,ethyl propanoate,,,,,,,102.133,1.2,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7762,Ethyl Butyrate,ethyl butanoate,,,,,,,116.16,1.3,8
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7797,Ethyl Heptanoate,ethyl heptanoate,,,,,,,158.241,2.9,11
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,7800,Ethyl dodecanoate,ethyl dodecanoate,,,,,,,228.376,5.6,16
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8025,Ethyl Formate,ethyl formate,,,,,,,74.079,0.5,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8038,Isobutyl Acetate,2-methylpropyl acetate,,,,,,,116.16,1.8,8
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8051,2-Heptanone,heptan-2-one,,,,,,,114.188,2.0,8
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8073,Propyl Formate,propyl formate,,,,,,,88.106,0.8,6
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8091,Methyl octanoate,methyl octanoate,,,,,,,158.241,3.6,11
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8103,1-Hexanol,hexan-1-ol,,,,,,,102.177,2.0,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8468,Vanillic acid,4-hydroxy-3-methoxybenzoic acid,,,,,,,168.148,1.4,12
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,8892,Hexanoic Acid,hexanoic acid,,,,,,,116.16,1.9,8
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,9256,Thiazole,"1,3-thiazole",,,,,,,85.124,0.4,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,9589,3-Acetylpyridine,1-pyridin-3-ylethanone,,,,,,,121.139,0.4,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,10430,Isovaleric Acid,3-methylbutanoic acid,,,,,,,102.133,1.2,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,10976,2-Heptanol,heptan-2-ol,,,,,,,116.204,2.3,8
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,11508,3-Methyl-1-Pentanol,3-methylpentan-1-ol,,,,,,,102.177,1.8,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,11902,Methyl 2-furoate,methyl furan-2-carboxylate,,,,,,,126.111,1.0,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,12327,Ethyl Undecanoate,ethyl undecanoate,,,,,,,214.349,5.1,15
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,14286,2-Acetylpyridine,1-pyridin-2-ylethanone,,,,,,,121.139,0.9,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,19310,Dimethyl trisulfide,(methyltrisulfanyl)methane,,,,,,,126.25,1.3,5
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,20653,2-Methylhexanoic Acid,2-methylhexanoic acid,,,,,,,130.187,2.3,9
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,31265,Ethyl caproate,ethyl hexanoate,,,,,,,144.214,2.4,10
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,61386,Isoamyl laurate,3-methylbutyl dodecanoate,,,,,,,270.457,7.0,19
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,61814,"2,4-Dimethylbenzaldehyde","2,4-dimethylbenzaldehyde",,,,,,,134.178,2.5,10
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,62465,4-Ethyl-2-methoxyphenol,4-ethyl-2-methoxyphenol,,,,,,,152.193,1.7,11
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,637758,Ethyl Cinnamate,ethyl (E)-3-phenylprop-2-enoate,,,,,,,176.215,3.0,13
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,643820,nerol,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,5318042,trans-2-Hexen-1-Ol,(E)-hex-2-en-1-ol,,,,,,,100.161,1.4,7
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,5363388,cis-3-Hexenyl acetate,[(Z)-hex-3-enyl] acetate,,,,,,,142.198,1.9,10
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,5364231,cis-3-Hexenyl lactate,[(Z)-hex-3-enyl] 2-hydroxypropanoate,,,,,,,172.224,1.6,12
+20,063b74c9d7072208d7638893a7028d4063d7a958,51,5364399,Ethyl 2-octenoate,ethyl (E)-oct-2-enoate,,,,,,,170.252,3.4,12
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,1032,propionic acid,propanoic acid,,,,,,,74.079,0.3,5
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,6560,2-Methyl-1-propanol,2-methylpropan-1-ol,,,,,,,74.123,0.8,5
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,6561,Isobutyraldehyde,2-methylpropanal,,,,,,,72.107,0.8,5
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,6590,Isobutyric Acid,2-methylpropanoic acid,,,,,,,88.106,0.8,6
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,6654,Alpha-Pinene,"4,6,6-trimethylbicyclo[3.1.1]hept-3-ene",,,,,,,136.238,2.8,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,7165,Ethyl Benzoate,ethyl benzoate,,,,,,,150.177,2.6,11
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,7462,Alpha-Terpinene,"1-methyl-4-propan-2-ylcyclohexa-1,3-diene",,,,,,,136.238,2.8,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,7501,Styrene,styrene,,,,,,,104.152,2.9,8
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,7654,Phenethyl acetate,2-phenylethyl acetate,,,,,,,164.204,2.3,12
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,7695,4-Methoxybenzyl acetate,(4-methoxyphenyl)methyl acetate,,,,,,,180.203,1.9,13
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,7710,gamma-Nonanolactone,5-pentyloxolan-2-one,,,,,,,156.225,2.2,11
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,8038,Isobutyl Acetate,2-methylpropyl acetate,,,,,,,116.16,1.8,8
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,8129,1-Heptanol,heptan-1-ol,,,,,,,116.204,2.7,8
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,8163,2-Undecanone,undecan-2-one,,,,,,,170.296,4.1,12
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,8365,Ethyl salicylate,ethyl 2-hydroxybenzoate,,,,,,,166.176,3.0,12
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,8892,Hexanoic Acid,hexanoic acid,,,,,,,116.16,1.9,8
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,8914,1-Nonanol,nonan-1-ol,,,,,,,144.258,4.3,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,10430,Isovaleric Acid,3-methylbutanoic acid,,,,,,,102.133,1.2,7
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,10797,2-Methylfuran,2-methylfuran,,,,,,,82.102,1.8,6
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,11173,3-Methyl-2-Buten-1-Ol,3-methylbut-2-en-1-ol,,,,,,,86.134,1.0,6
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,12257,Isopropyl Formate,propan-2-yl formate,,,,,,,88.106,0.9,6
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,12508,Isopropyl Propionate,propan-2-yl propanoate,,,,,,,116.16,1.4,8
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,12777,delta-Octanolactone,6-propyloxan-2-one,,,,,,,142.198,1.9,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,14529,2-(4-methylphenyl)propan-2-ol,2-(4-methylphenyl)propan-2-ol,,,,,,,150.221,2.0,11
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,14896,Beta-Pinene,"6,6-dimethyl-4-methylidenebicyclo[3.1.1]heptane",,,,,,,136.238,3.1,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,18827,1-Octen-3-Ol,oct-1-en-3-ol,,,,,,,128.215,2.6,9
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,19602,2-Pentylfuran,2-pentylfuran,,,,,,,138.21,3.7,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,31276,Isoamyl Acetate,3-methylbutyl acetate,,,,,,,130.187,2.0,9
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,31289,Nonanal,nonanal,,,,,,,142.242,3.3,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,61020,3-Methyl-2-butenal,3-methylbut-2-enal,,,,,,,84.118,1.2,6
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,61054,4-Methoxybenzyl formate,(4-methoxyphenyl)methyl formate,,,,,,,166.176,1.7,12
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,170833,Isopulegol,"(1R,2S,5R)-5-methyl-2-prop-1-en-2-ylcyclohexan-1-ol",,,,,,,154.253,3.0,11
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,246728,3-Octanone,octan-3-one,,,,,,,128.215,2.3,9
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,519382,Dihydro-beta-ionone,"4-(2,6,6-trimethylcyclohexen-1-yl)butan-2-one",,,,,,,194.318,2.7,14
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,643820,nerol,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",,,,,,,154.253,2.9,11
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,5281553,Ocimene,"(3E)-3,7-dimethylocta-1,3,6-triene",,,,,,,136.238,4.3,10
+21,35eaafc800c0b10737b9642eb2c703c66f0b56b3,37,5284507,Nerolidol,"(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-ol",,,,,,,222.372,4.6,16
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,107971,Daidzin,"3-(4-hydroxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,416.382,0.7,30
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,5281707,Coumestrol,"3,9-dihydroxy-[1]benzofuro[3,2-c]chromen-6-one",,,,,,,268.224,2.8,20
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,5281708,daidzein,7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,,,,,,,254.241,2.5,19
+22,58798e21d478f25ea4efbe6a1a8a2a2d42dc115b,9,5284639,NSC5112,"5-hydroxy-3-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",,,,,,,432.381,0.9,31
+23,ff137819d4e2d0e568528e0b90133e4090e5c970,3,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+23,ff137819d4e2d0e568528e0b90133e4090e5c970,3,6202,Thiamine Hydrochloride,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride",,,,,,,337.263,,20
+23,ff137819d4e2d0e568528e0b90133e4090e5c970,3,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12
+24,186446d3956235c4fd4e728f9468e3c02f624d9c,3,247,betaine,2-(trimethylazaniumyl)acetate,,,,,,,117.148,0.5,8
+24,186446d3956235c4fd4e728f9468e3c02f624d9c,3,1130,thiamine,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",,,,,,,265.355,1.0,18
+24,186446d3956235c4fd4e728f9468e3c02f624d9c,3,8094,Heptanoic Acid,heptanoic acid,,,,,,,130.187,2.5,9
+25,5472187b2cb31deadea22ccab1dfa5b255366ad7,1,644104,CID 644104,"(2S)-2-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxyfuran-3-one",,,,,,,176.124,-1.8,12

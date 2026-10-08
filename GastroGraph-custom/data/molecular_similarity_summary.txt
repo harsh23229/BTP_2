@@ -1,0 +1,38 @@
+FLAVORDB MOLECULAR SIMILARITY
+======================================================================
+
+Primary molecular similarity metric:
+IDF-weighted Jaccard similarity
+
+Formula:
+sum(IDF(shared molecules)) / sum(IDF(union molecules))
+
+This is a molecular-profile similarity feature.
+It is NOT a standalone substitution score.
+
+PAIRWISE DATA
+----------------------------------------------------------------------
+Pairs                       : 360,743
+Unique entities             : 934
+Low-evidence pairs         : 76,492
+Identical-profile pairs    : 10,873
+
+MOLECULAR SIMILARITY DISTRIBUTION
+----------------------------------------------------------------------
+Minimum                     : 0.000792
+25th percentile            : 0.013414
+Median                      : 0.033156
+Mean                        : 0.206589
+75th percentile            : 0.333990
+Maximum                     : 1.000000
+Pairs with similarity = 0  : 0
+Pairs with similarity = 1  : 10,873
+
+INTERPRETATION
+----------------------------------------------------------------------
+IDF weighting reduces the influence of molecules that occur in many FlavorDB entities.
+Low-evidence profiles are retained and flagged rather than silently discarded.
+Identical molecular profiles are retained and flagged.
+A molecular similarity of 1 does not imply that two ingredients are valid substitutes.
+
+The later substitution model should combine this feature with graph/context compatibility, carbon impact, nutrition preservation, and constraints.
