@@ -1,0 +1,30 @@
+CARBON IMPACT EVIDENCE SUMMARY
+====================================
+Carbon input: /Users/harshgupta/Coding/BTP_2/dataset/processed/SustainableFoodDB_CarbonFootprints.csv
+Candidate-pair input: /Users/harshgupta/Coding/BTP_2/GastroGraph-custom/data/embedding_nearest_neighbors.csv
+Candidate pairs: 230
+Pairs with both carbon values: 122
+Pairs missing at least one carbon value: 108
+Pairs with both mappings passing project threshold: 68
+Pairs with raw score available (for review only): 122
+Pairs with recommended carbon_impact_score populated: 68
+Pairs requiring mapping review: 54
+Normalized ingredient-name collisions excluded from lookup: 1
+
+SCORE:
+carbon_impact_score = (CF_A - CF_B) / max(CF_A, CF_B)
+Positive: B has a lower recorded footprint; zero: equal; negative: B is higher.
+The recommended score is withheld unless both mappings pass the project review threshold.
+
+LIMITATIONS:
+1. Nearest neighbors are exploratory candidates, not validated substitutes.
+2. Mapping threshold 0.85 is a project review rule, not an official dataset cutoff.
+3. Carbon-footprint unit/reference basis is not confirmed from the CSV columns alone.
+4. The current graph embedding diagnostics warn of potential embedding collapse.
+5. A carbon score measures environmental evidence only, not culinary or nutritional suitability.
+
+OUTPUTS:
+carbon_ingredient_lookup.csv
+carbon_impact_evidence.csv
+carbon_impact_unmatched_pairs.csv
+carbon_impact_summary.txt
