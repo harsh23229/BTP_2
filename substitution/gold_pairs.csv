@@ -1,0 +1,71 @@
+query,acceptable,confidence
+butter,margarine;ghee;shortening,strong
+margarine,butter;shortening,strong
+shortening,butter;margarine,strong
+lime juice,lemon juice,strong
+lemon juice,lime juice,strong
+lemon,lime,strong
+lime,lemon,strong
+beef,pork;lamb,strong
+pork,beef;lamb;ham,strong
+lamb,beef;pork,strong
+chicken breast,turkey;chicken thigh,strong
+chicken thigh,chicken breast;turkey,strong
+turkey,chicken;chicken breast,strong
+bacon,ham;pork,strong
+cilantro,parsley,borderline
+olive oil,vegetable oil;canola oil;peanut oil,strong
+vegetable oil,canola oil;olive oil;peanut oil,strong
+canola oil,vegetable oil;olive oil;peanut oil,strong
+brown sugar,sugar;maple syrup,strong
+sugar,honey;maple syrup;brown sugar,strong
+honey,maple syrup;sugar;molasses,strong
+maple syrup,honey;molasses;brown sugar,strong
+milk,buttermilk;cream;coconut milk;yogurt,strong
+buttermilk,milk;yogurt,strong
+cream,milk;coconut milk;yogurt,borderline
+cheddar cheese,monterey jack cheese;swiss cheese;mozzarella cheese,strong
+mozzarella cheese,monterey jack cheese;swiss cheese;cheddar cheese,strong
+feta cheese,ricotta cheese;cottage cheese,borderline
+cottage cheese,ricotta cheese,strong
+ricotta cheese,cottage cheese;cream cheese,strong
+cream cheese,ricotta cheese;cottage cheese,borderline
+shallot,onion;green onion;leek,strong
+leek,onion;shallot;green onion,strong
+green onion,chive;shallot;leek;onion,strong
+onion,shallot;leek;green onion,strong
+thyme,oregano;rosemary;sage;marjoram,borderline
+oregano,thyme;marjoram;basil,borderline
+rosemary,thyme;sage,borderline
+basil,oregano;parsley;thyme,borderline
+balsamic vinegar,red wine vinegar;cider vinegar,strong
+cider vinegar,white vinegar;red wine vinegar,strong
+white vinegar,cider vinegar;lemon juice;lime juice,strong
+black bean,kidney bean;pinto bean,strong
+kidney bean,black bean;pinto bean,strong
+pinto bean,black bean;kidney bean,strong
+white rice,brown rice,strong
+brown rice,white rice,strong
+walnut,pecan;almond,strong
+almond,walnut;pecan,strong
+pecan,walnut;almond,strong
+red bell pepper,green bell pepper,strong
+jalapeno,green chilies;red chilies,strong
+chicken broth,chicken stock;vegetable broth;beef broth,strong
+beef broth,beef stock;chicken broth;vegetable broth,strong
+tomato sauce,tomato puree;tomato paste;spaghetti sauce,borderline
+tomato paste,tomato puree;tomato sauce,strong
+black pepper,white pepper,strong
+cayenne pepper,chili powder;paprika,borderline
+paprika,chili powder;cayenne pepper,borderline
+cinnamon,nutmeg;allspice,borderline
+nutmeg,allspice;cinnamon;clove,borderline
+cumin,coriander seed;caraway seed;chili powder,borderline
+corn tortilla,flour tortilla,strong
+flour tortilla,corn tortilla,strong
+bread,french bread;breadcrumb,strong
+french bread,bread,strong
+potato,red potato,strong
+red potato,potato,strong
+flour,wheat flour;self raising flour,strong
+cornstarch,flour;wheat flour,borderline

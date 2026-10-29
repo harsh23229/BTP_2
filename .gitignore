@@ -15,3 +15,9 @@ dataset/raw/
 RecipeDB_full
 
 x_proposal/
+# USDA reference data (re-downloadable)
+dataset/external/
+# big regenerable outputs
+EDA/results/nutrient_audit/row_level_flags.csv.gz
+substitution/outputs/recipes_cache.pkl
+__pycache__/

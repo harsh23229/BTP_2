@@ -1,0 +1,57 @@
+GOLD-SET EVALUATION
+========================================================================
+queries scored: 70  (skipped: 0 with an untrusted name)
+embeddings: used
+
+ALL pairs | family gate OFF | pool = trusted ingredients
+                         Hit@1  Hit@3  Hit@5  Hit@10   MRR     n
+context only              0.11   0.29   0.36    0.56  0.26  70.0
+flavour only              0.13   0.21   0.31    0.34  0.20  70.0
+context + flavour         0.13   0.30   0.44    0.61  0.27  70.0
+embedding only            0.00   0.11   0.14    0.34  0.10  70.0
+context + embedding       0.09   0.23   0.31    0.53  0.21  70.0
+all three (our ranking)   0.11   0.29   0.36    0.49  0.25  70.0
+random baseline           0.01   0.03   0.06    0.11  0.05  70.0
+
+ALL pairs | family gate ON  | pool = trusted ingredients of the same job family
+                         Hit@1  Hit@3  Hit@5  Hit@10   MRR     n
+context only              0.47   0.77   0.90    0.97  0.65  70.0
+flavour only              0.23   0.36   0.41    0.46  0.30  70.0
+context + flavour         0.40   0.80   0.89    0.99  0.61  70.0
+embedding only            0.37   0.64   0.77    0.91  0.54  70.0
+context + embedding       0.44   0.69   0.87    0.97  0.60  70.0
+all three (our ranking)   0.37   0.67   0.86    0.96  0.56  70.0
+random baseline           0.22   0.50   0.65    0.81  0.41  70.0
+
+STRONG pairs only | family gate OFF | pool = trusted ingredients
+                         Hit@1  Hit@3  Hit@5  Hit@10   MRR     n
+context only              0.11   0.27   0.31    0.51  0.25  55.0
+flavour only              0.09   0.16   0.25    0.29  0.15  55.0
+context + flavour         0.13   0.27   0.42    0.56  0.26  55.0
+embedding only            0.00   0.15   0.16    0.35  0.11  55.0
+context + embedding       0.11   0.20   0.29    0.53  0.22  55.0
+all three (our ranking)   0.13   0.27   0.33    0.45  0.24  55.0
+random baseline           0.01   0.03   0.06    0.11  0.05  55.0
+
+STRONG pairs only | family gate ON  | pool = trusted ingredients of the same job family
+                         Hit@1  Hit@3  Hit@5  Hit@10   MRR     n
+context only              0.44   0.78   0.91    0.96  0.63  55.0
+flavour only              0.22   0.35   0.38    0.44  0.28  55.0
+context + flavour         0.36   0.84   0.87    0.98  0.60  55.0
+embedding only            0.40   0.65   0.76    0.91  0.56  55.0
+context + embedding       0.40   0.67   0.85    0.96  0.57  55.0
+all three (our ranking)   0.35   0.65   0.84    0.95  0.54  55.0
+random baseline           0.23   0.54   0.70    0.85  0.43  55.0
+
+Queries where the flavour judge HAS evidence (n=33) | family gate ON
+                         Hit@1  Hit@3  Hit@5  Hit@10   MRR     n
+context only              0.45   0.70   0.88    0.94  0.62  33.0
+flavour only              0.48   0.76   0.88    0.97  0.63  33.0
+context + flavour         0.30   0.76   0.85    0.97  0.53  33.0
+embedding only            0.30   0.58   0.73    0.91  0.49  33.0
+context + embedding       0.48   0.70   0.85    0.94  0.62  33.0
+all three (our ranking)   0.33   0.64   0.85    0.94  0.53  33.0
+random baseline           0.20   0.45   0.63    0.82  0.39  33.0
+
+queries whose acceptable answer is excluded by the family gate: 0 []
+flavour judge produced an answer rank for 33 of 70 queries (others lack molecule data for the query or for every acceptable answer)

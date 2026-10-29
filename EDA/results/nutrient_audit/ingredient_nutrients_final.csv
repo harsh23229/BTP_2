@@ -1,0 +1,766 @@
+ingredient_name,protein_100g,carbs_100g,fat_100g,kcal_100g,source,tier,usda_description,recipe_rows
+garlic clove,6.36,33.06,0.5,149.0,usda,trusted,"Garlic, raw",25633
+garlic,6.36,33.06,0.5,149.0,usda,trusted,"Garlic, raw",15876
+onion,1.1,9.34,0.1,40.0,usda,trusted,"Onions, raw",35449
+red onion,1.1,9.34,0.1,40.0,usda,trusted,"Onions, raw",4600
+white onion,1.1,9.34,0.1,40.0,usda,trusted,"Onions, raw",1534
+yellow onion,1.1,9.34,0.1,40.0,usda,trusted,"Onions, raw",2265
+green onion,1.83,7.34,0.19,32.0,usda,trusted,"Onions, spring or scallions (includes tops and bulb), raw",7229
+scallion,1.83,7.34,0.19,32.0,usda,trusted,"Onions, spring or scallions (includes tops and bulb), raw",2683
+spring onion,1.83,7.34,0.19,32.0,usda,trusted,"Onions, spring or scallions (includes tops and bulb), raw",918
+shallot,2.5,16.8,0.1,72.0,usda,trusted,"Shallots, raw",2883
+leek,1.5,14.15,0.3,61.0,usda,trusted,"Leeks, (bulb and lower leaf-portion), raw",1235
+chive,3.27,4.35,0.73,30.0,usda,trusted,"Chives, raw",1568
+salt,0.0,0.0,0.0,0.0,usda,trusted,"Salt, table",48191
+kosher salt,0.0,0.0,0.0,0.0,usda,trusted,"Salt, table",3380
+sea salt,0.0,0.0,0.0,0.0,usda,trusted,"Salt, table",2444
+black pepper,10.39,63.95,3.26,251.0,usda,trusted,"Spices, pepper, black",16471
+white pepper,10.4,68.61,2.12,296.0,usda,trusted,"Spices, pepper, white",1812
+cayenne pepper,12.01,56.63,17.27,318.0,usda,trusted,"Spices, pepper, red or cayenne",4127
+cayenne,12.01,56.63,17.27,318.0,usda,trusted,"Spices, pepper, red or cayenne",988
+butter,0.85,0.06,81.11,717.0,usda,trusted,"Butter, salted",30036
+olive oil,0.0,0.0,100.0,884.0,usda,trusted,"Oil, olive, salad or cooking",23797
+extra virgin olive oil,0.0,0.0,100.0,884.0,usda,trusted,"Oil, olive, salad or cooking",5658
+vegetable oil,0.0,0.0,100.0,884.0,usda,trusted,"Oil, vegetable, soybean, refined",9485
+canola oil,0.0,0.0,100.0,884.0,usda,trusted,"Oil, canola",2499
+sesame oil,0.0,0.0,100.0,884.0,usda,trusted,"Oil, sesame, salad or cooking",2930
+peanut oil,0.0,0.0,100.0,884.0,usda,trusted,"Oil, peanut, salad or cooking",1426
+sugar,0.0,99.98,0.0,387.0,usda,trusted,"Sugars, granulated",23625
+white sugar,0.0,99.98,0.0,387.0,usda,trusted,"Sugars, granulated",5199
+caster sugar,0.0,99.98,0.0,387.0,usda,trusted,"Sugars, granulated",1278
+brown sugar,0.12,98.09,0.0,380.0,usda,trusted,"Sugars, brown",7197
+icing sugar,0.0,99.77,0.0,389.0,usda,trusted,"Sugars, powdered",896
+confectioner ' sugar,0.0,99.77,0.0,389.0,usda,trusted,"Sugars, powdered",1087
+egg,12.56,0.72,9.51,143.0,usda,trusted,"Egg, whole, raw, fresh",22659
+egg yolk,15.86,3.59,26.54,322.0,usda,trusted,"Egg, yolk, raw, fresh",3006
+egg white,10.9,0.73,0.17,52.0,usda,trusted,"Egg, white, raw, fresh",2280
+tomato,0.88,3.89,0.2,18.0,usda,trusted,"Tomatoes, red, ripe, raw, year round average",17042
+plum tomato,0.88,3.89,0.2,18.0,usda,trusted,"Tomatoes, red, ripe, raw, year round average",1076
+rom tomato,0.88,3.89,0.2,18.0,usda,trusted,"Tomatoes, red, ripe, raw, year round average",1053
+cherry tomato,0.88,3.89,0.2,18.0,usda,trusted,"Tomatoes, red, ripe, raw, year round average",1036
+tomato paste,4.32,18.91,0.47,82.0,usda,trusted,"Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",3828
+tomato sauce,1.2,5.31,0.3,24.0,usda,trusted,"Tomato products, canned, sauce",3507
+tomato puree,1.65,8.98,0.21,38.0,usda,trusted,"Tomato products, canned, puree, without salt added",862
+tomato juice,0.85,3.53,0.29,17.0,usda,trusted,"Tomato juice, canned, without salt added",938
+milk,3.15,4.8,3.25,61.0,usda,trusted,"Milk, whole, 3.25% milkfat, with added vitamin D",15598
+heavy cream,2.84,2.84,36.08,340.0,usda,trusted,"Cream, fluid, heavy whipping",3054
+heavy whipping cream,2.84,2.84,36.08,340.0,usda,trusted,"Cream, fluid, heavy whipping",673
+cream,2.84,2.84,36.08,340.0,usda,trusted,"Cream, fluid, heavy whipping",8811
+whipping cream,2.84,2.84,36.08,340.0,usda,trusted,"Cream, fluid, heavy whipping",1290
+buttermilk,3.31,4.79,1.07,40.0,usda,trusted,"Milk, buttermilk, fluid, cultured, lowfat",1154
+flour,10.33,76.31,0.98,364.0,usda,trusted,"Wheat flour, white, all-purpose, enriched, bleached",10400
+purpose flour,10.33,76.31,0.98,364.0,usda,trusted,"Wheat flour, white, all-purpose, enriched, bleached",9504
+plain flour,10.33,76.31,0.98,364.0,usda,trusted,"Wheat flour, white, all-purpose, enriched, bleached",1200
+wheat flour,13.21,71.97,2.5,340.0,usda,trusted,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",909
+lemon juice,0.35,6.9,0.24,22.0,usda,trusted,"Lemon juice, raw",9776
+lime juice,0.42,8.42,0.07,25.0,usda,trusted,"Lime juice, raw",5722
+lemon,1.1,9.32,0.3,29.0,usda,trusted,"Lemons, raw, without peel",5762
+lime,0.7,10.54,0.2,30.0,usda,trusted,"Limes, raw",2389
+orange,0.94,11.75,0.12,47.0,usda,trusted,"Oranges, raw, all commercial varieties",1536
+orange juice,0.7,10.4,0.2,45.0,usda,trusted,"Orange juice, raw (Includes foods for USDA's Food Distribution Program)",2391
+lemon zest,1.5,16.0,0.3,47.0,usda,trusted,"Lemon peel, raw",1897
+orange zest,1.5,25.0,0.2,97.0,usda,trusted,"Orange peel, raw",943
+carrot,0.93,9.58,0.24,41.0,usda,trusted,"Carrots, raw",9161
+potato,2.05,17.49,0.09,77.0,usda,trusted,"Potatoes, flesh and skin, raw",7342
+red potato,1.89,15.9,0.14,70.0,usda,trusted,"Potatoes, red, flesh and skin, raw",668
+celery,0.69,2.97,0.17,14.0,usda,trusted,"Celery, raw",4633
+celery rib,0.69,2.97,0.17,14.0,usda,trusted,"Celery, raw",1262
+ginger,1.82,17.77,0.75,80.0,usda,trusted,"Ginger root, raw",8739
+gingerroot,1.82,17.77,0.75,80.0,usda,trusted,"Ginger root, raw",1589
+cilantro,2.13,3.67,0.52,23.0,usda,trusted,"Coriander (cilantro) leaves, raw",8600
+cilantro leaf,2.13,3.67,0.52,23.0,usda,trusted,"Coriander (cilantro) leaves, raw",1185
+coriander,2.13,3.67,0.52,23.0,usda,trusted,"Coriander (cilantro) leaves, raw",3922
+coriander leaf,2.13,3.67,0.52,23.0,usda,trusted,"Coriander (cilantro) leaves, raw",915
+parsley,2.97,6.33,0.79,36.0,usda,trusted,"Parsley, fresh",10044
+basil,3.15,2.65,0.64,23.0,usda,trusted,"Basil, fresh",6087
+basil leaf,3.15,2.65,0.64,23.0,usda,trusted,"Basil, fresh",1882
+thyme,5.56,24.45,1.68,101.0,usda,trusted,"Thyme, fresh",4784
+rosemary,3.31,20.7,5.86,131.0,usda,trusted,"Rosemary, fresh",2264
+mint,3.29,8.41,0.73,44.0,usda,trusted,"Spearmint, fresh",1971
+mint leaf,3.29,8.41,0.73,44.0,usda,trusted,"Spearmint, fresh",1237
+oregano,9.0,68.92,4.28,265.0,usda,trusted,"Spices, oregano, dried",7526
+paprika,14.14,53.99,12.89,282.0,usda,trusted,"Spices, paprika",5177
+chili powder,13.46,49.7,14.28,282.0,usda,trusted,"Spices, chili powder",4979
+cumin,17.81,44.24,22.27,375.0,usda,trusted,"Spices, cumin seed",9204
+cumin seed,17.81,44.24,22.27,375.0,usda,trusted,"Spices, cumin seed",1854
+cinnamon,3.99,80.59,1.24,247.0,usda,trusted,"Spices, cinnamon, ground",10118
+nutmeg,5.84,49.29,36.31,525.0,usda,trusted,"Spices, nutmeg, ground",4328
+clove,5.97,65.53,13.0,274.0,usda,trusted,"Spices, cloves, ground",3411
+turmeric,9.68,67.14,3.25,312.0,usda,trusted,"Spices, turmeric, ground",3157
+turmeric powder,9.68,67.14,3.25,312.0,usda,trusted,"Spices, turmeric, ground",825
+bay leaf,7.61,74.97,8.36,313.0,usda,trusted,"Spices, bay leaf",5010
+garlic powder,16.55,72.73,0.73,331.0,usda,trusted,"Spices, garlic powder",4868
+onion powder,10.41,79.12,1.04,341.0,usda,trusted,"Spices, onion powder",1544
+curry powder,14.29,55.83,14.01,325.0,usda,trusted,"Spices, curry powder",2272
+allspice,6.09,72.12,8.69,263.0,usda,trusted,"Spices, allspice, ground",1810
+cardamom,10.76,68.47,6.7,311.0,usda,trusted,"Spices, cardamom",1218
+fennel seed,15.8,52.29,14.87,345.0,usda,trusted,"Spices, fennel seed",773
+coriander seed,12.37,54.99,17.77,298.0,usda,trusted,"Spices, coriander seed",769
+caraway seed,19.77,49.9,14.59,333.0,usda,trusted,"Spices, caraway seed",744
+dill,3.46,7.02,1.12,43.0,usda,trusted,"Dill weed, fresh",1533
+red pepper flake,12.01,56.63,17.27,318.0,usda,trusted,"Spices, pepper, red or cayenne",4079
+marjoram,12.66,60.56,7.04,271.0,usda,trusted,"Spices, marjoram, dried",807
+soy sauce,8.14,4.93,0.57,53.0,usda,trusted,Soy sauce made from soy and wheat (shoyu),8213
+fish sauce,5.06,3.64,0.01,35.0,usda,trusted,"Sauce, fish, ready-to-serve",1895
+worcestershire sauce,0.0,19.17,0.0,77.0,usda,trusted,"Sauce, worcestershire",3229
+hoisin sauce,3.31,44.08,3.39,220.0,usda,trusted,"Sauce, hoisin, ready-to-serve",693
+oyster sauce,1.35,10.92,0.25,51.0,usda,trusted,"Sauce, oyster, ready-to-serve",819
+salsa,1.52,6.64,0.17,29.0,usda,trusted,"Sauce, salsa, ready-to-serve",2532
+ketchup,1.04,27.4,0.1,101.0,usda,trusted,Catsup,1513
+mayonnaise,0.96,0.57,74.85,680.0,usda,trusted,"Salad dressing, mayonnaise, regular",3018
+chili sauce,2.5,19.79,0.3,92.0,usda,trusted,"Sauce, tomato chili sauce, bottled, with salt",702
+baking powder,0.0,27.7,0.0,53.0,usda,trusted,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",5195
+baking soda,0.0,0.0,0.0,0.0,usda,trusted,"Leavening agents, baking soda",2823
+cornstarch,0.26,91.27,0.05,381.0,usda,trusted,Cornstarch,4722
+vanilla extract,0.06,12.65,0.06,288.0,usda,trusted,Vanilla extract,4274
+vanilla,0.06,12.65,0.06,288.0,usda,trusted,Vanilla extract,2940
+honey,0.3,82.4,0.0,304.0,usda,trusted,Honey,4054
+maple syrup,0.04,67.04,0.06,260.0,usda,trusted,"Syrups, maple",941
+molasses,0.0,74.73,0.1,290.0,usda,trusted,Molasses,625
+vinegar,0.0,0.93,0.0,21.0,usda,trusted,"Vinegar, cider",1838
+white vinegar,0.0,0.04,0.0,18.0,usda,trusted,"Vinegar, distilled",1578
+cider vinegar,0.0,0.93,0.0,21.0,usda,trusted,"Vinegar, cider",1001
+balsamic vinegar,0.49,17.03,0.0,88.0,usda,trusted,"Vinegar, balsamic",1691
+red wine vinegar,0.04,0.27,0.0,19.0,usda,trusted,"Vinegar, red wine",2026
+white wine,0.07,2.6,0.0,82.0,usda,trusted,"Alcoholic beverage, wine, table, white",4017
+red wine,0.07,2.61,0.0,85.0,usda,trusted,"Alcoholic beverage, wine, table, red",2343
+beef,17.17,0.0,20.0,254.0,usda,trusted,"Beef, ground, 80% lean meat / 20% fat, raw",7695
+chicken breast,22.5,0.0,2.62,120.0,usda,trusted,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",5402
+chicken breast half,22.5,0.0,2.62,120.0,usda,trusted,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",1681
+chicken,18.6,0.0,15.06,215.0,usda,trusted,"Chicken, broilers or fryers, meat and skin, raw",3612
+chicken thigh,16.52,0.25,16.61,221.0,usda,trusted,"Chicken, broilers or fryers, thigh, meat and skin, raw",1175
+pork,19.74,0.0,12.58,198.0,usda,trusted,"Pork, fresh, loin, whole, separable lean and fat, raw",1827
+ham,16.6,3.63,8.8,164.0,usda,trusted,"Ham, sliced, regular (approximately 11% fat)",1399
+bacon,13.66,0.0,37.13,393.0,usda,trusted,"Pork, cured, bacon, unprepared",3285
+lamb,16.56,0.0,23.41,282.0,usda,trusted,"Lamb, ground, raw",949
+turkey,21.64,0.14,5.64,144.0,usda,trusted,"Turkey, whole, meat and skin, raw",892
+shrimp,20.1,0.0,0.51,85.0,usda,trusted,"Crustaceans, shrimp, raw",2467
+parmesan cheese,28.42,13.91,27.84,420.0,usda,trusted,"Cheese, parmesan, grated",8219
+mozzarella cheese,22.17,2.4,22.14,299.0,usda,trusted,"Cheese, mozzarella, whole milk",3536
+cheddar cheese,23.3,2.44,34.0,408.0,usda,trusted,"Cheese, cheddar",4596
+sharp cheddar cheese,23.3,2.44,34.0,408.0,usda,trusted,"Cheese, cheddar",701
+cream cheese,6.15,5.52,34.44,350.0,usda,trusted,"Cheese, cream",3127
+feta cheese,14.21,3.88,21.49,265.0,usda,trusted,"Cheese, feta",2113
+swiss cheese,26.96,1.44,30.99,393.0,usda,trusted,"Cheese, swiss",1129
+cottage cheese,11.12,3.38,4.3,98.0,usda,trusted,"Cheese, cottage, creamed, large or small curd",706
+ricotta cheese,7.54,7.27,10.18,150.0,usda,trusted,"Cheese, ricotta, whole milk",1395
+monterey jack cheese,24.48,0.68,30.28,373.0,usda,trusted,"Cheese, monterey",1609
+cheese,23.3,2.44,34.0,408.0,usda,trusted,"Cheese, cheddar",1881
+yogurt,3.47,4.66,3.25,61.0,usda,trusted,"Yogurt, plain, whole milk",970
+plain yogurt,3.47,4.66,3.25,61.0,usda,trusted,"Yogurt, plain, whole milk",1536
+coconut milk,2.29,5.54,23.84,230.0,usda,trusted,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2317
+coconut,3.33,15.23,33.49,354.0,usda,trusted,"Nuts, coconut meat, raw",2002
+margarine,0.9,0.9,80.5,719.0,usda,trusted,"Margarine, regular, hard, soybean (hydrogenated)",1791
+almond,21.15,21.55,49.93,579.0,usda,trusted,"Nuts, almonds",3506
+walnut,15.23,13.71,65.21,654.0,usda,trusted,"Nuts, walnuts, english",1970
+pecan,9.17,13.86,71.97,691.0,usda,trusted,"Nuts, pecans",1262
+peanut,25.8,16.13,49.24,567.0,usda,trusted,"Peanuts, all types, raw",1282
+pine nut,13.69,13.08,68.37,673.0,usda,trusted,"Nuts, pine nuts, dried",1230
+peanut butter,22.21,22.31,51.36,598.0,usda,trusted,"Peanut butter, smooth style, without salt",842
+sesame seed,17.73,23.45,49.67,573.0,usda,trusted,"Seeds, sesame seeds, whole, dried",1874
+cocoa powder,19.6,57.9,13.7,228.0,usda,trusted,"Cocoa, dry powder, unsweetened",1051
+rice,7.13,79.95,0.66,365.0,usda,trusted,"Rice, white, long-grain, regular, raw, enriched",3074
+white rice,7.13,79.95,0.66,365.0,usda,trusted,"Rice, white, long-grain, regular, raw, enriched",1008
+brown rice,7.54,76.25,3.2,367.0,usda,trusted,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",789
+basmati rice,7.13,79.95,0.66,365.0,usda,trusted,"Rice, white, long-grain, regular, raw, enriched",798
+pasta,13.04,74.67,1.51,371.0,usda,trusted,"Pasta, dry, enriched",804
+spaghetti,13.04,74.67,1.51,371.0,usda,trusted,"Pasta, dry, enriched",922
+bread,10.66,43.91,2.15,238.0,usda,trusted,"Bread, white wheat",1101
+french bread,10.75,51.88,2.42,272.0,usda,trusted,"Bread, french or vienna (includes sourdough)",742
+cornmeal,8.12,76.89,3.59,362.0,usda,trusted,"Cornmeal, whole-grain, yellow",673
+oat,16.89,66.27,6.9,389.0,usda,trusted,Oats (Includes foods for USDA's Food Distribution Program),629
+raisin,3.3,79.32,0.25,299.0,usda,trusted,"Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",2364
+black bean,21.6,62.36,1.42,341.0,usda,trusted,"Beans, black, mature seeds, raw",2259
+kidney bean,23.58,60.01,0.83,333.0,usda,trusted,"Beans, kidney, all types, mature seeds, raw",692
+garbanzo bean,20.47,62.95,6.04,378.0,usda,trusted,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",678
+chickpea,20.47,62.95,6.04,378.0,usda,trusted,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",1051
+lentil,24.63,63.35,1.06,352.0,usda,trusted,"Lentils, raw",507
+tofu,17.27,2.78,8.72,144.0,usda,trusted,"Tofu, raw, firm, prepared with calcium sulfate",750
+green bean,1.83,6.97,0.22,31.0,usda,trusted,"Beans, snap, green, raw",1398
+pea,5.42,14.45,0.4,81.0,usda,trusted,"Peas, green, raw",1713
+corn,3.27,18.7,1.35,86.0,usda,trusted,"Corn, sweet, yellow, raw",1830
+bean sprout,3.04,5.94,0.18,30.0,usda,trusted,"Mung beans, mature seeds, sprouted, raw",792
+mushroom,3.09,3.26,0.34,22.0,usda,trusted,"Mushrooms, white, raw",5180
+spinach,2.86,3.63,0.39,23.0,usda,trusted,"Spinach, raw",2529
+broccoli,2.82,6.64,0.37,34.0,usda,trusted,"Broccoli, raw",768
+cabbage,1.28,5.8,0.1,25.0,usda,trusted,"Cabbage, raw",1389
+lettuce,1.23,3.29,0.3,17.0,usda,trusted,"Lettuce, cos or romaine, raw",1101
+cucumber,0.65,3.63,0.11,15.0,usda,trusted,"Cucumber, with peel, raw",2337
+zucchini,1.21,3.11,0.32,17.0,usda,trusted,"Squash, summer, zucchini, includes skin, raw",2582
+eggplant,0.98,5.88,0.18,25.0,usda,trusted,"Eggplant, raw",1365
+avocado,2.0,8.53,14.66,160.0,usda,trusted,"Avocados, raw, all commercial varieties",2213
+red bell pepper,0.99,6.03,0.3,26.0,usda,trusted,"Peppers, sweet, red, raw",3921
+green bell pepper,0.86,4.64,0.17,20.0,usda,trusted,"Peppers, sweet, green, raw",3181
+green pepper,0.86,4.64,0.17,20.0,usda,trusted,"Peppers, sweet, green, raw",2821
+bell pepper,0.86,4.64,0.17,20.0,usda,trusted,"Peppers, sweet, green, raw",1278
+jalapeno,0.91,6.5,0.37,29.0,usda,trusted,"Peppers, jalapeno, raw",1424
+jalapeno pepper,0.91,6.5,0.37,29.0,usda,trusted,"Peppers, jalapeno, raw",2337
+red pepper,0.99,6.03,0.3,26.0,usda,trusted,"Peppers, sweet, red, raw",3211
+olive,0.84,6.04,10.9,116.0,usda,trusted,"Olives, ripe, canned (small-extra large)",835
+black olive,0.84,6.04,10.9,116.0,usda,trusted,"Olives, ripe, canned (small-extra large)",1919
+caper,2.36,4.89,0.86,23.0,usda,trusted,"Capers, canned",1175
+banana,1.09,22.84,0.33,89.0,usda,trusted,"Bananas, raw",1243
+apple,0.26,13.81,0.17,52.0,usda,trusted,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",1478
+pineapple,0.54,13.12,0.12,50.0,usda,trusted,"Pineapple, raw, all varieties",985
+mango,0.82,14.98,0.38,60.0,usda,trusted,"Mangos, raw",995
+strawberry,0.67,7.68,0.3,32.0,usda,trusted,"Strawberries, raw",1145
+apricot,1.4,11.12,0.39,48.0,usda,trusted,"Apricots, raw",682
+chicken broth,4.42,0.75,1.04,31.0,usda,trusted,"Soup, chicken broth, canned, condensed",5985
+chicken stock,2.52,3.53,1.2,36.0,usda,trusted,"Soup, stock, chicken, home-prepared",2703
+beef broth,1.14,0.04,0.22,7.0,usda,trusted,"Soup, beef broth or bouillon canned, ready-to-serve",2323
+beef stock,1.97,1.2,0.09,13.0,usda,trusted,"Soup, stock, beef, home-prepared",927
+vegetable broth,0.24,0.93,0.07,5.0,usda,trusted,"Soup, vegetable broth, ready to serve",993
+vegetable stock,0.24,0.93,0.07,5.0,usda,trusted,"Soup, vegetable broth, ready to serve",765
+water,0.0,0.0,0.0,0.0,usda,trusted,"Beverages, water, tap, drinking",26786
+flat leaf parsley,2.97,6.33,0.79,36.0,usda,trusted,"Parsley, fresh",1416
+italian parsley,2.97,6.33,0.79,36.0,usda,trusted,"Parsley, fresh",655
+green chilies,2.0,9.46,0.2,40.0,usda,trusted,"Peppers, hot chili, green, raw",2468
+red chilies,1.87,8.81,0.44,40.0,usda,trusted,"Peppers, hot chili, red, raw",779
+breadcrumb,8.85,49.42,3.33,266.0,usda,trusted,"Bread, white, commercially prepared (includes soft bread crumbs)",2402
+flour tortilla,8.01,49.27,7.58,297.0,usda,trusted,"Tortillas, ready-to-bake or -fry, flour, shelf stable",2029
+corn tortilla,5.7,44.64,2.85,218.0,usda,trusted,"Tortillas, ready-to-bake or -fry, corn",1410
+mustard,3.74,5.83,3.34,60.0,usda,trusted,"Mustard, prepared, yellow",1923
+dijon mustard,3.74,5.83,3.34,60.0,usda,trusted,"Mustard, prepared, yellow",1980
+yeast,40.44,41.22,7.61,325.0,usda,trusted,"Leavening agents, yeast, baker's, active dry",1365
+active yeast,40.44,41.22,7.61,325.0,usda,trusted,"Leavening agents, yeast, baker's, active dry",939
+black peppercorn,10.39,63.95,3.26,251.0,usda,trusted,"Spices, pepper, black",981
+italian sausage,13.9,2.97,24.26,290.0,usda,trusted,"Sausage, Italian, pork, mild, raw",977
+shortening,0.0,0.0,100.0,884.0,usda,trusted,"Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated)",956
+sage,10.63,60.73,12.75,315.0,usda,trusted,"Spices, sage, ground",930
+mustard seed,26.08,28.09,36.24,508.0,usda,trusted,"Spices, mustard seed, ground",734
+kalamata olive,0.84,6.04,10.9,116.0,usda,trusted,"Olives, ripe, canned (small-extra large)",888
+green olive,1.03,3.84,15.32,145.0,usda,trusted,"Olives, pickled, canned or bottled, green",710
+cream mushroom soup,1.35,6.8,5.3,79.0,usda,trusted,"Soup, cream of mushroom, canned, condensed",884
+beer,0.46,3.55,0.0,43.0,usda,trusted,"Alcoholic beverage, beer, regular, all",826
+rum,0.0,0.1,0.0,250.0,usda,trusted,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof",706
+brandy,0.0,0.1,0.0,250.0,usda,trusted,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof",769
+lemongrass,1.82,25.31,0.49,99.0,usda,trusted,"Lemon grass (citronella), raw",758
+taco seasoning,4.5,58.0,0.0,322.0,usda,trusted,"Seasoning mix, dry, taco, original",751
+tortilla chip,7.1,67.78,20.68,472.0,usda,trusted,"Snacks, tortilla chips, plain, white corn, salted",708
+ghee,0.28,0.0,99.48,876.0,usda,trusted,"Butter oil, anhydrous",705
+coffee,0.12,0.0,0.02,1.0,usda,trusted,"Beverages, coffee, brewed, prepared with tap water",701
+cornflour,0.26,91.27,0.05,381.0,usda,trusted,Cornstarch,688
+self raising flour,9.89,74.22,0.97,354.0,usda,trusted,"Wheat flour, white, all-purpose, self-rising, enriched",676
+pineapple juice,0.36,12.87,0.12,53.0,usda,trusted,"Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid",666
+pinto bean,21.42,62.55,1.23,347.0,usda,trusted,"Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program)",642
+button mushroom,3.09,3.26,0.34,22.0,usda,trusted,"Mushrooms, white, raw",642
+spaghetti sauce,1.39,7.43,1.61,50.0,usda,trusted,"Sauce, pasta, spaghetti/marinara, ready-to-serve",627
+corn kernel,3.27,18.7,1.35,86.0,usda,trusted,"Corn, sweet, yellow, raw",624
+kernel corn,3.27,18.7,1.35,86.0,usda,trusted,"Corn, sweet, yellow, raw",622
+grain rice,7.13,79.95,0.66,365.0,usda,trusted,"Rice, white, long-grain, regular, raw, enriched",1129
+cold water,0.0,0.0,0.0,0.0,usda,trusted,"Beverages, water, tap, drinking",1064
+hot water,0.0,0.0,0.0,0.0,usda,trusted,"Beverages, water, tap, drinking",900
+agave syrup,0.08994867634349811,76.3699768073511,0.45004806081236,310.0000293949923,recipedb_unverified,uncertain,,25
+ale,0.0,8.760001646119568,0.0,33.99998236300464,recipedb_unverified,uncertain,,56
+almond meal,21.15,21.55,49.93,579.0,recipedb_unverified,uncertain,,71
+almond paste,9.000158732958253,47.81085204324591,27.740480431753646,458.00807774387556,recipedb_unverified,uncertain,,109
+american cheese,22.700047619887474,11.700029982892115,1.000012125434311,148.0002954196723,recipedb_unverified,uncertain,,218
+anchovy,20.338442917864512,0.0,4.837276671546236,130.92525882290693,recipedb_unverified,uncertain,,170
+apple juice,0.10000176369953616,11.300022928093972,0.12999567893613645,45.99998824200309,recipedb_unverified,uncertain,,328
+apple pie filling,0.09999756441492627,26.09999630462955,0.09999756441492627,99.99997060500775,recipedb_unverified,uncertain,,43
+applesauce,0.16999929452018553,11.269995943491066,0.10000176369953616,41.999991181502324,recipedb_unverified,uncertain,,263
+apricot jam,0.700012345896753,64.39998941780279,0.20000352739907232,241.99994708901392,recipedb_unverified,uncertain,,182
+apricot nectar,0.37,14.39,0.09,56.00000000000001,recipedb_unverified,uncertain,,42
+apricot preserve,0.700012345896753,64.39998941780279,0.20000352739907232,241.99994708901392,recipedb_unverified,uncertain,,141
+artichoke,3.2699969233241424,10.51000311586918,0.1500026455493042,46.999991181502324,recipedb_unverified,uncertain,,130
+arugula,2.5799942721757922,3.6499970115091194,0.6599763664262156,25.0,recipedb_unverified,uncertain,,217
+asadero cheese,22.60039859609517,2.870068255172049,28.260521937482736,356.0062787703488,recipedb_unverified,uncertain,,30
+asparagus,2.199994708901391,3.8800067020582376,0.11999770719060303,20.0000440924884,recipedb_unverified,uncertain,,603
+baby carrot,0.6400024691793506,8.240015256000987,0.13000670205823736,35.000066138732606,recipedb_unverified,uncertain,,398
+baby corn,9.42,74.26,4.74,364.9999118150232,recipedb_unverified,uncertain,,132
+baby green,4.47000828938782,11.35998871232297,0.8000141095962893,67.99997732386312,recipedb_unverified,uncertain,,63
+baby lima bean,20.620028571932487,62.829997001710794,0.9299987654103247,334.9999118150232,recipedb_unverified,uncertain,,33
+baby pea,4.47000828938782,11.359988712322968,0.7999942679765075,67.99998456762906,recipedb_unverified,uncertain,,72
+baby shrimp,20.088537716714583,0.0,0.5097091659464894,84.95162319147312,recipedb_unverified,uncertain,,63
+baby spinach,2.860015167816011,3.63,0.3899980599305103,23.0,recipedb_unverified,uncertain,,474
+baking chocolate,12.100213407643873,36.20063845923209,47.70084128467874,472.0083246618107,recipedb_unverified,uncertain,,86
+bamboo shoot,2.5999954647726216,5.200003527399073,0.3000052910986084,26.99999118150232,recipedb_unverified,uncertain,,306
+barbecue sauce,13.19000335102912,18.739993454715055,4.420007407538052,167.9999647260093,recipedb_unverified,uncertain,,393
+barley,9.9099878304732,77.71997742464595,1.1599851849238962,351.999947089014,recipedb_unverified,uncertain,,177
+bay scallop,20.52833089354898,5.4069295754775215,0.8395209792059827,110.9369433323339,recipedb_unverified,uncertain,,76
+bean,4.200003527399072,4.100000506594547,0.5000088184976808,28.999993503393995,recipedb_unverified,uncertain,,940
+beef brisket,20.7203665408561,0.0,7.370131086968025,155.00273373428104,recipedb_unverified,uncertain,,336
+beef cap,19.688806239968958,1.509142577470502,10.593979097220998,179.897760542514,recipedb_unverified,uncertain,,9
+beef chuck,21.118000317465917,0.3098232185164936,6.066553201996508,139.92047919716398,recipedb_unverified,uncertain,,214
+beef chuck steak,21.29789546552849,0.0,8.285287218469463,159.90912538140003,recipedb_unverified,uncertain,,23
+beef consomme,2.520007491523744,0.3199854872723883,0.0,11.000009238426141,recipedb_unverified,uncertain,,139
+beef gravy,3.75,4.8100000000000005,2.3600063493183305,52.99999412100155,recipedb_unverified,uncertain,,107
+beef heart,17.720352210797373,0.14000099942973718,3.940080512883825,112.00223254966286,recipedb_unverified,uncertain,,15
+beef liver,20.348440889610046,3.887789026261486,3.6279299458544245,134.923323162666,recipedb_unverified,uncertain,,47
+beef loin steak,22.11743152436551,0.0,7.38580045503448,160.90854776980194,recipedb_unverified,uncertain,,14
+beef meat,10.860213216576426,1.0500185188451296,10.300203707296426,143.00283624931657,recipedb_unverified,uncertain,,11
+beef oxtail,17.320302288302166,0.0,24.050424169738445,291.00513236565024,recipedb_unverified,uncertain,,17
+beef rib,17.51030882378878,0.0,22.070389248487626,274.00483253672905,recipedb_unverified,uncertain,,166
+beef roast,21.627709483412406,0.0,4.087677913190709,122.93013545212436,recipedb_unverified,uncertain,,253
+beef sausage,13.80002292809397,2.7000035273990726,36.250066138732606,396.0007892555425,recipedb_unverified,uncertain,,29
+beef shank,21.75038360464911,0.0,3.8500679024321416,128.00225753540627,recipedb_unverified,uncertain,,52
+beef shoulder,20.348440889610046,0.0,6.416349935624967,138.92104578563996,recipedb_unverified,uncertain,,12
+beef sirloin,20.28847510538105,0.0,12.702781354168504,200.88582911515195,recipedb_unverified,uncertain,,157
+beef sirloin steak,20.28847510538105,0.0,12.702781354168504,200.88584013827403,recipedb_unverified,uncertain,,168
+beef skirt steak,26.644859256777014,0.0,10.054288876347025,204.88356276124802,recipedb_unverified,uncertain,,5
+beef soup,3.1700074075380518,6.350012786821637,1.590005445422318,56.00011408931374,recipedb_unverified,uncertain,,9
+beef steak,16.49063475546306,0.0,26.984669041782045,308.82449425915803,recipedb_unverified,uncertain,,386
+beef stew meat,4.410007231168098,7.850013521696445,5.530013756856382,99.00020282544665,recipedb_unverified,uncertain,,438
+beef suet,1.5000264554930425,0.0,94.00165787756399,854.0150619940388,recipedb_unverified,uncertain,,20
+beef tenderloin,19.59885756362546,0.0,18.149658724139755,246.859159773541,recipedb_unverified,uncertain,,272
+beef tenderloin steak,19.59882449425916,0.0,18.14964586383064,246.85914691323188,recipedb_unverified,uncertain,,98
+beef tip,20.468372458068043,0.0,7.006018992104506,150.91423570080602,recipedb_unverified,uncertain,,12
+beet,1.6100009700347448,9.560018695215081,0.16999858904037107,43.00008598035239,recipedb_unverified,uncertain,,343
+berry,14.26,77.06,0.38999999999999996,349.0,recipedb_unverified,uncertain,,184
+biscuit,9.3,37.5,8.1,257.0,recipedb_unverified,uncertain,,90
+black caviar,24.60043387008589,4.000070547981446,17.90031570221697,264.0046561667754,recipedb_unverified,uncertain,,16
+black cherry,2.35,17.06,1.1800000000000002,88.0,recipedb_unverified,uncertain,,14
+black forest ham,9.120002116439444,22.91001604966578,2.530015961480802,150.99998677225346,recipedb_unverified,uncertain,,24
+blackberry,1.390002836616754,9.61,0.49,43.000001259785385,recipedb_unverified,uncertain,,145
+blade steak,20.34843354086198,0.0,6.416349935624967,138.92104211126593,recipedb_unverified,uncertain,,12
+blue cheese,1.3700417996790069,4.770013580486428,51.1000194006949,483.99989417802783,recipedb_unverified,uncertain,,323
+blueberry,0.74,14.49,0.33,56.99999748042924,recipedb_unverified,uncertain,,512
+bottom roast,20.628273867263974,0.0,8.545146298876524,164.906281415898,recipedb_unverified,uncertain,,21
+bratwurst,13.720017107885502,2.850006172948377,29.18005608564525,333.0006702058238,recipedb_unverified,uncertain,,63
+bread crumb,13.350226635390396,71.98128462835072,5.300093476075416,395.0069666131678,recipedb_unverified,uncertain,,532
+bread flour,11.98000258675932,72.5299828921145,1.6599940034215772,360.9999168541647,recipedb_unverified,uncertain,,617
+breakfast sausage,19.200029982892115,6.80000970034745,6.100019400694897,159.0003130566677,recipedb_unverified,uncertain,,28
+brie,20.750370959256212,0.4500079366479126,27.68048315289008,334.00589075645075,recipedb_unverified,uncertain,,11
+brie cheese,20.750365967653757,0.4500079366479126,27.680470555036248,334.0058907564507,recipedb_unverified,uncertain,,120
+broiler fryer chicken,18.319591174447524,0.1299258658294973,14.82157974567453,212.87901903031803,recipedb_unverified,uncertain,,80
+brown mushroom,2.5,4.3,0.1,22.0,recipedb_unverified,uncertain,,14
+brown onion,0.0,6.78,1.69,42.0,recipedb_unverified,uncertain,,181
+brussels sprout,3.3799978835605566,8.95001638770819,0.3000052910986084,43.00008598035239,recipedb_unverified,uncertain,,129
+buffalo meat,20.39035079983774,0.0,1.3700197534348046,99.0017460625408,recipedb_unverified,uncertain,,12
+bulk pork sausage,22.42019259598935,0.6913702181696327,22.716494118062048,303.2159076879663,recipedb_unverified,uncertain,,48
+bulk sausage,22.42019259598935,0.6913702181696327,22.716494118062048,303.2159076879663,recipedb_unverified,uncertain,,31
+burdock root,1.5300093476075418,17.33998835958306,0.1500026455493042,71.99994708901392,recipedb_unverified,uncertain,,21
+butternut squash,1.0,11.69002098802448,0.10000176369953616,45.00008818497681,recipedb_unverified,uncertain,,366
+cacao,4.88,61.17000000000001,31.28,546.0,recipedb_unverified,uncertain,,22
+cake,0.0,0.0,100.00019841619783,884.0017681087851,recipedb_unverified,uncertain,,49
+cake flour,8.200012345896754,78.02999171061218,0.8599798938252878,361.9999029965255,recipedb_unverified,uncertain,,354
+camembert cheese,19.800349212508156,0.46000811301786626,24.26042787350747,300.00529109860844,recipedb_unverified,uncertain,,53
+canadian bacon,20.29841796151608,1.3392431965290394,2.6185059113329454,109.93730048148997,recipedb_unverified,uncertain,,120
+caramel,4.600005543055686,76.9999743843639,8.099993785058778,381.9999092954525,recipedb_unverified,uncertain,,26
+cashew,18.22012539903702,30.19023977495194,43.85037199362718,553.0048766292175,recipedb_unverified,uncertain,,615
+cashew nut,18.220317986627798,30.190523642392282,43.85077338224661,553.0097532584349,recipedb_unverified,uncertain,,188
+catfish,16.370697675444013,0.0,2.8183918587629413,94.94603630575494,recipedb_unverified,uncertain,,20
+cauliflower,1.9200074075380518,4.970009759137435,0.2800093476075416,25.000044092488405,recipedb_unverified,uncertain,,589
+cavatappi pasta,18.999982363004637,7.800005291098609,10.949999118150231,205.99995884701084,recipedb_unverified,uncertain,,19
+celeriac,1.5000044092488403,9.199985890403712,0.3000052910986084,41.999991181502324,recipedb_unverified,uncertain,,41
+cellophane noodle,0.15998959417273673,86.08996631333888,0.05996578422899875,350.9999294520186,recipedb_unverified,uncertain,,49
+center pork chop,18.74035201238117,0.8400170197005239,9.62018730489074,167.00313277130107,recipedb_unverified,uncertain,,45
+chanterelle mushroom,1.49,6.859999999999999,0.5299917106121801,38.0,recipedb_unverified,uncertain,,29
+cheddar,22.87042099507928,3.090060377314121,33.310596306813174,404.00712534612603,recipedb_unverified,uncertain,,31
+cheddar cheese soup,0.8000141095962893,11.439993482710289,3.919998589040371,83.99996976515082,recipedb_unverified,uncertain,,72
+cheese food,19.66039965431489,8.32016437679677,24.46048431189263,331.00658741776755,recipedb_unverified,uncertain,,21
+cheese ravioli,5.500008818497681,19.700011290691904,4.2000057320234925,130.99997354450696,recipedb_unverified,uncertain,,54
+cheese tortellini,13.500017636995363,47.00000587899846,7.229999823630046,306.9999274923524,recipedb_unverified,uncertain,,113
+cherry,1.0,12.180020811654527,0.3000052910986084,50.000000000000014,recipedb_unverified,uncertain,,400
+cherry pie filling,0.8200027043392889,11.980004686401626,0.1599966804655159,52.99999412100155,recipedb_unverified,uncertain,,61
+chestnut,4.200074075380519,49.07086103811355,1.110019734538024,224.00395068696096,recipedb_unverified,uncertain,,69
+chick pea,1.996507874918429,9.68306319335438,1.0581491737067672,50.91095081041994,recipedb_unverified,uncertain,,103
+chicken breast meat,17.22503924231468,0.039506869609693296,8.000163142207093,141.2373821995685,recipedb_unverified,uncertain,,76
+chicken breast tender,16.35002380994374,17.560031922961603,12.890020106174713,252.000498245119,recipedb_unverified,uncertain,,37
+chicken drumstick,9.567496781248346,0.7889689412511685,44.172273761442,439.4257394310306,recipedb_unverified,uncertain,,151
+chicken fillet,16.28,20.890000000000004,11.19,250.0,recipedb_unverified,uncertain,,35
+chicken leg,16.360701540885497,0.16990305531549646,15.940941051282506,213.878448767468,recipedb_unverified,uncertain,,189
+chicken liver,16.920029453782252,0.7299952380112524,4.830001410959629,119.00023589481295,recipedb_unverified,uncertain,,130
+chicken meat,19.190043034268683,0.0,3.260000176369954,106.00021605319318,recipedb_unverified,uncertain,,118
+chicken sausage,2.860015167816011,7.350019400694899,1.6300111113070777,57.000123458967536,recipedb_unverified,uncertain,,15
+chicken strip,18.56,2.2299961492560127,5.729995238011252,135.0,recipedb_unverified,uncertain,,19
+chicken tender,16.35002380994374,17.560031922961603,12.890020106174713,252.000498245119,recipedb_unverified,uncertain,,78
+chicken tenderloin,18.060040741459286,20.290040388719376,15.480034921250816,293.00058202084693,recipedb_unverified,uncertain,,60
+chicken wing,17.52003562673063,0.0,12.85002821919258,191.00038360464907,recipedb_unverified,uncertain,,275
+chili,1.9999955907511597,9.459994885271346,0.20000352739907232,40.0,recipedb_unverified,uncertain,,276
+chili bean,6.119992586772595,13.239996172183142,3.759998175877424,102.9999751367357,recipedb_unverified,uncertain,,136
+chili pepper,1.9999955907511597,9.459999647260092,0.20000352739907232,40.0,recipedb_unverified,uncertain,,496
+chilies,0.0,6.669958905800809,0.0,26.999995590751162,recipedb_unverified,uncertain,,396
+chinese cabbage,1.5000044092488403,2.18,0.20000352739907232,13.00000881849768,recipedb_unverified,uncertain,,113
+chinese noodle,0.15998959417273673,86.09,0.060009876717402426,351.0,recipedb_unverified,uncertain,,67
+chocolate baking square,14.648582867422707,29.07211767403305,53.510291186793424,656.7311592797051,recipedb_unverified,uncertain,,46
+chocolate candy bar,8.51,58.01,30.570000000000004,531.0,recipedb_unverified,uncertain,,18
+chocolate chip,5.970122929857669,67.4911961998154,17.910309999588474,451.0079542849081,recipedb_unverified,uncertain,,756
+chocolate square,14.648582867422707,29.07211767403305,53.510291186793424,656.7311592797051,recipedb_unverified,uncertain,,61
+chocolate syrup,2.0999929452018553,65.09997971745534,1.1300022928093971,278.99991622427206,recipedb_unverified,uncertain,,138
+chorizo,24.100469144076616,1.860041623309053,38.270766092288525,455.0090463088709,recipedb_unverified,uncertain,,12
+chorizo sausage,24.100460325578936,1.860041623309053,38.27069260480785,455.00802483288953,recipedb_unverified,uncertain,,530
+chow mein noodle,8.200732523207346,73.61449055538898,15.60262673650917,480.31417367737237,recipedb_unverified,uncertain,,80
+chuck,21.118009135963597,0.30981586976842623,6.066553201996508,139.92047919716398,recipedb_unverified,uncertain,,251
+chuck roast,19.169106451025,0.0,11.473482777474029,179.89776274713842,recipedb_unverified,uncertain,,227
+chuck steak,21.29789546552849,0.0,8.285287218469463,159.90912538140003,recipedb_unverified,uncertain,,66
+chunky salsa,2.1299978835605566,3.66999417979153,0.5199974132406804,22.99998677225348,recipedb_unverified,uncertain,,299
+clam juice,0.6000105821972168,10.950016755145594,0.20000352739907232,48.00000146974962,recipedb_unverified,uncertain,,146
+club soda,0.0,0.0,0.0,0.0,recipedb_unverified,uncertain,,137
+cocoa,3.0000000000000004,75.0,15.0,400.0,recipedb_unverified,uncertain,,569
+coconut cream,3.630002292809397,6.6499850085539425,34.67997671916612,329.99991769402163,recipedb_unverified,uncertain,,260
+cod,17.7998730136334,0.0,0.6696105751424187,81.95342951374803,recipedb_unverified,uncertain,,118
+cod fish,17.7998730136334,0.0,0.6696215982645197,81.95342951374803,recipedb_unverified,uncertain,,9
+coffee liqueur,0.10017813365315086,46.80011993156846,0.29982892114499377,335.9998118720496,recipedb_unverified,uncertain,,93
+cola,0.0,1.1300022928093971,0.0,0.0,recipedb_unverified,uncertain,,31
+colby cheese,23.76042787350747,2.5700629640734407,32.11057514241874,394.00694897617245,recipedb_unverified,uncertain,,65
+coleslaw,0.9499947089013916,14.890033333921235,9.910018989165007,153.00026896417927,recipedb_unverified,uncertain,,26
+conch,15.771045344715073,1.0194183318929786,0.7195894107479849,77.95569586765198,recipedb_unverified,uncertain,,16
+cooking oil,0.259969311628071,20.689959258540718,78.69,791.9998589040371,recipedb_unverified,uncertain,,1038
+corn flake,5.9,88.01,0.91,357.0,recipedb_unverified,uncertain,,148
+corn oil,0.0,0.0,100.0,899.9997707190604,recipedb_unverified,uncertain,,336
+corn syrup,0.0,76.78999965565868,0.20000352739907232,282.9999500285131,recipedb_unverified,uncertain,,514
+cotija cheese,20.0,3.969981833894778,30.0,365.99990005702637,recipedb_unverified,uncertain,,139
+couscous,12.760013404116474,77.42997622924959,0.6399999999999999,375.99990005702637,recipedb_unverified,uncertain,,536
+crab,18.279599287465388,0.0,0.5996578422899875,83.95227429055187,recipedb_unverified,uncertain,,64
+crabmeat,19.339009506340503,0.0,1.5391217952109681,96.94489761724193,recipedb_unverified,uncertain,,388
+cranberry,0.45999999999999996,11.969999999999999,0.13,46.0,recipedb_unverified,uncertain,,546
+cranberry bean,23.030035803100585,60.050111113070784,1.2300040565089332,335.0006613873261,recipedb_unverified,uncertain,,20
+cranberry juice,0.2699753669964785,10.910010170667327,0.1199315684579975,44.99997060500773,recipedb_unverified,uncertain,,130
+crawfish,15.960929646025502,0.0,0.9494655990405476,76.95627347925009,recipedb_unverified,uncertain,,29
+cream celery soup,0.8099916098293495,7.259991987764966,2.419997329254988,55.99997984343388,recipedb_unverified,uncertain,,124
+cream chicken soup,1.7999981523147721,7.459995515164038,2.020001993390639,54.99999384755976,recipedb_unverified,uncertain,,564
+cream coconut,3.6300463852978004,6.649989417802782,34.67997671916612,329.99991769402163,recipedb_unverified,uncertain,,68
+creme de menthe,0.0,41.60002821919258,0.29982892114499377,370.99984126704175,recipedb_unverified,uncertain,,32
+currant,1.400024691793506,15.379989065062876,0.41000135216964445,62.999982363004634,recipedb_unverified,uncertain,,496
+dark chocolate,5.539991886982134,60.48995573114164,32.399983538804335,555.9998510653725,recipedb_unverified,uncertain,,407
+dark chocolate chip,4.3,64.0,27.500000000000004,518.0,recipedb_unverified,uncertain,,39
+date,2.449999118150232,75.0299828921145,0.3899980599305103,281.999947089014,recipedb_unverified,uncertain,,605
+deli beef,18.61999329794176,0.6399877716832161,3.6900121695267996,114.99997060500775,recipedb_unverified,uncertain,,9
+deli roast beef,18.619993297941765,0.6400024691793506,3.6900121695267996,114.99997060500775,recipedb_unverified,uncertain,,95
+deli turkey,21.925827616007336,3.528633661969347,0.8344062505511562,109.57891673574491,recipedb_unverified,uncertain,,26
+demerara sugar,0.11999035844253575,98.08997219233731,0.0,379.99988242003093,recipedb_unverified,uncertain,,87
+dripping,0.0,0.0,98.59168592038661,889.0156792888764,recipedb_unverified,uncertain,,22
+duck,11.48346972609746,0.0,39.317646695708916,403.7705250533519,recipedb_unverified,uncertain,,99
+duck breast,19.85,0.0,4.25,123.0,recipedb_unverified,uncertain,,46
+edam cheese,24.99045502608176,1.4300075839080055,27.800490308471048,357.00629640734405,recipedb_unverified,uncertain,,32
+edamame,11.220009759137435,7.610010758567171,4.729999647260093,108.99999118150234,recipedb_unverified,uncertain,,74
+egg noodle,14.235171696149843,71.64835358648301,4.463570786080884,386.03855447186015,recipedb_unverified,uncertain,,459
+elbow macaroni,13.209756785833966,75.27751812201274,1.0455210850279546,368.9483059665955,recipedb_unverified,uncertain,,358
+enchilada sauce,0.620004370792234,4.869997707190603,0.9099984126704175,30.0,recipedb_unverified,uncertain,,402
+enoki mushroom,2.6600116404169385,7.810014285966243,0.29,36.999997480429236,recipedb_unverified,uncertain,,33
+escarole,1.149998236300464,3.070005643838516,0.18000758390800542,19.000048501737243,recipedb_unverified,uncertain,,83
+extra tofu,10.100001763699536,2.5999954647726216,5.200003527399073,97.99996472600928,recipedb_unverified,uncertain,,151
+fava bean,26.120052087926304,58.290115345949665,1.5300093476075418,341.0006790243214,recipedb_unverified,uncertain,,103
+fennel bulb,1.2400020282544666,7.300013007284079,0.20000352739907232,31.000061729483765,recipedb_unverified,uncertain,,254
+feta,14.210244742705633,4.090078014309483,21.280357678265936,264.0046561667754,recipedb_unverified,uncertain,,292
+fettuccine,6.199991769402165,13.99998236300464,2.7000035273990726,98.99998236300465,recipedb_unverified,uncertain,,222
+fig,0.75,19.180011993156846,0.3000052910986084,74.0,recipedb_unverified,uncertain,,258
+filet beef,29.32998891808792,0.3000052910986084,8.540009523977496,194.9999559075116,recipedb_unverified,uncertain,,103
+fillet,22.5,0.0,0.8000070547981446,102.99999412100156,recipedb_unverified,uncertain,,32
+fish,20.338439243490477,0.0,4.837254625302034,130.92558951656997,recipedb_unverified,uncertain,,117
+fish fillet,13.750022046244204,17.4100292774123,12.160024868163461,234.0004673803771,recipedb_unverified,uncertain,,148
+fontina,25.600451507081257,1.5500273373428104,31.140584490026285,389.0068607911956,recipedb_unverified,uncertain,,37
+fontina cheese,25.600451507081257,1.5500273373428102,31.14056685303092,389.0068607911956,recipedb_unverified,uncertain,,149
+frankfurter,11.1600292774123,3.3600019400694903,28.3000582020847,316.000634931833,recipedb_unverified,uncertain,,17
+french bean,18.81,64.11,2.02,343.0,recipedb_unverified,uncertain,,60
+french fry,3.410002821919258,42.58005542425792,15.470025926383183,323.0002843965502,recipedb_unverified,uncertain,,54
+french onion soup,1.5899874367170255,4.760000577210757,1.1900000000000002,35.99999664057232,recipedb_unverified,uncertain,,92
+fruit,0.8199999999999998,4.51,0.13,19.0,recipedb_unverified,uncertain,,342
+garlic sausage,2.399998236300464,10.400007054798145,2.399998236300464,72.00005732023493,recipedb_unverified,uncertain,,11
+gelatin,7.799784828656589,90.50018518845131,0.0,381.0000176369954,recipedb_unverified,uncertain,,396
+german chocolate,4.170091183266019,81.25143300587312,3.2400924178556947,350.0061729483765,recipedb_unverified,uncertain,,34
+gin,0.0,0.0,0.0,230.9999882420031,recipedb_unverified,uncertain,,113
+ginger ale,0.0,8.760001646119568,0.0,33.99998236300464,recipedb_unverified,uncertain,,101
+goat cheese,30.520551018928412,2.170055909275296,35.590633579663375,452.0079719219034,recipedb_unverified,uncertain,,448
+goat meat,27.084604666748973,0.0,3.0282809220621174,142.91877575736197,recipedb_unverified,uncertain,,19
+golden raisin,3.3900068784281907,79.51992098626079,0.4599728390271433,301.99992504276975,recipedb_unverified,uncertain,,525
+gouda cheese,24.940475140655035,2.220056791125064,27.44048395915272,356.00627877034873,recipedb_unverified,uncertain,,120
+graham cracker,6.690123870497423,77.66133441506905,10.600186952150832,430.0075839080055,recipedb_unverified,uncertain,,88
+granny smith apple,0.4399989417802784,13.610028395562534,0.18999569286008017,58.000111700970635,recipedb_unverified,uncertain,,390
+grape,0.8099999999999999,13.930007583908004,0.4700007306755221,56.99999748042924,recipedb_unverified,uncertain,,102
+grape leaf,5.600010582197217,17.310005467468564,2.120010934937124,92.99996472600928,recipedb_unverified,uncertain,,82
+grapefruit juice,0.5000088184976808,9.199985890403712,0.10000176369953616,38.99998236300464,recipedb_unverified,uncertain,,82
+great northern bean,21.860041623309055,62.370103529162776,1.1400112876770314,339.00067314532293,recipedb_unverified,uncertain,,164
+greek yogurt,10.190000000000001,3.6000000000000005,0.38999999999999996,58.99998236300464,recipedb_unverified,uncertain,,517
+green,2.2,4.33,0.13,22.0,recipedb_unverified,uncertain,,164
+green cabbage,1.280004938358701,5.799996031676043,0.10000176369953616,25.0,recipedb_unverified,uncertain,,338
+green chili pepper,2.000035273990723,9.459980397739441,0.20000352739907232,40.0,recipedb_unverified,uncertain,,438
+green grape,0.719997266265719,18.100010582197218,0.15998959417273673,68.99998236300465,recipedb_unverified,uncertain,,75
+green pea,5.4200029982892115,14.45,0.40000705479814463,81.0,recipedb_unverified,uncertain,,579
+green tomato,1.199999118150232,5.100001763699537,0.20000352739907232,23.00004556223802,recipedb_unverified,uncertain,,92
+grenadine,0.0,66.9098220427168,0.0,267.9997883560557,recipedb_unverified,uncertain,,133
+gruyere,29.810534577329406,0.36000634931833014,32.34060565442071,413.00728407908423,recipedb_unverified,uncertain,,121
+gruyere cheese,29.810519879833276,0.36001516781601084,32.34060565442071,413.00728407908423,recipedb_unverified,uncertain,,415
+guava nectar,0.08994867634349811,16.250022046244204,0.05996578422899875,63.000052910986085,recipedb_unverified,uncertain,,21
+haddock,16.310737402776063,0.0,0.4497433817174906,73.95796222155595,recipedb_unverified,uncertain,,32
+half,21.45774175911392,0.0,5.107100654332529,131.92472530379723,recipedb_unverified,uncertain,,1007
+half cream,2.6000017636995367,8.999997060500775,1.400024691793506,58.99998236300464,recipedb_unverified,uncertain,,314
+halibut,18.549460013992018,0.0,1.3292415504094723,90.94831184559399,recipedb_unverified,uncertain,,33
+hamburger,0.6299934743117164,34.48006137674386,0.5400007054798145,129.00025794105716,recipedb_unverified,uncertain,,276
+hard salami,25.90001587329583,1.6000282191925785,28.700065256882834,368.0007583908005,recipedb_unverified,uncertain,,40
+hash brown,3.0000088184976805,35.11006587417768,12.52002901285737,265.00052910986085,recipedb_unverified,uncertain,,51
+hash brown potato,3.0000018371870167,35.10999900057027,12.520006231738364,264.99994047514065,recipedb_unverified,uncertain,,51
+hazelnut,0.0,20.0,6.67,133.0,recipedb_unverified,uncertain,,434
+hominy,1.4800025867593196,14.259995767121111,0.8799978835605567,71.99998053848789,recipedb_unverified,uncertain,,102
+horseradish,1.18,11.29,0.6899592585407152,48.0,recipedb_unverified,uncertain,,492
+hot sausage,21.800053792835854,8.500017636995363,7.4000202825446655,185.00037478615144,recipedb_unverified,uncertain,,20
+hummus,4.86000634931833,20.1199878304732,8.59000520291363,176.99994708901394,recipedb_unverified,uncertain,,86
+ice,4.100006172948377,22.199992259318705,13.000001469749614,221.99994708901392,recipedb_unverified,uncertain,,754
+italian bread,8.800155205559182,50.100913008459884,3.500061729483765,271.004779625743,recipedb_unverified,uncertain,,285
+italian cheese,12.5299828921145,70.25996931162808,2.7000035273990726,354.9999118150232,recipedb_unverified,uncertain,,123
+italian dressing,0.3899980599305103,9.989991005132365,6.680011993156847,101.99997648400618,recipedb_unverified,uncertain,,273
+italian pork sausage,14.250030864741884,0.650011464046985,31.33007195894108,346.0007010705656,recipedb_unverified,uncertain,,21
+italian salad dressing,0.3899980599305103,9.989991005132365,6.6799954584736945,101.99998291416074,recipedb_unverified,uncertain,,270
+italian salami,21.432535553243152,1.1852060882907989,36.543942573943106,419.7614302427439,recipedb_unverified,uncertain,,8
+italian tomato,1.6000038923024245,10.399994456944317,2.399998236300464,71.99998053848789,recipedb_unverified,uncertain,,372
+italian turkey sausage,15.05002292809397,4.650015873295825,8.750022046244203,158.0003174659165,recipedb_unverified,uncertain,,75
+jam,0.37,68.86,0.06999999999999999,278.0,recipedb_unverified,uncertain,,59
+jicama,0.719986243143618,8.820018871585038,0.0899927688319018,38.00000881849768,recipedb_unverified,uncertain,,171
+juice,0.40000705479814463,4.799996472600928,0.30000529109860846,22.999994121001553,recipedb_unverified,uncertain,,35
+jumbo shrimp,20.088581809202985,0.0,0.5097091659464893,84.95171872519798,recipedb_unverified,uncertain,,112
+kale,4.280009347607541,8.750011548032678,0.9299987654103247,48.99999496085847,recipedb_unverified,uncertain,,231
+kielbasa,13.100016093758267,3.9000026455493044,17.600045856187943,226.00045856187938,recipedb_unverified,uncertain,,164
+kielbasa sausage,12.442925948135477,5.027138926612463,29.663137062969955,336.80858568934195,recipedb_unverified,uncertain,,46
+kumquat,1.880015520555918,15.900015873295825,0.8599798938252878,71.00001763699537,recipedb_unverified,uncertain,,24
+ladyfinger,10.600186952150832,59.701052928623085,9.10016049665779,365.0064375033069,recipedb_unverified,uncertain,,165
+lamb meat,16.560325382967754,0.0,23.410465793047493,282.0056129737738,recipedb_unverified,uncertain,,34
+lamb shoulder,16.5803,0.0,21.450378313550505,264.0046561667754,recipedb_unverified,uncertain,,163
+lamb stew meat,20.210365262173937,0.0,5.2800975325843496,134.00236335737844,recipedb_unverified,uncertain,,28
+lard,0.0,0.0,100.0,902.0,recipedb_unverified,uncertain,,247
+lasagna,7.1,14.399999999999999,2.3,96.0,recipedb_unverified,uncertain,,40
+leg lamb,17.910315878586925,0.0,17.070301063510822,230.00405650893313,recipedb_unverified,uncertain,,247
+lemon peel,1.5000154323709411,15.999994121001546,0.3000052910986084,47.000002939499225,recipedb_unverified,uncertain,,348
+lemonade,0.0,3.5900104058272633,0.0400359794705374,13.999997060500775,recipedb_unverified,uncertain,,78
+lemonade concentrate,0.21999212214207192,49.89000393892897,0.7000123458967532,195.99992945201856,recipedb_unverified,uncertain,,43
+lima bean,6.84000893607765,20.170020635284573,0.8600019400694898,112.99996472600931,recipedb_unverified,uncertain,,94
+limeade concentrate,0.0,13.789999235730201,0.0,51.9999764840062,recipedb_unverified,uncertain,,93
+linguine pasta,13.109247958517786,75.06657965748956,1.518016190761742,372.9703786662904,recipedb_unverified,uncertain,,55
+link sausage,11.980017284255455,0.940007760277959,28.230061376743855,309.0006217040865,recipedb_unverified,uncertain,,15
+liqueur,0.10000176369953616,46.80011993156846,0.29982892114499377,335.9999294520186,recipedb_unverified,uncertain,,41
+lobster,16.510579257717655,0.0,0.7495723028624844,76.95608976054841,recipedb_unverified,uncertain,,63
+lotus root,2.599999559075116,17.230021693504295,0.10000176369953616,73.99998236300465,recipedb_unverified,uncertain,,14
+lump crabmeat,18.27962133370959,0.0,0.5996578422899875,83.95229633679607,recipedb_unverified,uncertain,,92
+macadamia nut,7.91,13.819999999999999,75.77000000000001,718.0,recipedb_unverified,uncertain,,178
+macaroni,11.759995767121113,11.630011111307079,14.960008113017867,227.99993953030162,recipedb_unverified,uncertain,,201
+macaroni noodle,13.100004283270305,52.06000000000001,4.030003048680627,297.0,recipedb_unverified,uncertain,,25
+mackerel,18.589437203478017,0.0,13.882101095257413,204.8835517381259,recipedb_unverified,uncertain,,21
+mandarin orange,0.8099870287915932,13.339985152856631,0.30999424392605934,52.99997274282535,recipedb_unverified,uncertain,,119
+maraschino cherry,0.22000388013897954,41.9699840385192,0.20998606677366444,164.99995149826276,recipedb_unverified,uncertain,,248
+marinara sauce,1.3900009994297373,7.430000025195708,1.6099990005702627,49.999986433080494,recipedb_unverified,uncertain,,372
+marshmallow,4.300005291098609,89.59999294520186,2.8000097003474487,377.99989638265225,recipedb_unverified,uncertain,,197
+meat,22.38039912520503,0.0,2.0300402123494243,114.00201061747121,recipedb_unverified,uncertain,,190
+meat beef,10.860222402511509,1.0500185188451296,10.300203707296426,143.0028527839997,recipedb_unverified,uncertain,,12
+meat chicken,19.190043034268683,0.0,3.260002932150479,106.00021605319318,recipedb_unverified,uncertain,,12
+meatball,14.391810261203902,8.0554110301769,22.197382228963473,285.83754784034994,recipedb_unverified,uncertain,,114
+mexican cheese,21.44036931868287,4.630064022293162,29.980523717979406,373.0065785992698,recipedb_unverified,uncertain,,577
+mexican chocolate,3.6399818926847627,77.41000723116811,15.590045679817985,425.99987801078214,recipedb_unverified,uncertain,,59
+milk chocolate,0.8299984126704175,1.25,1.4599994708901392,21.0,recipedb_unverified,uncertain,,94
+milk ricotta cheese,11.260020017989735,3.0400007054798146,12.980023898128715,174.000346126034,recipedb_unverified,uncertain,,112
+mix,35.59992239722041,23.969970075897873,34.499961786510056,554.9999118150231,recipedb_unverified,uncertain,,100
+monkfish,14.471771988923965,0.0,1.5191405492160355,75.95682904460396,recipedb_unverified,uncertain,,9
+morel,3.1199844794440823,5.099992945201855,0.5700276900827175,31.00001763699536,recipedb_unverified,uncertain,,22
+mortadella,16.37030635460943,3.050053792835852,25.390438984814544,311.00548510555745,recipedb_unverified,uncertain,,29
+mozzarella,22.170408649182523,2.1900518527663624,22.350438279334732,300.00529109860844,recipedb_unverified,uncertain,,24
+muenster cheese,23.41042170055909,1.1200373904301664,30.040565089331377,368.0064904142931,recipedb_unverified,uncertain,,61
+mung bean,3.04,5.94,0.18,30.0,recipedb_unverified,uncertain,,36
+mushroom soup,2.38,4.76,1.5900003275441998,40.0,recipedb_unverified,uncertain,,64
+mussel,11.900231926489004,3.6900738990105646,2.24004391611845,86.00171244201837,recipedb_unverified,uncertain,,334
+mustard green,2.860015167816011,4.670011816786893,0.4200029982892115,27.000057320234927,recipedb_unverified,uncertain,,33
+mutton,33.4306,0.08,11.0902,234.00418,recipedb_unverified,uncertain,,43
+napa cabbage,1.0999973544506956,2.2299998236300462,0.16999858904037107,12.000013227746521,recipedb_unverified,uncertain,,224
+navy bean,6.150020282544666,13.050023479250076,0.700012345896753,67.00012345896754,recipedb_unverified,uncertain,,133
+neufchatel cheese,9.150161378507557,3.590069195811802,22.780384133758975,253.00446215982646,recipedb_unverified,uncertain,,43
+no salt tomato sauce,1.2000211643944336,5.3100142859662425,0.3000052910986084,23.99998236300464,recipedb_unverified,uncertain,,47
+noodle,0.16,86.08999785416556,0.060009876717402426,350.9999647260093,recipedb_unverified,uncertain,,166
+nut,6.150113366686852,40.75080689253779,23.860385544718604,387.0068255172049,recipedb_unverified,uncertain,,403
+oatmeal,11.300022928093972,78.04000070547981,4.830004379853849,379.9999118150232,recipedb_unverified,uncertain,,208
+octopus,14.901530450272492,2.1987490961039877,1.0394142753840456,81.95342951374803,recipedb_unverified,uncertain,,21
+oil,0.27999999999999997,0.0,99.48,876.0,recipedb_unverified,uncertain,,6496
+okra,1.9299971780807423,7.450010141272334,0.18999453253143794,33.000063934108184,recipedb_unverified,uncertain,,248
+orange juice concentrate,0.6000105821972169,8.46999065239246,0.06002457421353699,37.00000587899845,recipedb_unverified,uncertain,,147
+orange liqueur,0.09994297371499793,46.80011993156846,0.29982892114499377,335.9999294520186,recipedb_unverified,uncertain,,156
+orange peel,1.5,25.0,0.20000352739907232,96.99994708901394,recipedb_unverified,uncertain,,267
+oyster,22.797051094375565,0.0,4.8572285225488985,140.91959293814708,recipedb_unverified,uncertain,,108
+oyster mushroom,3.3099999999999996,6.09,0.41000135216964445,33.0,recipedb_unverified,uncertain,,55
+paneer,11.08097144570451,3.3681370041799683,4.28490802306919,97.65604331646061,recipedb_unverified,uncertain,,19
+papaya,0.4700038801389795,10.82003209933156,0.2599913578722729,43.00004850173724,recipedb_unverified,uncertain,,217
+parsnip,1.199999118150232,17.989999823630047,0.3000052910986084,75.00000000000001,recipedb_unverified,uncertain,,348
+part mozzarella cheese,24.26039259951675,2.770066491472513,15.920298417961517,254.0044797968218,recipedb_unverified,uncertain,,205
+part ricotta cheese,11.390206764375623,5.140081835658478,7.910145387631763,138.0024339053599,recipedb_unverified,uncertain,,138
+passion fruit juice,0.0,7.820008583337744,0.0,32.99999412100155,recipedb_unverified,uncertain,,29
+pasta sauce,4.369999459584373,12.699999118150231,2.3800000000000003,89.99997637902408,recipedb_unverified,uncertain,,227
+pastrami,16.30002292809397,3.3400059965784235,6.209986066773665,139.00024691793507,recipedb_unverified,uncertain,,12
+pastry dough,4.5,69.39999999999999,10.500008818497681,387.0,recipedb_unverified,uncertain,,42
+pate,11.400201061747122,4.6701000017637,43.84080847986737,462.00814829185697,recipedb_unverified,uncertain,,6
+pea carrot,2.17,8.48,0.26999999999999996,38.0,recipedb_unverified,uncertain,,90
+peach,0.9100028219192579,9.54001981222479,0.2500044092488404,39.000070547981444,recipedb_unverified,uncertain,,414
+pear,0.36,15.230000000000002,0.13999999999999999,56.99999412100155,recipedb_unverified,uncertain,,363
+pearl barley,9.909999882420031,77.719998421069,1.1599851849238965,351.9999029965255,recipedb_unverified,uncertain,,191
+peel,1.5,16.0,0.3,47.0,recipedb_unverified,uncertain,,57
+penne,5.700012345896754,16.799987654103248,3.9999949608584684,125.99997354450696,recipedb_unverified,uncertain,,196
+penne pasta,13.109247958517786,75.06657965748956,1.518016190761742,372.9703786662904,recipedb_unverified,uncertain,,466
+pepperoni,19.23905183512937,1.1793270898369754,46.253637630293305,503.7125875235895,recipedb_unverified,uncertain,,351
+pesto sauce,9.82997936471543,10.089992768831904,37.60000176369954,417.99987654103256,recipedb_unverified,uncertain,,340
+phyllo dough,7.100147268911268,52.60103793717702,6.000127868216372,299.0059568951834,recipedb_unverified,uncertain,,252
+picante sauce,0.0,6.249992651251934,0.0,25.0,recipedb_unverified,uncertain,,188
+pico de gallo,0.0,9.380000823059785,0.0,31.00001763699536,recipedb_unverified,uncertain,,115
+pigeon pea,21.699994708901393,62.77999024086256,1.4899968841308195,342.9999206335209,recipedb_unverified,uncertain,,44
+pimento,1.1000194006948978,5.100001763699536,0.3000052910986084,22.99998677225348,recipedb_unverified,uncertain,,83
+pimiento,11.230004056508934,8.459937565036421,15.950016755145594,224.9999118150232,recipedb_unverified,uncertain,,237
+pineapple chunk,0.40000705479814463,22.199994708901393,0.10000176369953616,85.99997470483561,recipedb_unverified,uncertain,,308
+pink bean,20.96004779625743,64.19013121924549,1.1300022928093971,343.00069225206795,recipedb_unverified,uncertain,,24
+pistachio,20.160349682828034,27.17049683415933,45.320728760648336,560.0098767174023,recipedb_unverified,uncertain,,415
+pistachio nut,20.160320287835766,27.170496834159337,45.320728760648336,560.0098767174023,recipedb_unverified,uncertain,,152
+pizza sauce,2.180003174659165,8.65999988242003,1.150002645549304,53.99998824200309,recipedb_unverified,uncertain,,212
+plum,0.700012345896753,11.420004887967288,0.27999999999999997,46.000005039141534,recipedb_unverified,uncertain,,137
+polish kielbasa,13.100032628441419,3.9000026455493044,17.600045856187943,226.00045856187938,recipedb_unverified,uncertain,,11
+polish sausage,14.091981340058906,1.6290851690506005,28.703680840931938,325.8148291856999,recipedb_unverified,uncertain,,69
+pomegranate juice,0.14991446057249688,13.130037566800121,0.2899522037425704,54.00007054798145,recipedb_unverified,uncertain,,74
+poppy seed,17.990000000000002,28.13,41.56,525.0,recipedb_unverified,uncertain,,309
+pork bean,4.6199999118150235,19.229996340323463,1.149998236300464,107.99997648400618,recipedb_unverified,uncertain,,42
+pork belly,9.340160810204374,0.0,53.0109327324997,518.0091359635971,recipedb_unverified,uncertain,,68
+pork butt roast,25.05575936083529,0.0,17.6799524682975,266.84834609076,recipedb_unverified,uncertain,,18
+pork chop,5.910010170667325,36.64007154741118,1.1800031746591653,181.0003604560927,recipedb_unverified,uncertain,,447
+pork hock,26.28941133588482,0.0,14.49975602156417,235.24278058989876,recipedb_unverified,uncertain,,17
+pork leg,21.62769625566589,0.0,3.38807,122.930136921874,recipedb_unverified,uncertain,,15
+pork liver,14.500277782676942,3.1000546746856203,28.500568793100406,327.0065168697861,recipedb_unverified,uncertain,,10
+pork loin,20.960731229827687,0.0,9.89226000458562,172.9134993562497,recipedb_unverified,uncertain,,285
+pork meat,10.280204089431324,0.0,9.210182278347062,127.00252649958554,recipedb_unverified,uncertain,,9
+pork roast,26.464961904090025,0.0,10.314141342880827,198.88697331522602,recipedb_unverified,uncertain,,93
+pork sausage,14.950021164394434,0.0,18.560027513712765,231.0004585618794,recipedb_unverified,uncertain,,219
+pork sausage link,13.700021164394435,2.3600063493183305,37.630072840790845,407.0008068925378,recipedb_unverified,uncertain,,26
+pork shoulder,22.527197716597,0.0,3.3980688224954,126.9278646889716,recipedb_unverified,uncertain,,291
+pork sirloin roast,22.867003827227993,0.0,1.7090299999999998,112.93581456463077,recipedb_unverified,uncertain,,12
+pork skin,61.30108114781566,0.0,31.300552037954816,544.0095945254766,recipedb_unverified,uncertain,,7
+pork sparerib,15.461214777450516,0.0,23.386708760295598,276.842669182878,recipedb_unverified,uncertain,,86
+pork steak,21.627707278787987,0.0,3.3880778320605307,122.93013324749997,recipedb_unverified,uncertain,,23
+portabella mushroom,2.11000194006949,3.8699977071906035,0.3500061729483765,21.999996080667696,recipedb_unverified,uncertain,,234
+pot roast,21.627709483412406,0.0,4.087677913190709,122.930136921874,recipedb_unverified,uncertain,,28
+provolone cheese,25.580462912338255,2.140050970916595,26.62048713381189,351.0061905853719,recipedb_unverified,uncertain,,539
+prune,0.87,27.800000000000004,0.20000352739907232,105.0,recipedb_unverified,uncertain,,301
+puff pastry,7.400130513765675,45.70080601068802,38.50067902432142,558.0098414434118,recipedb_unverified,uncertain,,558
+pumpkin,1.0300005291098608,3.280001209393968,0.06999682534083494,15.000005878998454,recipedb_unverified,uncertain,,412
+pumpkin seed,19.4,0.0,0.7,89.0,recipedb_unverified,uncertain,,125
+queso fresco,18.09000158732958,2.9799971276893276,23.819996825340834,298.9999235730201,recipedb_unverified,uncertain,,212
+quinoa,10.700012345896754,17.800011590025523,12.099992945201855,191.99995968686775,recipedb_unverified,uncertain,,236
+ramen noodle,10.170000000000002,60.25996931162808,17.59,439.999882420031,recipedb_unverified,uncertain,,96
+raspberry,1.2,11.940000000000001,0.650000220462442,51.99999999999999,recipedb_unverified,uncertain,,527
+ravioli,2.480001410959629,13.640011287677032,1.450000881849768,77.00000587899846,recipedb_unverified,uncertain,,19
+red bean,24.370050618176688,59.800128750066136,0.2500044092488404,330.0006613873261,recipedb_unverified,uncertain,,94
+red cabbage,1.4300075839080055,7.3700153441859655,0.15999694292080402,31.000061729483765,recipedb_unverified,uncertain,,261
+red cherry,1.0000176369953615,12.180020811654527,0.3000052910986084,50.00008818497681,recipedb_unverified,uncertain,,36
+red enchilada sauce,0.6200053653596416,4.869997707190603,0.9099984126704175,30.0,recipedb_unverified,uncertain,,112
+red grape,0.7200009406397526,18.10003262844142,0.15999694292080402,69.00013668671406,recipedb_unverified,uncertain,,91
+red kidney bean,24.37000064668983,59.79999647260094,0.25,329.999924412877,recipedb_unverified,uncertain,,368
+red lentil,23.909989594172735,63.09997908756265,2.17,357.999914334594,recipedb_unverified,uncertain,,300
+red pasta sauce,1.6000015117424595,10.4,1.199999118150232,55.99999007919011,recipedb_unverified,uncertain,,9
+rhubarb,0.8999978076234932,4.540005114728655,0.20000352739907232,21.000039683239564,recipedb_unverified,uncertain,,164
+rib,17.510310293538396,0.0,22.070388513612823,274.00483253672905,recipedb_unverified,uncertain,,30
+rib eye,21.157956930457328,0.0,6.566253373075363,148.915368877758,recipedb_unverified,uncertain,,10
+rib eye steak,21.8375893607765,0.0,7.405792724151515,153.91252491225595,recipedb_unverified,uncertain,,38
+rice flour,5.95,80.13,1.42,366.0,recipedb_unverified,uncertain,,308
+rice noodle,5.981586976842625,80.60565442071288,0.5629728919381294,365.9323797597841,recipedb_unverified,uncertain,,302
+rice vermicelli,10.42,76.3099878304732,1.3699999999999999,358.99991769402163,recipedb_unverified,uncertain,,92
+ricotta,11.26,3.04,12.98,174.0,recipedb_unverified,uncertain,,45
+roast,17.59000158732958,6.396365015256002,2.1987490961039877,119.931840361676,recipedb_unverified,uncertain,,70
+roast beef,21.62767420942168,0.0,4.08768232243955,122.92985766944744,recipedb_unverified,uncertain,,217
+roast pork,22.866981780983796,0.0,1.7090248505264645,112.93581015538192,recipedb_unverified,uncertain,,27
+roasting chicken,17.080283602885412,0.08994867634349811,15.451220480079014,212.87901903031803,recipedb_unverified,uncertain,,211
+romaine lettuce,1.2300040565089332,3.290005114728655,0.3000052910986084,17.000005878998454,recipedb_unverified,uncertain,,489
+romano cheese,31.8005608564525,3.6300463852978004,26.940510414645765,387.0068255172049,recipedb_unverified,uncertain,,466
+roquefort cheese,1.3700417996790069,4.76998418549416,51.1000194006949,483.9998831549058,recipedb_unverified,uncertain,,55
+rotini pasta,13.109225912273587,75.06640328753595,1.518016190761742,372.96954090901073,recipedb_unverified,uncertain,,169
+russet potato,2.1400068784281907,18.07003871320482,0.07999847146040201,79.00015873295825,recipedb_unverified,uncertain,,476
+rutabaga,1.080001410959629,8.620015344185965,0.16000061729483764,37.00007936647913,recipedb_unverified,uncertain,,119
+rye bread,0.01,44.999987402146175,3.4000000000000004,252.9999470890139,recipedb_unverified,uncertain,,107
+rye flour,15.909999999999998,68.63,2.22,325.0,recipedb_unverified,uncertain,,154
+sake,0.5000088184976808,4.99997060500773,0.0,133.9999235730201,recipedb_unverified,uncertain,,428
+salad green,1.9,7.359999999999999,43.33,426.99999999999994,recipedb_unverified,uncertain,,227
+salami,12.600222226141556,1.9000335102911867,22.200391541297027,261.0046032557894,recipedb_unverified,uncertain,,138
+salmon,19.82868598505559,0.0,6.336384533530867,141.91902267529707,recipedb_unverified,uncertain,,459
+salmon fillet,19.828722728795924,0.0,6.336399231027003,141.919346020212,recipedb_unverified,uncertain,,480
+salsa verde,0.0,6.25,1.5599922397220414,46.999991181502324,recipedb_unverified,uncertain,,126
+salt pork,5.050089066826575,0.0,80.5014197781266,748.0131924725304,recipedb_unverified,uncertain,,129
+sardine,0.0,0.0,100.00019841619783,902.0018031071977,recipedb_unverified,uncertain,,28
+sauce,10.329988183213109,5.479990828762412,14.919990505417498,196.99994708901394,recipedb_unverified,uncertain,,832
+sauerkraut,0.9100028219192579,4.280002733734281,0.1399988560448842,19.00000440924884,recipedb_unverified,uncertain,,487
+sausage,14.250030864741884,0.650011464046985,31.33007195894108,346.0007010705656,recipedb_unverified,uncertain,,569
+sausage link,11.980017284255455,0.940007760277959,28.230061376743855,309.0006217040865,recipedb_unverified,uncertain,,13
+savoy cabbage,2.0000132277465212,6.100019400694897,0.10000176369953616,27.000057320234927,recipedb_unverified,uncertain,,111
+scallop,12.05314467627295,3.1781865641369333,0.4897132224554224,68.96080618705798,recipedb_unverified,uncertain,,205
+sea bass,18.419526799414456,0.0,1.9988646184236054,96.94490202649077,recipedb_unverified,uncertain,,18
+sea scallop,20.528332730735997,5.4069295754775215,0.8395209792059827,110.9369433323339,recipedb_unverified,uncertain,,142
+seashell pasta,13.109247958517786,75.06657965748956,1.518016190761742,372.9703786662904,recipedb_unverified,uncertain,,29
+semolina,12.67999183659072,72.83003227570151,1.0500059209913,359.9998992171694,recipedb_unverified,uncertain,,170
+shiitake mushroom,2.2399865958835252,6.789996296230974,0.4900035383818167,33.99998236300464,recipedb_unverified,uncertain,,547
+silken tofu,4.799996472600928,1.4000019106744976,2.4999913889963823,46.99998873191963,recipedb_unverified,uncertain,,89
+simple syrup,0.0,85.12989647083722,0.0,341.0000176369954,recipedb_unverified,uncertain,,114
+sirloin,22.867003827227993,0.0,1.7090248505264645,112.93581015538192,recipedb_unverified,uncertain,,214
+sirloin steak,21.367859221503025,0.0,5.356950739871956,133.92387872801993,recipedb_unverified,uncertain,,194
+sirloin tip,22.867003827227993,0.0,1.7090248505264645,112.93581015538194,recipedb_unverified,uncertain,,7
+skirt steak,26.644855582402982,0.0,10.054285201972995,204.88355908687396,recipedb_unverified,uncertain,,81
+soba noodle,14.45633961798268,75.01613785075575,0.7137692022786998,337.7837351628777,recipedb_unverified,uncertain,,67
+soman noodle,11.410254149103158,74.49337730824176,0.81430007583908,357.8899098749537,recipedb_unverified,uncertain,,9
+spaghetti squash,0.6400024691793506,6.910013110166552,0.5700056438385157,31.000061729483765,recipedb_unverified,uncertain,,50
+spanish peanut,26.150461207428705,15.830276254137347,49.60087479496994,570.010053087356,recipedb_unverified,uncertain,,14
+sparerib,15.461212940263497,0.0,23.386708760295598,276.8426642224731,recipedb_unverified,uncertain,,48
+sparkling water,0.0,0.0,0.0,0.0,recipedb_unverified,uncertain,,51
+spicy sausage,21.800053792835854,8.500017636995363,7.4000202825446655,185.00037478615144,recipedb_unverified,uncertain,,20
+spinach leaf,3.630002292809397,4.21,0.5700000000000001,28.999999999999996,recipedb_unverified,uncertain,,324
+sprite,0.05000088184976808,10.139993650681669,0.020003292239134142,40.0,recipedb_unverified,uncertain,,34
+squid,15.580301239880775,3.080058731194554,1.3800287483024392,92.00182469414511,recipedb_unverified,uncertain,,128
+steak,21.627710953162023,0.0,3.3880668089384294,122.930136921874,recipedb_unverified,uncertain,,903
+straw mushroom,3.83,4.639999529680124,0.6799943561614843,32.0,recipedb_unverified,uncertain,,47
+suet,1.5000264554930425,0.0,94.00165787756399,854.0150619940388,recipedb_unverified,uncertain,,68
+sugar syrup,0.0,4.500010288247294,0.0,18.000041152989176,recipedb_unverified,uncertain,,60
+summer squash,1.010004585618794,3.8800067020582376,0.27000035273990725,19.00003747861514,recipedb_unverified,uncertain,,77
+super,14.499999999999998,5.5,15.5,219.0,recipedb_unverified,uncertain,,6
+superfine sugar,0.0,99.97998201026473,0.0,386.99988829902946,recipedb_unverified,uncertain,,333
+swiss chard,1.8000060259734152,3.740013051376568,0.20000352739907232,19.000039315802162,recipedb_unverified,uncertain,,247
+swordfish,19.648829785357766,0.0,6.6462195100442685,143.91820549451197,recipedb_unverified,uncertain,,9
+taco cheese,8.85998871232297,19.849997354450696,12.700003527399073,225.99992945201856,recipedb_unverified,uncertain,,24
+taco sauce,0.0,6.249977953755798,0.0,25.0,recipedb_unverified,uncertain,,199
+taco seasoning mix,0.0,56.28994082788056,0.0,187.99978835605566,recipedb_unverified,uncertain,,602
+tempeh,20.289996296230974,7.63999365068167,10.80001410959629,191.99994708901392,recipedb_unverified,uncertain,,40
+tenderloin,22.070389248487626,0.0,3.1900562620152026,123.00216935042944,recipedb_unverified,uncertain,,9
+tequila,0.3000052910986084,11.300022928093972,0.10000176369953616,109.99997060500775,recipedb_unverified,uncertain,,575
+tomatillo,0.9600037037690259,5.840005996578423,1.0199915342422265,32.00005732023492,recipedb_unverified,uncertain,,447
+tomato basil pasta sauce,1.600001085353561,10.399993487878636,2.400001628030341,71.99998100631268,recipedb_unverified,uncertain,,38
+tonic water,0.0,8.800037625590106,0.0,34.00001175799691,recipedb_unverified,uncertain,,12
+topping,4.954819896882367,53.127803547387664,40.36661434358044,583.4553225512502,recipedb_unverified,uncertain,,220
+tortellini,13.5,47.00000587899846,7.230002028254467,307.0,recipedb_unverified,uncertain,,56
+trout,20.758157820302536,0.0,6.606230281280681,147.91562054909846,recipedb_unverified,uncertain,,59
+tuna,23.316695767709017,0.0,4.897220409531033,143.91788214959703,recipedb_unverified,uncertain,,269
+tuna fish,23.316695767709017,0.0,4.897214110604117,143.91788214959703,recipedb_unverified,uncertain,,18
+turkey bacon,15.940007760277961,1.8900000000000001,16.930016402405688,226.0001058219722,recipedb_unverified,uncertain,,44
+turkey breast,23.78564877687437,0.14074322298453235,1.4878569286936278,114.60546041376392,recipedb_unverified,uncertain,,133
+turkey ham,19.60003703769026,2.930011993156846,3.800000881849768,124.00024691793506,recipedb_unverified,uncertain,,9
+turkey kielbasa,13.100010582197216,3.9000026455493044,17.600001763699538,225.99992945201862,recipedb_unverified,uncertain,,15
+turkey meat,21.931339177057797,0.14980422935148768,7.420302827210357,160.78987283726346,recipedb_unverified,uncertain,,28
+turkey pepperoni,30.98996454963932,3.7799608458702982,11.519956260251504,242.99993533101704,recipedb_unverified,uncertain,,20
+turkey sausage,18.790035979470538,0.4700038801389795,8.080014638706151,155.00030864741882,recipedb_unverified,uncertain,,46
+turnip,0.9000103617347748,6.430007583908005,0.10000176369953616,28.000052910986085,recipedb_unverified,uncertain,,337
+turnip green,1.5000044092488403,7.130019929804759,0.3000052910986084,32.00006466898299,recipedb_unverified,uncertain,,17
+vanilla pudding mix,0.0,92.89995832099517,0.5999785149329233,376.9999470890139,recipedb_unverified,uncertain,,113
+vanilla sugar,3.9,70.0,25.7,527.0,recipedb_unverified,uncertain,,160
+vanilla wafer,5.000088184976807,73.60129808285862,15.200268082329494,441.00777791495443,recipedb_unverified,uncertain,,40
+vanilla yogurt,2.63999365068167,13.659996208046,1.7599957671211135,78.99998236300463,recipedb_unverified,uncertain,,97
+veal,21.687684086139086,1.3992089807580381,4.627374380500538,133.92387872801993,recipedb_unverified,uncertain,,224
+veal shank,19.150337748461176,0.0,3.4800621116186647,113.00199298047586,recipedb_unverified,uncertain,,22
+veal shoulder,19.270335455651775,0.0,5.280095327959929,130.00229280939698,recipedb_unverified,uncertain,,18
+vegetable,3.3000000000000003,18.6,0.20000352739907232,82.0,recipedb_unverified,uncertain,,451
+vegetable juice,0.9299987654103248,3.8699996242553163,0.3099995884701083,21.999991181502324,recipedb_unverified,uncertain,,97
+vegetarian bean,5.27999832448544,13.49999559075116,0.8699988095028132,82.99997598876446,recipedb_unverified,uncertain,,59
+velveeta cheese,16.099082435316323,9.67920510061906,21.728822377819714,299.2652207269969,recipedb_unverified,uncertain,,202
+vermicelli,10.64000246917935,75.79999647260092,1.32,357.9999206335209,recipedb_unverified,uncertain,,133
+vodka,0.0,0.0,0.0,230.99991965368778,recipedb_unverified,uncertain,,483
+wakame,3.0300000000000002,9.139999999999999,0.6399999999999999,45.0,recipedb_unverified,uncertain,,31
+watercress,2.3,1.2899955613561676,0.10000176369953616,11.000017636995363,recipedb_unverified,uncertain,,210
+watermelon,0.61,7.550005221110532,0.1500026455493042,30.0,recipedb_unverified,uncertain,,178
+wheat,9.090000000000002,72.73,9.090000000000002,409.0,recipedb_unverified,uncertain,,44
+wheat pasta,13.509997236870728,73.099988535953,2.6800002351599383,361.9999176940217,recipedb_unverified,uncertain,,44
+whiskey,0.10000176369953616,21.400024691793508,0.10000176369953616,83.99998236300465,recipedb_unverified,uncertain,,125
+white,10.9,0.73,0.16999858904037107,51.99999999999999,recipedb_unverified,uncertain,,47
+white bean,21.110039418684636,62.250127868216374,1.1800031746591653,336.0006790243214,recipedb_unverified,uncertain,,253
+white bread,10.909999999999998,22.53999867044189,2.3700025431409437,154.99996870855662,recipedb_unverified,uncertain,,564
+white cheese,12.290000000000001,21.490000000000002,5.34,183.0,recipedb_unverified,uncertain,,28
+white chicken meat,12.429989946912643,16.320005643838513,16.14000246917935,259.99992945201853,recipedb_unverified,uncertain,,15
+white chocolate,5.870003586189058,59.23998659588352,32.08998395033422,538.9998647830356,recipedb_unverified,uncertain,,157
+white fish,16.75047178962592,0.0,2.3186916876840864,91.94774158274397,recipedb_unverified,uncertain,,31
+white flour,5.950016755145594,80.12998465581404,1.419998589040371,365.99992266855884,recipedb_unverified,uncertain,,305
+white hominy,1.4800025867593196,14.259995767121111,0.8800037625590105,71.99997648400618,recipedb_unverified,uncertain,,70
+white mushroom,3.0900015873295823,3.260000176369954,0.33999717808074215,22.000005878998454,recipedb_unverified,uncertain,,238
+white potato,1.6800046444087786,15.710025015138422,0.10000176369953616,69.00013668671406,recipedb_unverified,uncertain,,136
+white rum,0.0,0.0,0.0,230.99995884701084,recipedb_unverified,uncertain,,124
+white tequila,0.3000052910986084,11.300022928093972,0.10000176369953616,109.99997060500775,recipedb_unverified,uncertain,,31
+wild rice,14.73000699600816,74.89996884130821,1.07997201596736,356.99990789569085,recipedb_unverified,uncertain,,199
+wine,0.039991886982133726,0.2699871249933861,0.0,18.999982363004637,recipedb_unverified,uncertain,,205
+winter squash,0.8000012492871715,10.420025044533414,0.10000176369953616,40.000078999041726,recipedb_unverified,uncertain,,26
+wonton wrapper,9.800172842554543,57.901021182031435,1.5000264554930425,291.00513236565024,recipedb_unverified,uncertain,,224
+yam,1.3400037919540027,16.30002292809397,0.10000176369953616,67.00012345896754,recipedb_unverified,uncertain,,64
+yellow bean,22.000035273990726,60.70010053087357,2.6000017636995363,345.0007054798145,recipedb_unverified,uncertain,,12
+yellow cake mix,4.400077602779591,78.1013738252976,11.600204589146195,432.0076191819962,recipedb_unverified,uncertain,,87
+yellow pepper,1.0,6.32,0.21000000000000002,27.0,recipedb_unverified,uncertain,,303
+yellow potato,1.988872525676526,23.426684480031984,1.8489523624755286,118.932410624526,recipedb_unverified,uncertain,,43
+yellow squash,1.010004585618794,3.8800067020582376,0.27000255736432743,19.000039315802162,recipedb_unverified,uncertain,,250

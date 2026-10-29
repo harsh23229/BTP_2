@@ -1,0 +1,981 @@
+query,confidence,gate,judge,in_pool,n_candidates,rank
+butter,strong,False,context only,True,189,6.0
+butter,strong,False,flavour only,True,104,
+butter,strong,False,context + flavour,True,189,5.0
+butter,strong,False,embedding only,True,189,13.0
+butter,strong,False,context + embedding,True,189,8.0
+butter,strong,False,all three (our ranking),True,189,7.0
+butter,strong,False,random baseline,True,189,
+butter,strong,True,context only,True,9,1.0
+butter,strong,True,flavour only,True,3,
+butter,strong,True,context + flavour,True,9,1.0
+butter,strong,True,embedding only,True,9,1.0
+butter,strong,True,context + embedding,True,9,1.0
+butter,strong,True,all three (our ranking),True,9,1.0
+butter,strong,True,random baseline,True,9,
+margarine,strong,False,context only,True,189,5.0
+margarine,strong,False,flavour only,True,0,
+margarine,strong,False,context + flavour,True,189,5.0
+margarine,strong,False,embedding only,True,189,16.0
+margarine,strong,False,context + embedding,True,189,3.0
+margarine,strong,False,all three (our ranking),True,189,3.0
+margarine,strong,False,random baseline,True,189,
+margarine,strong,True,context only,True,9,1.0
+margarine,strong,True,flavour only,True,0,
+margarine,strong,True,context + flavour,True,9,1.0
+margarine,strong,True,embedding only,True,9,1.0
+margarine,strong,True,context + embedding,True,9,1.0
+margarine,strong,True,all three (our ranking),True,9,1.0
+margarine,strong,True,random baseline,True,9,
+shortening,strong,False,context only,True,189,11.0
+shortening,strong,False,flavour only,True,0,
+shortening,strong,False,context + flavour,True,189,11.0
+shortening,strong,False,embedding only,True,189,13.0
+shortening,strong,False,context + embedding,True,189,5.0
+shortening,strong,False,all three (our ranking),True,189,5.0
+shortening,strong,False,random baseline,True,189,
+shortening,strong,True,context only,True,9,1.0
+shortening,strong,True,flavour only,True,0,
+shortening,strong,True,context + flavour,True,9,1.0
+shortening,strong,True,embedding only,True,9,1.0
+shortening,strong,True,context + embedding,True,9,1.0
+shortening,strong,True,all three (our ranking),True,9,1.0
+shortening,strong,True,random baseline,True,9,
+lime juice,strong,False,context only,True,189,15.0
+lime juice,strong,False,flavour only,True,0,
+lime juice,strong,False,context + flavour,True,189,15.0
+lime juice,strong,False,embedding only,True,189,31.0
+lime juice,strong,False,context + embedding,True,189,9.0
+lime juice,strong,False,all three (our ranking),True,189,9.0
+lime juice,strong,False,random baseline,True,189,
+lime juice,strong,True,context only,True,18,8.0
+lime juice,strong,True,flavour only,True,0,
+lime juice,strong,True,context + flavour,True,18,8.0
+lime juice,strong,True,embedding only,True,18,5.0
+lime juice,strong,True,context + embedding,True,18,4.0
+lime juice,strong,True,all three (our ranking),True,18,4.0
+lime juice,strong,True,random baseline,True,18,
+lemon juice,strong,False,context only,True,189,32.0
+lemon juice,strong,False,flavour only,True,103,
+lemon juice,strong,False,context + flavour,True,189,25.0
+lemon juice,strong,False,embedding only,True,189,122.0
+lemon juice,strong,False,context + embedding,True,189,80.0
+lemon juice,strong,False,all three (our ranking),True,189,71.0
+lemon juice,strong,False,random baseline,True,189,
+lemon juice,strong,True,context only,True,18,5.0
+lemon juice,strong,True,flavour only,True,12,
+lemon juice,strong,True,context + flavour,True,18,7.0
+lemon juice,strong,True,embedding only,True,18,6.0
+lemon juice,strong,True,context + embedding,True,18,5.0
+lemon juice,strong,True,all three (our ranking),True,18,6.0
+lemon juice,strong,True,random baseline,True,18,
+lemon,strong,False,context only,True,189,36.0
+lemon,strong,False,flavour only,True,103,1.0
+lemon,strong,False,context + flavour,True,189,15.0
+lemon,strong,False,embedding only,True,189,140.0
+lemon,strong,False,context + embedding,True,189,100.0
+lemon,strong,False,all three (our ranking),True,189,39.0
+lemon,strong,False,random baseline,True,189,
+lemon,strong,True,context only,True,18,6.0
+lemon,strong,True,flavour only,True,12,1.0
+lemon,strong,True,context + flavour,True,18,3.0
+lemon,strong,True,embedding only,True,18,7.0
+lemon,strong,True,context + embedding,True,18,5.0
+lemon,strong,True,all three (our ranking),True,18,4.0
+lemon,strong,True,random baseline,True,18,
+lime,strong,False,context only,True,189,47.0
+lime,strong,False,flavour only,True,105,1.0
+lime,strong,False,context + flavour,True,189,19.0
+lime,strong,False,embedding only,True,189,26.0
+lime,strong,False,context + embedding,True,189,22.0
+lime,strong,False,all three (our ranking),True,189,10.0
+lime,strong,False,random baseline,True,189,
+lime,strong,True,context only,True,18,9.0
+lime,strong,True,flavour only,True,14,1.0
+lime,strong,True,context + flavour,True,18,6.0
+lime,strong,True,embedding only,True,18,8.0
+lime,strong,True,context + embedding,True,18,6.0
+lime,strong,True,all three (our ranking),True,18,5.0
+lime,strong,True,random baseline,True,18,
+beef,strong,False,context only,True,189,1.0
+beef,strong,False,flavour only,True,104,5.0
+beef,strong,False,context + flavour,True,189,5.0
+beef,strong,False,embedding only,True,189,61.0
+beef,strong,False,context + embedding,True,189,33.0
+beef,strong,False,all three (our ranking),True,189,27.0
+beef,strong,False,random baseline,True,189,
+beef,strong,True,context only,True,16,1.0
+beef,strong,True,flavour only,True,8,3.0
+beef,strong,True,context + flavour,True,16,2.0
+beef,strong,True,embedding only,True,16,7.0
+beef,strong,True,context + embedding,True,16,4.0
+beef,strong,True,all three (our ranking),True,16,6.0
+beef,strong,True,random baseline,True,16,
+pork,strong,False,context only,True,189,3.0
+pork,strong,False,flavour only,True,104,8.0
+pork,strong,False,context + flavour,True,189,6.0
+pork,strong,False,embedding only,True,189,23.0
+pork,strong,False,context + embedding,True,189,9.0
+pork,strong,False,all three (our ranking),True,189,23.0
+pork,strong,False,random baseline,True,189,
+pork,strong,True,context only,True,16,1.0
+pork,strong,True,flavour only,True,7,3.0
+pork,strong,True,context + flavour,True,16,2.0
+pork,strong,True,embedding only,True,16,3.0
+pork,strong,True,context + embedding,True,16,2.0
+pork,strong,True,all three (our ranking),True,16,4.0
+pork,strong,True,random baseline,True,16,
+lamb,strong,False,context only,True,189,34.0
+lamb,strong,False,flavour only,True,105,7.0
+lamb,strong,False,context + flavour,True,189,23.0
+lamb,strong,False,embedding only,True,189,102.0
+lamb,strong,False,context + embedding,True,189,67.0
+lamb,strong,False,all three (our ranking),True,189,42.0
+lamb,strong,False,random baseline,True,189,
+lamb,strong,True,context only,True,16,4.0
+lamb,strong,True,flavour only,True,8,4.0
+lamb,strong,True,context + flavour,True,16,6.0
+lamb,strong,True,embedding only,True,16,14.0
+lamb,strong,True,context + embedding,True,16,10.0
+lamb,strong,True,all three (our ranking),True,16,9.0
+lamb,strong,True,random baseline,True,16,
+chicken breast,strong,False,context only,True,189,21.0
+chicken breast,strong,False,flavour only,True,102,39.0
+chicken breast,strong,False,context + flavour,True,189,11.0
+chicken breast,strong,False,embedding only,True,189,26.0
+chicken breast,strong,False,context + embedding,True,189,10.0
+chicken breast,strong,False,all three (our ranking),True,189,5.0
+chicken breast,strong,False,random baseline,True,189,
+chicken breast,strong,True,context only,True,16,3.0
+chicken breast,strong,True,flavour only,True,7,6.0
+chicken breast,strong,True,context + flavour,True,16,3.0
+chicken breast,strong,True,embedding only,True,16,4.0
+chicken breast,strong,True,context + embedding,True,16,3.0
+chicken breast,strong,True,all three (our ranking),True,16,2.0
+chicken breast,strong,True,random baseline,True,16,
+chicken thigh,strong,False,context only,True,189,18.0
+chicken thigh,strong,False,flavour only,True,0,
+chicken thigh,strong,False,context + flavour,True,189,18.0
+chicken thigh,strong,False,embedding only,True,189,21.0
+chicken thigh,strong,False,context + embedding,True,189,20.0
+chicken thigh,strong,False,all three (our ranking),True,189,20.0
+chicken thigh,strong,False,random baseline,True,189,
+chicken thigh,strong,True,context only,True,16,3.0
+chicken thigh,strong,True,flavour only,True,0,
+chicken thigh,strong,True,context + flavour,True,16,3.0
+chicken thigh,strong,True,embedding only,True,16,3.0
+chicken thigh,strong,True,context + embedding,True,16,2.0
+chicken thigh,strong,True,all three (our ranking),True,16,2.0
+chicken thigh,strong,True,random baseline,True,16,
+turkey,strong,False,context only,True,189,17.0
+turkey,strong,False,flavour only,True,105,11.0
+turkey,strong,False,context + flavour,True,189,13.0
+turkey,strong,False,embedding only,True,189,37.0
+turkey,strong,False,context + embedding,True,189,26.0
+turkey,strong,False,all three (our ranking),True,189,17.0
+turkey,strong,False,random baseline,True,189,
+turkey,strong,True,context only,True,16,4.0
+turkey,strong,True,flavour only,True,8,3.0
+turkey,strong,True,context + flavour,True,16,6.0
+turkey,strong,True,embedding only,True,16,4.0
+turkey,strong,True,context + embedding,True,16,5.0
+turkey,strong,True,all three (our ranking),True,16,5.0
+turkey,strong,True,random baseline,True,16,
+bacon,strong,False,context only,True,189,1.0
+bacon,strong,False,flavour only,True,104,101.0
+bacon,strong,False,context + flavour,True,189,1.0
+bacon,strong,False,embedding only,True,189,34.0
+bacon,strong,False,context + embedding,True,189,7.0
+bacon,strong,False,all three (our ranking),True,189,3.0
+bacon,strong,False,random baseline,True,189,
+bacon,strong,True,context only,True,16,1.0
+bacon,strong,True,flavour only,True,7,7.0
+bacon,strong,True,context + flavour,True,16,1.0
+bacon,strong,True,embedding only,True,16,2.0
+bacon,strong,True,context + embedding,True,16,1.0
+bacon,strong,True,all three (our ranking),True,16,1.0
+bacon,strong,True,random baseline,True,16,
+cilantro,borderline,False,context only,True,189,23.0
+cilantro,borderline,False,flavour only,True,0,
+cilantro,borderline,False,context + flavour,True,189,23.0
+cilantro,borderline,False,embedding only,True,189,9.0
+cilantro,borderline,False,context + embedding,True,189,15.0
+cilantro,borderline,False,all three (our ranking),True,189,15.0
+cilantro,borderline,False,random baseline,True,189,
+cilantro,borderline,True,context only,True,34,9.0
+cilantro,borderline,True,flavour only,True,0,
+cilantro,borderline,True,context + flavour,True,34,9.0
+cilantro,borderline,True,embedding only,True,34,3.0
+cilantro,borderline,True,context + embedding,True,34,8.0
+cilantro,borderline,True,all three (our ranking),True,34,8.0
+cilantro,borderline,True,random baseline,True,34,
+olive oil,strong,False,context only,True,189,81.0
+olive oil,strong,False,flavour only,True,104,27.0
+olive oil,strong,False,context + flavour,True,189,81.0
+olive oil,strong,False,embedding only,True,189,110.0
+olive oil,strong,False,context + embedding,True,189,99.0
+olive oil,strong,False,all three (our ranking),True,189,102.0
+olive oil,strong,False,random baseline,True,189,
+olive oil,strong,True,context only,True,9,1.0
+olive oil,strong,True,flavour only,True,4,1.0
+olive oil,strong,True,context + flavour,True,9,3.0
+olive oil,strong,True,embedding only,True,9,3.0
+olive oil,strong,True,context + embedding,True,9,3.0
+olive oil,strong,True,all three (our ranking),True,9,3.0
+olive oil,strong,True,random baseline,True,9,
+vegetable oil,strong,False,context only,True,189,49.0
+vegetable oil,strong,False,flavour only,True,0,
+vegetable oil,strong,False,context + flavour,True,189,49.0
+vegetable oil,strong,False,embedding only,True,189,29.0
+vegetable oil,strong,False,context + embedding,True,189,35.0
+vegetable oil,strong,False,all three (our ranking),True,189,35.0
+vegetable oil,strong,False,random baseline,True,189,
+vegetable oil,strong,True,context only,True,9,3.0
+vegetable oil,strong,True,flavour only,True,0,
+vegetable oil,strong,True,context + flavour,True,9,3.0
+vegetable oil,strong,True,embedding only,True,9,1.0
+vegetable oil,strong,True,context + embedding,True,9,2.0
+vegetable oil,strong,True,all three (our ranking),True,9,2.0
+vegetable oil,strong,True,random baseline,True,9,
+canola oil,strong,False,context only,True,189,9.0
+canola oil,strong,False,flavour only,True,105,21.0
+canola oil,strong,False,context + flavour,True,189,33.0
+canola oil,strong,False,embedding only,True,189,3.0
+canola oil,strong,False,context + embedding,True,189,1.0
+canola oil,strong,False,all three (our ranking),True,189,21.0
+canola oil,strong,False,random baseline,True,189,
+canola oil,strong,True,context only,True,9,1.0
+canola oil,strong,True,flavour only,True,4,1.0
+canola oil,strong,True,context + flavour,True,9,3.0
+canola oil,strong,True,embedding only,True,9,1.0
+canola oil,strong,True,context + embedding,True,9,1.0
+canola oil,strong,True,all three (our ranking),True,9,1.0
+canola oil,strong,True,random baseline,True,9,
+brown sugar,strong,False,context only,True,189,6.0
+brown sugar,strong,False,flavour only,True,0,
+brown sugar,strong,False,context + flavour,True,189,6.0
+brown sugar,strong,False,embedding only,True,189,10.0
+brown sugar,strong,False,context + embedding,True,189,10.0
+brown sugar,strong,False,all three (our ranking),True,189,10.0
+brown sugar,strong,False,random baseline,True,189,
+brown sugar,strong,True,context only,True,5,1.0
+brown sugar,strong,True,flavour only,True,0,
+brown sugar,strong,True,context + flavour,True,5,1.0
+brown sugar,strong,True,embedding only,True,5,2.0
+brown sugar,strong,True,context + embedding,True,5,2.0
+brown sugar,strong,True,all three (our ranking),True,5,2.0
+brown sugar,strong,True,random baseline,True,5,
+sugar,strong,False,context only,True,189,17.0
+sugar,strong,False,flavour only,True,0,
+sugar,strong,False,context + flavour,True,189,17.0
+sugar,strong,False,embedding only,True,189,2.0
+sugar,strong,False,context + embedding,True,189,10.0
+sugar,strong,False,all three (our ranking),True,189,10.0
+sugar,strong,False,random baseline,True,189,
+sugar,strong,True,context only,True,5,2.0
+sugar,strong,True,flavour only,True,0,
+sugar,strong,True,context + flavour,True,5,2.0
+sugar,strong,True,embedding only,True,5,1.0
+sugar,strong,True,context + embedding,True,5,1.0
+sugar,strong,True,all three (our ranking),True,5,1.0
+sugar,strong,True,random baseline,True,5,
+honey,strong,False,context only,True,189,18.0
+honey,strong,False,flavour only,True,105,
+honey,strong,False,context + flavour,True,189,9.0
+honey,strong,False,embedding only,True,189,5.0
+honey,strong,False,context + embedding,True,189,4.0
+honey,strong,False,all three (our ranking),True,189,1.0
+honey,strong,False,random baseline,True,189,
+honey,strong,True,context only,True,5,2.0
+honey,strong,True,flavour only,True,0,
+honey,strong,True,context + flavour,True,5,2.0
+honey,strong,True,embedding only,True,5,1.0
+honey,strong,True,context + embedding,True,5,2.0
+honey,strong,True,all three (our ranking),True,5,2.0
+honey,strong,True,random baseline,True,5,
+maple syrup,strong,False,context only,True,189,7.0
+maple syrup,strong,False,flavour only,True,0,
+maple syrup,strong,False,context + flavour,True,189,7.0
+maple syrup,strong,False,embedding only,True,189,10.0
+maple syrup,strong,False,context + embedding,True,189,5.0
+maple syrup,strong,False,all three (our ranking),True,189,5.0
+maple syrup,strong,False,random baseline,True,189,
+maple syrup,strong,True,context only,True,5,1.0
+maple syrup,strong,True,flavour only,True,0,
+maple syrup,strong,True,context + flavour,True,5,1.0
+maple syrup,strong,True,embedding only,True,5,3.0
+maple syrup,strong,True,context + embedding,True,5,2.0
+maple syrup,strong,True,all three (our ranking),True,5,2.0
+maple syrup,strong,True,random baseline,True,5,
+milk,strong,False,context only,True,189,13.0
+milk,strong,False,flavour only,True,105,45.0
+milk,strong,False,context + flavour,True,189,26.0
+milk,strong,False,embedding only,True,189,6.0
+milk,strong,False,context + embedding,True,189,6.0
+milk,strong,False,all three (our ranking),True,189,19.0
+milk,strong,False,random baseline,True,189,
+milk,strong,True,context only,True,4,1.0
+milk,strong,True,flavour only,True,2,1.0
+milk,strong,True,context + flavour,True,4,1.0
+milk,strong,True,embedding only,True,4,1.0
+milk,strong,True,context + embedding,True,4,1.0
+milk,strong,True,all three (our ranking),True,4,1.0
+milk,strong,True,random baseline,True,4,
+buttermilk,strong,False,context only,True,189,31.0
+buttermilk,strong,False,flavour only,True,105,2.0
+buttermilk,strong,False,context + flavour,True,189,22.0
+buttermilk,strong,False,embedding only,True,189,19.0
+buttermilk,strong,False,context + embedding,True,189,20.0
+buttermilk,strong,False,all three (our ranking),True,189,17.0
+buttermilk,strong,False,random baseline,True,189,
+buttermilk,strong,True,context only,True,4,1.0
+buttermilk,strong,True,flavour only,True,2,1.0
+buttermilk,strong,True,context + flavour,True,4,2.0
+buttermilk,strong,True,embedding only,True,4,2.0
+buttermilk,strong,True,context + embedding,True,4,1.0
+buttermilk,strong,True,all three (our ranking),True,4,2.0
+buttermilk,strong,True,random baseline,True,4,
+cream,borderline,False,context only,True,189,6.0
+cream,borderline,False,flavour only,True,0,
+cream,borderline,False,context + flavour,True,189,6.0
+cream,borderline,False,embedding only,True,189,13.0
+cream,borderline,False,context + embedding,True,189,12.0
+cream,borderline,False,all three (our ranking),True,189,12.0
+cream,borderline,False,random baseline,True,189,
+cream,borderline,True,context only,True,4,1.0
+cream,borderline,True,flavour only,True,0,
+cream,borderline,True,context + flavour,True,4,1.0
+cream,borderline,True,embedding only,True,4,1.0
+cream,borderline,True,context + embedding,True,4,1.0
+cream,borderline,True,all three (our ranking),True,4,1.0
+cream,borderline,True,random baseline,True,4,
+cheddar cheese,strong,False,context only,True,189,26.0
+cheddar cheese,strong,False,flavour only,True,105,3.0
+cheddar cheese,strong,False,context + flavour,True,189,9.0
+cheddar cheese,strong,False,embedding only,True,189,13.0
+cheddar cheese,strong,False,context + embedding,True,189,8.0
+cheddar cheese,strong,False,all three (our ranking),True,189,2.0
+cheddar cheese,strong,False,random baseline,True,189,
+cheddar cheese,strong,True,context only,True,8,2.0
+cheddar cheese,strong,True,flavour only,True,7,3.0
+cheddar cheese,strong,True,context + flavour,True,8,2.0
+cheddar cheese,strong,True,embedding only,True,8,1.0
+cheddar cheese,strong,True,context + embedding,True,8,1.0
+cheddar cheese,strong,True,all three (our ranking),True,8,2.0
+cheddar cheese,strong,True,random baseline,True,8,
+mozzarella cheese,strong,False,context only,True,189,38.0
+mozzarella cheese,strong,False,flavour only,True,105,4.0
+mozzarella cheese,strong,False,context + flavour,True,189,17.0
+mozzarella cheese,strong,False,embedding only,True,189,103.0
+mozzarella cheese,strong,False,context + embedding,True,189,73.0
+mozzarella cheese,strong,False,all three (our ranking),True,189,41.0
+mozzarella cheese,strong,False,random baseline,True,189,
+mozzarella cheese,strong,True,context only,True,8,4.0
+mozzarella cheese,strong,True,flavour only,True,7,4.0
+mozzarella cheese,strong,True,context + flavour,True,8,3.0
+mozzarella cheese,strong,True,embedding only,True,8,3.0
+mozzarella cheese,strong,True,context + embedding,True,8,3.0
+mozzarella cheese,strong,True,all three (our ranking),True,8,3.0
+mozzarella cheese,strong,True,random baseline,True,8,
+feta cheese,borderline,False,context only,True,189,63.0
+feta cheese,borderline,False,flavour only,True,105,2.0
+feta cheese,borderline,False,context + flavour,True,189,28.0
+feta cheese,borderline,False,embedding only,True,189,121.0
+feta cheese,borderline,False,context + embedding,True,189,93.0
+feta cheese,borderline,False,all three (our ranking),True,189,57.0
+feta cheese,borderline,False,random baseline,True,189,
+feta cheese,borderline,True,context only,True,8,4.0
+feta cheese,borderline,True,flavour only,True,7,3.0
+feta cheese,borderline,True,context + flavour,True,8,3.0
+feta cheese,borderline,True,embedding only,True,8,6.0
+feta cheese,borderline,True,context + embedding,True,8,5.0
+feta cheese,borderline,True,all three (our ranking),True,8,5.0
+feta cheese,borderline,True,random baseline,True,8,
+cottage cheese,strong,False,context only,True,189,15.0
+cottage cheese,strong,False,flavour only,True,105,101.0
+cottage cheese,strong,False,context + flavour,True,189,105.0
+cottage cheese,strong,False,embedding only,True,189,3.0
+cottage cheese,strong,False,context + embedding,True,189,3.0
+cottage cheese,strong,False,all three (our ranking),True,189,42.0
+cottage cheese,strong,False,random baseline,True,189,
+cottage cheese,strong,True,context only,True,8,3.0
+cottage cheese,strong,True,flavour only,True,7,7.0
+cottage cheese,strong,True,context + flavour,True,8,5.0
+cottage cheese,strong,True,embedding only,True,8,1.0
+cottage cheese,strong,True,context + embedding,True,8,1.0
+cottage cheese,strong,True,all three (our ranking),True,8,4.0
+cottage cheese,strong,True,random baseline,True,8,
+ricotta cheese,strong,False,context only,True,189,13.0
+ricotta cheese,strong,False,flavour only,True,105,61.0
+ricotta cheese,strong,False,context + flavour,True,189,51.0
+ricotta cheese,strong,False,embedding only,True,189,2.0
+ricotta cheese,strong,False,context + embedding,True,189,1.0
+ricotta cheese,strong,False,all three (our ranking),True,189,16.0
+ricotta cheese,strong,False,random baseline,True,189,
+ricotta cheese,strong,True,context only,True,8,2.0
+ricotta cheese,strong,True,flavour only,True,7,3.0
+ricotta cheese,strong,True,context + flavour,True,8,1.0
+ricotta cheese,strong,True,embedding only,True,8,1.0
+ricotta cheese,strong,True,context + embedding,True,8,1.0
+ricotta cheese,strong,True,all three (our ranking),True,8,1.0
+ricotta cheese,strong,True,random baseline,True,8,
+cream cheese,borderline,False,context only,True,189,29.0
+cream cheese,borderline,False,flavour only,True,105,1.0
+cream cheese,borderline,False,context + flavour,True,189,9.0
+cream cheese,borderline,False,embedding only,True,189,47.0
+cream cheese,borderline,False,context + embedding,True,189,40.0
+cream cheese,borderline,False,all three (our ranking),True,189,15.0
+cream cheese,borderline,False,random baseline,True,189,
+cream cheese,borderline,True,context only,True,8,1.0
+cream cheese,borderline,True,flavour only,True,7,1.0
+cream cheese,borderline,True,context + flavour,True,8,1.0
+cream cheese,borderline,True,embedding only,True,8,1.0
+cream cheese,borderline,True,context + embedding,True,8,1.0
+cream cheese,borderline,True,all three (our ranking),True,8,1.0
+cream cheese,borderline,True,random baseline,True,8,
+shallot,strong,False,context only,True,189,8.0
+shallot,strong,False,flavour only,True,105,2.0
+shallot,strong,False,context + flavour,True,189,3.0
+shallot,strong,False,embedding only,True,189,10.0
+shallot,strong,False,context + embedding,True,189,4.0
+shallot,strong,False,all three (our ranking),True,189,2.0
+shallot,strong,False,random baseline,True,189,
+shallot,strong,True,context only,True,34,3.0
+shallot,strong,True,flavour only,True,23,2.0
+shallot,strong,True,context + flavour,True,34,3.0
+shallot,strong,True,embedding only,True,34,6.0
+shallot,strong,True,context + embedding,True,34,3.0
+shallot,strong,True,all three (our ranking),True,34,2.0
+shallot,strong,True,random baseline,True,34,
+leek,strong,False,context only,True,189,7.0
+leek,strong,False,flavour only,True,105,1.0
+leek,strong,False,context + flavour,True,189,4.0
+leek,strong,False,embedding only,True,189,3.0
+leek,strong,False,context + embedding,True,189,8.0
+leek,strong,False,all three (our ranking),True,189,7.0
+leek,strong,False,random baseline,True,189,
+leek,strong,True,context only,True,34,4.0
+leek,strong,True,flavour only,True,23,1.0
+leek,strong,True,context + flavour,True,34,3.0
+leek,strong,True,embedding only,True,34,2.0
+leek,strong,True,context + embedding,True,34,5.0
+leek,strong,True,all three (our ranking),True,34,5.0
+leek,strong,True,random baseline,True,34,
+green onion,strong,False,context only,True,189,10.0
+green onion,strong,False,flavour only,True,104,1.0
+green onion,strong,False,context + flavour,True,189,5.0
+green onion,strong,False,embedding only,True,189,51.0
+green onion,strong,False,context + embedding,True,189,22.0
+green onion,strong,False,all three (our ranking),True,189,15.0
+green onion,strong,False,random baseline,True,189,
+green onion,strong,True,context only,True,34,5.0
+green onion,strong,True,flavour only,True,22,1.0
+green onion,strong,True,context + flavour,True,34,2.0
+green onion,strong,True,embedding only,True,34,15.0
+green onion,strong,True,context + embedding,True,34,8.0
+green onion,strong,True,all three (our ranking),True,34,7.0
+green onion,strong,True,random baseline,True,34,
+onion,strong,False,context only,True,189,28.0
+onion,strong,False,flavour only,True,104,4.0
+onion,strong,False,context + flavour,True,189,10.0
+onion,strong,False,embedding only,True,189,19.0
+onion,strong,False,context + embedding,True,189,43.0
+onion,strong,False,all three (our ranking),True,189,20.0
+onion,strong,False,random baseline,True,189,
+onion,strong,True,context only,True,34,14.0
+onion,strong,True,flavour only,True,22,3.0
+onion,strong,True,context + flavour,True,34,6.0
+onion,strong,True,embedding only,True,34,8.0
+onion,strong,True,context + embedding,True,34,18.0
+onion,strong,True,all three (our ranking),True,34,11.0
+onion,strong,True,random baseline,True,34,
+thyme,borderline,False,context only,True,189,2.0
+thyme,borderline,False,flavour only,True,105,2.0
+thyme,borderline,False,context + flavour,True,189,3.0
+thyme,borderline,False,embedding only,True,189,20.0
+thyme,borderline,False,context + embedding,True,189,3.0
+thyme,borderline,False,all three (our ranking),True,189,2.0
+thyme,borderline,False,random baseline,True,189,
+thyme,borderline,True,context only,True,35,2.0
+thyme,borderline,True,flavour only,True,20,2.0
+thyme,borderline,True,context + flavour,True,35,3.0
+thyme,borderline,True,embedding only,True,35,4.0
+thyme,borderline,True,context + embedding,True,35,1.0
+thyme,borderline,True,all three (our ranking),True,35,1.0
+thyme,borderline,True,random baseline,True,35,
+oregano,borderline,False,context only,True,189,5.0
+oregano,borderline,False,flavour only,True,104,5.0
+oregano,borderline,False,context + flavour,True,189,3.0
+oregano,borderline,False,embedding only,True,189,7.0
+oregano,borderline,False,context + embedding,True,189,3.0
+oregano,borderline,False,all three (our ranking),True,189,2.0
+oregano,borderline,False,random baseline,True,189,
+oregano,borderline,True,context only,True,35,1.0
+oregano,borderline,True,flavour only,True,19,5.0
+oregano,borderline,True,context + flavour,True,35,4.0
+oregano,borderline,True,embedding only,True,35,2.0
+oregano,borderline,True,context + embedding,True,35,1.0
+oregano,borderline,True,all three (our ranking),True,35,3.0
+oregano,borderline,True,random baseline,True,35,
+rosemary,borderline,False,context only,True,189,1.0
+rosemary,borderline,False,flavour only,True,105,1.0
+rosemary,borderline,False,context + flavour,True,189,6.0
+rosemary,borderline,False,embedding only,True,189,15.0
+rosemary,borderline,False,context + embedding,True,189,3.0
+rosemary,borderline,False,all three (our ranking),True,189,2.0
+rosemary,borderline,False,random baseline,True,189,
+rosemary,borderline,True,context only,True,35,1.0
+rosemary,borderline,True,flavour only,True,20,1.0
+rosemary,borderline,True,context + flavour,True,35,4.0
+rosemary,borderline,True,embedding only,True,35,4.0
+rosemary,borderline,True,context + embedding,True,35,2.0
+rosemary,borderline,True,all three (our ranking),True,35,3.0
+rosemary,borderline,True,random baseline,True,35,
+basil,borderline,False,context only,True,189,2.0
+basil,borderline,False,flavour only,True,105,1.0
+basil,borderline,False,context + flavour,True,189,1.0
+basil,borderline,False,embedding only,True,189,17.0
+basil,borderline,False,context + embedding,True,189,7.0
+basil,borderline,False,all three (our ranking),True,189,4.0
+basil,borderline,False,random baseline,True,189,
+basil,borderline,True,context only,True,35,1.0
+basil,borderline,True,flavour only,True,20,1.0
+basil,borderline,True,context + flavour,True,35,1.0
+basil,borderline,True,embedding only,True,35,4.0
+basil,borderline,True,context + embedding,True,35,1.0
+basil,borderline,True,all three (our ranking),True,35,1.0
+basil,borderline,True,random baseline,True,35,
+balsamic vinegar,strong,False,context only,True,189,6.0
+balsamic vinegar,strong,False,flavour only,True,0,
+balsamic vinegar,strong,False,context + flavour,True,189,6.0
+balsamic vinegar,strong,False,embedding only,True,189,3.0
+balsamic vinegar,strong,False,context + embedding,True,189,1.0
+balsamic vinegar,strong,False,all three (our ranking),True,189,1.0
+balsamic vinegar,strong,False,random baseline,True,189,
+balsamic vinegar,strong,True,context only,True,35,2.0
+balsamic vinegar,strong,True,flavour only,True,0,
+balsamic vinegar,strong,True,context + flavour,True,35,2.0
+balsamic vinegar,strong,True,embedding only,True,35,1.0
+balsamic vinegar,strong,True,context + embedding,True,35,1.0
+balsamic vinegar,strong,True,all three (our ranking),True,35,1.0
+balsamic vinegar,strong,True,random baseline,True,35,
+cider vinegar,strong,False,context only,True,189,2.0
+cider vinegar,strong,False,flavour only,True,0,
+cider vinegar,strong,False,context + flavour,True,189,2.0
+cider vinegar,strong,False,embedding only,True,189,65.0
+cider vinegar,strong,False,context + embedding,True,189,15.0
+cider vinegar,strong,False,all three (our ranking),True,189,15.0
+cider vinegar,strong,False,random baseline,True,189,
+cider vinegar,strong,True,context only,True,35,2.0
+cider vinegar,strong,True,flavour only,True,0,
+cider vinegar,strong,True,context + flavour,True,35,2.0
+cider vinegar,strong,True,embedding only,True,35,17.0
+cider vinegar,strong,True,context + embedding,True,35,9.0
+cider vinegar,strong,True,all three (our ranking),True,35,9.0
+cider vinegar,strong,True,random baseline,True,35,
+white vinegar,strong,False,context only,True,189,1.0
+white vinegar,strong,False,flavour only,True,0,
+white vinegar,strong,False,context + flavour,True,189,1.0
+white vinegar,strong,False,embedding only,True,189,2.0
+white vinegar,strong,False,context + embedding,True,189,1.0
+white vinegar,strong,False,all three (our ranking),True,189,1.0
+white vinegar,strong,False,random baseline,True,189,
+white vinegar,strong,True,context only,True,35,1.0
+white vinegar,strong,True,flavour only,True,0,
+white vinegar,strong,True,context + flavour,True,35,1.0
+white vinegar,strong,True,embedding only,True,35,1.0
+white vinegar,strong,True,context + embedding,True,35,1.0
+white vinegar,strong,True,all three (our ranking),True,35,1.0
+white vinegar,strong,True,random baseline,True,35,
+black bean,strong,False,context only,True,189,1.0
+black bean,strong,False,flavour only,True,0,
+black bean,strong,False,context + flavour,True,189,1.0
+black bean,strong,False,embedding only,True,189,61.0
+black bean,strong,False,context + embedding,True,189,13.0
+black bean,strong,False,all three (our ranking),True,189,13.0
+black bean,strong,False,random baseline,True,189,
+black bean,strong,True,context only,True,16,1.0
+black bean,strong,True,flavour only,True,0,
+black bean,strong,True,context + flavour,True,16,1.0
+black bean,strong,True,embedding only,True,16,9.0
+black bean,strong,True,context + embedding,True,16,4.0
+black bean,strong,True,all three (our ranking),True,16,4.0
+black bean,strong,True,random baseline,True,16,
+kidney bean,strong,False,context only,True,189,2.0
+kidney bean,strong,False,flavour only,True,0,
+kidney bean,strong,False,context + flavour,True,189,2.0
+kidney bean,strong,False,embedding only,True,189,55.0
+kidney bean,strong,False,context + embedding,True,189,18.0
+kidney bean,strong,False,all three (our ranking),True,189,18.0
+kidney bean,strong,False,random baseline,True,189,
+kidney bean,strong,True,context only,True,16,2.0
+kidney bean,strong,True,flavour only,True,0,
+kidney bean,strong,True,context + flavour,True,16,2.0
+kidney bean,strong,True,embedding only,True,16,10.0
+kidney bean,strong,True,context + embedding,True,16,6.0
+kidney bean,strong,True,all three (our ranking),True,16,6.0
+kidney bean,strong,True,random baseline,True,16,
+pinto bean,strong,False,context only,True,189,2.0
+pinto bean,strong,False,flavour only,True,0,
+pinto bean,strong,False,context + flavour,True,189,2.0
+pinto bean,strong,False,embedding only,True,189,6.0
+pinto bean,strong,False,context + embedding,True,189,1.0
+pinto bean,strong,False,all three (our ranking),True,189,1.0
+pinto bean,strong,False,random baseline,True,189,
+pinto bean,strong,True,context only,True,16,2.0
+pinto bean,strong,True,flavour only,True,0,
+pinto bean,strong,True,context + flavour,True,16,2.0
+pinto bean,strong,True,embedding only,True,16,1.0
+pinto bean,strong,True,context + embedding,True,16,1.0
+pinto bean,strong,True,all three (our ranking),True,16,1.0
+pinto bean,strong,True,random baseline,True,16,
+white rice,strong,False,context only,True,189,4.0
+white rice,strong,False,flavour only,True,0,
+white rice,strong,False,context + flavour,True,189,4.0
+white rice,strong,False,embedding only,True,189,71.0
+white rice,strong,False,context + embedding,True,189,16.0
+white rice,strong,False,all three (our ranking),True,189,16.0
+white rice,strong,False,random baseline,True,189,
+white rice,strong,True,context only,True,4,2.0
+white rice,strong,True,flavour only,True,0,
+white rice,strong,True,context + flavour,True,4,2.0
+white rice,strong,True,embedding only,True,4,4.0
+white rice,strong,True,context + embedding,True,4,4.0
+white rice,strong,True,all three (our ranking),True,4,4.0
+white rice,strong,True,random baseline,True,4,
+brown rice,strong,False,context only,True,189,1.0
+brown rice,strong,False,flavour only,True,0,
+brown rice,strong,False,context + flavour,True,189,1.0
+brown rice,strong,False,embedding only,True,189,88.0
+brown rice,strong,False,context + embedding,True,189,36.0
+brown rice,strong,False,all three (our ranking),True,189,36.0
+brown rice,strong,False,random baseline,True,189,
+brown rice,strong,True,context only,True,4,1.0
+brown rice,strong,True,flavour only,True,0,
+brown rice,strong,True,context + flavour,True,4,1.0
+brown rice,strong,True,embedding only,True,4,4.0
+brown rice,strong,True,context + embedding,True,4,2.0
+brown rice,strong,True,all three (our ranking),True,4,2.0
+brown rice,strong,True,random baseline,True,4,
+walnut,strong,False,context only,True,189,6.0
+walnut,strong,False,flavour only,True,105,5.0
+walnut,strong,False,context + flavour,True,189,3.0
+walnut,strong,False,embedding only,True,189,13.0
+walnut,strong,False,context + embedding,True,189,4.0
+walnut,strong,False,all three (our ranking),True,189,1.0
+walnut,strong,False,random baseline,True,189,
+walnut,strong,True,context only,True,7,1.0
+walnut,strong,True,flavour only,True,4,1.0
+walnut,strong,True,context + flavour,True,7,1.0
+walnut,strong,True,embedding only,True,7,1.0
+walnut,strong,True,context + embedding,True,7,1.0
+walnut,strong,True,all three (our ranking),True,7,1.0
+walnut,strong,True,random baseline,True,7,
+almond,strong,False,context only,True,189,12.0
+almond,strong,False,flavour only,True,105,5.0
+almond,strong,False,context + flavour,True,189,5.0
+almond,strong,False,embedding only,True,189,11.0
+almond,strong,False,context + embedding,True,189,7.0
+almond,strong,False,all three (our ranking),True,189,3.0
+almond,strong,False,random baseline,True,189,
+almond,strong,True,context only,True,7,1.0
+almond,strong,True,flavour only,True,4,1.0
+almond,strong,True,context + flavour,True,7,1.0
+almond,strong,True,embedding only,True,7,1.0
+almond,strong,True,context + embedding,True,7,1.0
+almond,strong,True,all three (our ranking),True,7,1.0
+almond,strong,True,random baseline,True,7,
+pecan,strong,False,context only,True,189,12.0
+pecan,strong,False,flavour only,True,0,
+pecan,strong,False,context + flavour,True,189,12.0
+pecan,strong,False,embedding only,True,189,10.0
+pecan,strong,False,context + embedding,True,189,14.0
+pecan,strong,False,all three (our ranking),True,189,14.0
+pecan,strong,False,random baseline,True,189,
+pecan,strong,True,context only,True,7,2.0
+pecan,strong,True,flavour only,True,0,
+pecan,strong,True,context + flavour,True,7,2.0
+pecan,strong,True,embedding only,True,7,1.0
+pecan,strong,True,context + embedding,True,7,1.0
+pecan,strong,True,all three (our ranking),True,7,1.0
+pecan,strong,True,random baseline,True,7,
+red bell pepper,strong,False,context only,True,189,2.0
+red bell pepper,strong,False,flavour only,True,103,
+red bell pepper,strong,False,context + flavour,True,189,1.0
+red bell pepper,strong,False,embedding only,True,189,10.0
+red bell pepper,strong,False,context + embedding,True,189,9.0
+red bell pepper,strong,False,all three (our ranking),True,189,7.0
+red bell pepper,strong,False,random baseline,True,189,
+red bell pepper,strong,True,context only,True,34,1.0
+red bell pepper,strong,True,flavour only,True,23,
+red bell pepper,strong,True,context + flavour,True,34,1.0
+red bell pepper,strong,True,embedding only,True,34,3.0
+red bell pepper,strong,True,context + embedding,True,34,4.0
+red bell pepper,strong,True,all three (our ranking),True,34,3.0
+red bell pepper,strong,True,random baseline,True,34,
+jalapeno,strong,False,context only,True,189,7.0
+jalapeno,strong,False,flavour only,True,105,
+jalapeno,strong,False,context + flavour,True,189,5.0
+jalapeno,strong,False,embedding only,True,189,7.0
+jalapeno,strong,False,context + embedding,True,189,2.0
+jalapeno,strong,False,all three (our ranking),True,189,2.0
+jalapeno,strong,False,random baseline,True,189,
+jalapeno,strong,True,context only,True,34,3.0
+jalapeno,strong,True,flavour only,True,23,
+jalapeno,strong,True,context + flavour,True,34,2.0
+jalapeno,strong,True,embedding only,True,34,1.0
+jalapeno,strong,True,context + embedding,True,34,1.0
+jalapeno,strong,True,all three (our ranking),True,34,1.0
+jalapeno,strong,True,random baseline,True,34,
+chicken broth,strong,False,context only,True,189,2.0
+chicken broth,strong,False,flavour only,True,102,3.0
+chicken broth,strong,False,context + flavour,True,189,1.0
+chicken broth,strong,False,embedding only,True,189,22.0
+chicken broth,strong,False,context + embedding,True,189,6.0
+chicken broth,strong,False,all three (our ranking),True,189,2.0
+chicken broth,strong,False,random baseline,True,189,
+chicken broth,strong,True,context only,True,13,1.0
+chicken broth,strong,True,flavour only,True,1,1.0
+chicken broth,strong,True,context + flavour,True,13,1.0
+chicken broth,strong,True,embedding only,True,13,2.0
+chicken broth,strong,True,context + embedding,True,13,1.0
+chicken broth,strong,True,all three (our ranking),True,13,1.0
+chicken broth,strong,True,random baseline,True,13,
+beef broth,strong,False,context only,True,189,2.0
+beef broth,strong,False,flavour only,True,104,1.0
+beef broth,strong,False,context + flavour,True,189,2.0
+beef broth,strong,False,embedding only,True,189,2.0
+beef broth,strong,False,context + embedding,True,189,1.0
+beef broth,strong,False,all three (our ranking),True,189,1.0
+beef broth,strong,False,random baseline,True,189,
+beef broth,strong,True,context only,True,13,2.0
+beef broth,strong,True,flavour only,True,2,1.0
+beef broth,strong,True,context + flavour,True,13,2.0
+beef broth,strong,True,embedding only,True,13,1.0
+beef broth,strong,True,context + embedding,True,13,2.0
+beef broth,strong,True,all three (our ranking),True,13,2.0
+beef broth,strong,True,random baseline,True,13,
+tomato sauce,borderline,False,context only,True,189,2.0
+tomato sauce,borderline,False,flavour only,True,0,
+tomato sauce,borderline,False,context + flavour,True,189,2.0
+tomato sauce,borderline,False,embedding only,True,189,19.0
+tomato sauce,borderline,False,context + embedding,True,189,11.0
+tomato sauce,borderline,False,all three (our ranking),True,189,11.0
+tomato sauce,borderline,False,random baseline,True,189,
+tomato sauce,borderline,True,context only,True,34,1.0
+tomato sauce,borderline,True,flavour only,True,0,
+tomato sauce,borderline,True,context + flavour,True,34,1.0
+tomato sauce,borderline,True,embedding only,True,34,11.0
+tomato sauce,borderline,True,context + embedding,True,34,5.0
+tomato sauce,borderline,True,all three (our ranking),True,34,5.0
+tomato sauce,borderline,True,random baseline,True,34,
+tomato paste,strong,False,context only,True,189,1.0
+tomato paste,strong,False,flavour only,True,104,
+tomato paste,strong,False,context + flavour,True,189,1.0
+tomato paste,strong,False,embedding only,True,189,75.0
+tomato paste,strong,False,context + embedding,True,189,27.0
+tomato paste,strong,False,all three (our ranking),True,189,20.0
+tomato paste,strong,False,random baseline,True,189,
+tomato paste,strong,True,context only,True,34,1.0
+tomato paste,strong,True,flavour only,True,22,
+tomato paste,strong,True,context + flavour,True,34,1.0
+tomato paste,strong,True,embedding only,True,34,24.0
+tomato paste,strong,True,context + embedding,True,34,10.0
+tomato paste,strong,True,all three (our ranking),True,34,11.0
+tomato paste,strong,True,random baseline,True,34,
+black pepper,strong,False,context only,True,189,68.0
+black pepper,strong,False,flavour only,True,103,92.0
+black pepper,strong,False,context + flavour,True,189,124.0
+black pepper,strong,False,embedding only,True,189,100.0
+black pepper,strong,False,context + embedding,True,189,89.0
+black pepper,strong,False,all three (our ranking),True,189,118.0
+black pepper,strong,False,random baseline,True,189,
+black pepper,strong,True,context only,True,35,20.0
+black pepper,strong,True,flavour only,True,19,19.0
+black pepper,strong,True,context + flavour,True,35,30.0
+black pepper,strong,True,embedding only,True,35,26.0
+black pepper,strong,True,context + embedding,True,35,24.0
+black pepper,strong,True,all three (our ranking),True,35,31.0
+black pepper,strong,True,random baseline,True,35,
+cayenne pepper,borderline,False,context only,True,189,10.0
+cayenne pepper,borderline,False,flavour only,True,103,
+cayenne pepper,borderline,False,context + flavour,True,189,5.0
+cayenne pepper,borderline,False,embedding only,True,189,7.0
+cayenne pepper,borderline,False,context + embedding,True,189,2.0
+cayenne pepper,borderline,False,all three (our ranking),True,189,2.0
+cayenne pepper,borderline,False,random baseline,True,189,
+cayenne pepper,borderline,True,context only,True,35,7.0
+cayenne pepper,borderline,True,flavour only,True,19,
+cayenne pepper,borderline,True,context + flavour,True,35,4.0
+cayenne pepper,borderline,True,embedding only,True,35,2.0
+cayenne pepper,borderline,True,context + embedding,True,35,2.0
+cayenne pepper,borderline,True,all three (our ranking),True,35,2.0
+cayenne pepper,borderline,True,random baseline,True,35,
+paprika,borderline,False,context only,True,189,8.0
+paprika,borderline,False,flavour only,True,0,
+paprika,borderline,False,context + flavour,True,189,8.0
+paprika,borderline,False,embedding only,True,189,19.0
+paprika,borderline,False,context + embedding,True,189,6.0
+paprika,borderline,False,all three (our ranking),True,189,6.0
+paprika,borderline,False,random baseline,True,189,
+paprika,borderline,True,context only,True,35,5.0
+paprika,borderline,True,flavour only,True,0,
+paprika,borderline,True,context + flavour,True,35,5.0
+paprika,borderline,True,embedding only,True,35,6.0
+paprika,borderline,True,context + embedding,True,35,4.0
+paprika,borderline,True,all three (our ranking),True,35,4.0
+paprika,borderline,True,random baseline,True,35,
+cinnamon,borderline,False,context only,True,189,4.0
+cinnamon,borderline,False,flavour only,True,105,1.0
+cinnamon,borderline,False,context + flavour,True,189,1.0
+cinnamon,borderline,False,embedding only,True,189,37.0
+cinnamon,borderline,False,context + embedding,True,189,22.0
+cinnamon,borderline,False,all three (our ranking),True,189,8.0
+cinnamon,borderline,False,random baseline,True,189,
+cinnamon,borderline,True,context only,True,35,2.0
+cinnamon,borderline,True,flavour only,True,20,1.0
+cinnamon,borderline,True,context + flavour,True,35,1.0
+cinnamon,borderline,True,embedding only,True,35,2.0
+cinnamon,borderline,True,context + embedding,True,35,1.0
+cinnamon,borderline,True,all three (our ranking),True,35,1.0
+cinnamon,borderline,True,random baseline,True,35,
+nutmeg,borderline,False,context only,True,189,1.0
+nutmeg,borderline,False,flavour only,True,105,4.0
+nutmeg,borderline,False,context + flavour,True,189,3.0
+nutmeg,borderline,False,embedding only,True,189,14.0
+nutmeg,borderline,False,context + embedding,True,189,3.0
+nutmeg,borderline,False,all three (our ranking),True,189,4.0
+nutmeg,borderline,False,random baseline,True,189,
+nutmeg,borderline,True,context only,True,35,1.0
+nutmeg,borderline,True,flavour only,True,20,4.0
+nutmeg,borderline,True,context + flavour,True,35,1.0
+nutmeg,borderline,True,embedding only,True,35,1.0
+nutmeg,borderline,True,context + embedding,True,35,1.0
+nutmeg,borderline,True,all three (our ranking),True,35,2.0
+nutmeg,borderline,True,random baseline,True,35,
+cumin,borderline,False,context only,True,189,4.0
+cumin,borderline,False,flavour only,True,105,
+cumin,borderline,False,context + flavour,True,189,4.0
+cumin,borderline,False,embedding only,True,189,6.0
+cumin,borderline,False,context + embedding,True,189,4.0
+cumin,borderline,False,all three (our ranking),True,189,1.0
+cumin,borderline,False,random baseline,True,189,
+cumin,borderline,True,context only,True,35,1.0
+cumin,borderline,True,flavour only,True,20,
+cumin,borderline,True,context + flavour,True,35,1.0
+cumin,borderline,True,embedding only,True,35,2.0
+cumin,borderline,True,context + embedding,True,35,1.0
+cumin,borderline,True,all three (our ranking),True,35,1.0
+cumin,borderline,True,random baseline,True,35,
+corn tortilla,strong,False,context only,True,189,7.0
+corn tortilla,strong,False,flavour only,True,0,
+corn tortilla,strong,False,context + flavour,True,189,7.0
+corn tortilla,strong,False,embedding only,True,189,75.0
+corn tortilla,strong,False,context + embedding,True,189,30.0
+corn tortilla,strong,False,all three (our ranking),True,189,30.0
+corn tortilla,strong,False,random baseline,True,189,
+corn tortilla,strong,True,context only,True,4,1.0
+corn tortilla,strong,True,flavour only,True,0,
+corn tortilla,strong,True,context + flavour,True,4,1.0
+corn tortilla,strong,True,embedding only,True,4,1.0
+corn tortilla,strong,True,context + embedding,True,4,1.0
+corn tortilla,strong,True,all three (our ranking),True,4,1.0
+corn tortilla,strong,True,random baseline,True,4,
+flour tortilla,strong,False,context only,True,189,47.0
+flour tortilla,strong,False,flavour only,True,0,
+flour tortilla,strong,False,context + flavour,True,189,47.0
+flour tortilla,strong,False,embedding only,True,189,186.0
+flour tortilla,strong,False,context + embedding,True,189,127.0
+flour tortilla,strong,False,all three (our ranking),True,189,127.0
+flour tortilla,strong,False,random baseline,True,189,
+flour tortilla,strong,True,context only,True,4,1.0
+flour tortilla,strong,True,flavour only,True,0,
+flour tortilla,strong,True,context + flavour,True,4,1.0
+flour tortilla,strong,True,embedding only,True,4,4.0
+flour tortilla,strong,True,context + embedding,True,4,3.0
+flour tortilla,strong,True,all three (our ranking),True,4,3.0
+flour tortilla,strong,True,random baseline,True,4,
+bread,strong,False,context only,True,189,2.0
+bread,strong,False,flavour only,True,105,
+bread,strong,False,context + flavour,True,189,2.0
+bread,strong,False,embedding only,True,189,7.0
+bread,strong,False,context + embedding,True,189,2.0
+bread,strong,False,all three (our ranking),True,189,1.0
+bread,strong,False,random baseline,True,189,
+bread,strong,True,context only,True,4,1.0
+bread,strong,True,flavour only,True,0,
+bread,strong,True,context + flavour,True,4,1.0
+bread,strong,True,embedding only,True,4,1.0
+bread,strong,True,context + embedding,True,4,1.0
+bread,strong,True,all three (our ranking),True,4,1.0
+bread,strong,True,random baseline,True,4,
+french bread,strong,False,context only,True,189,2.0
+french bread,strong,False,flavour only,True,0,
+french bread,strong,False,context + flavour,True,189,2.0
+french bread,strong,False,embedding only,True,189,9.0
+french bread,strong,False,context + embedding,True,189,2.0
+french bread,strong,False,all three (our ranking),True,189,2.0
+french bread,strong,False,random baseline,True,189,
+french bread,strong,True,context only,True,4,1.0
+french bread,strong,True,flavour only,True,0,
+french bread,strong,True,context + flavour,True,4,1.0
+french bread,strong,True,embedding only,True,4,1.0
+french bread,strong,True,context + embedding,True,4,1.0
+french bread,strong,True,all three (our ranking),True,4,1.0
+french bread,strong,True,random baseline,True,4,
+potato,strong,False,context only,True,189,48.0
+potato,strong,False,flavour only,True,105,
+potato,strong,False,context + flavour,True,189,33.0
+potato,strong,False,embedding only,True,189,30.0
+potato,strong,False,context + embedding,True,189,28.0
+potato,strong,False,all three (our ranking),True,189,21.0
+potato,strong,False,random baseline,True,189,
+potato,strong,True,context only,True,4,2.0
+potato,strong,True,flavour only,True,1,
+potato,strong,True,context + flavour,True,4,2.0
+potato,strong,True,embedding only,True,4,2.0
+potato,strong,True,context + embedding,True,4,3.0
+potato,strong,True,all three (our ranking),True,4,3.0
+potato,strong,True,random baseline,True,4,
+red potato,strong,False,context only,True,189,95.0
+red potato,strong,False,flavour only,True,0,
+red potato,strong,False,context + flavour,True,189,95.0
+red potato,strong,False,embedding only,True,189,36.0
+red potato,strong,False,context + embedding,True,189,66.0
+red potato,strong,False,all three (our ranking),True,189,66.0
+red potato,strong,False,random baseline,True,189,
+red potato,strong,True,context only,True,4,4.0
+red potato,strong,True,flavour only,True,0,
+red potato,strong,True,context + flavour,True,4,4.0
+red potato,strong,True,embedding only,True,4,3.0
+red potato,strong,True,context + embedding,True,4,4.0
+red potato,strong,True,all three (our ranking),True,4,4.0
+red potato,strong,True,random baseline,True,4,
+flour,strong,False,context only,True,189,32.0
+flour,strong,False,flavour only,True,0,
+flour,strong,False,context + flavour,True,189,32.0
+flour,strong,False,embedding only,True,189,11.0
+flour,strong,False,context + embedding,True,189,18.0
+flour,strong,False,all three (our ranking),True,189,18.0
+flour,strong,False,random baseline,True,189,
+flour,strong,True,context only,True,5,3.0
+flour,strong,True,flavour only,True,0,
+flour,strong,True,context + flavour,True,5,3.0
+flour,strong,True,embedding only,True,5,2.0
+flour,strong,True,context + embedding,True,5,3.0
+flour,strong,True,all three (our ranking),True,5,3.0
+flour,strong,True,random baseline,True,5,
+cornstarch,borderline,False,context only,True,189,27.0
+cornstarch,borderline,False,flavour only,True,0,
+cornstarch,borderline,False,context + flavour,True,189,27.0
+cornstarch,borderline,False,embedding only,True,189,4.0
+cornstarch,borderline,False,context + embedding,True,189,21.0
+cornstarch,borderline,False,all three (our ranking),True,189,21.0
+cornstarch,borderline,False,random baseline,True,189,
+cornstarch,borderline,True,context only,True,5,1.0
+cornstarch,borderline,True,flavour only,True,0,
+cornstarch,borderline,True,context + flavour,True,5,1.0
+cornstarch,borderline,True,embedding only,True,5,1.0
+cornstarch,borderline,True,context + embedding,True,5,1.0
+cornstarch,borderline,True,all three (our ranking),True,5,1.0
+cornstarch,borderline,True,random baseline,True,5,

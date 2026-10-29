@@ -1,0 +1,201 @@
+ingredient_name,recipe_rows,n_rows,protein_100g,carbs_100g,fat_100g,matched_usda,n_ties,ambiguous_tie
+salt,48191,33,5.050089066826575,0.0,80.50159614808021,"Pork, cured, salt pork, raw",1,False
+onion,35449,196,1.1000028660117465,9.340014325159565,0.10000176369953616,"Onions, raw",16,True
+butter,30036,1752,17.810291438750493,26.190453094410838,48.00084657577735,"Seeds, sesame butter, tahini, from raw and stone ground kern",1,False
+water,26786,264,0.0,0.0,0.0,"Beverages, water, bottled, non-carbonated, EVIAN",74,True
+olive oil,23797,67,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+sugar,23625,269,0.0,99.79995727927789,0.0,"Sugar, turbinado",8,True
+egg,22659,6,12.560009876717404,0.7199960064803361,9.510007567412973,"Egg, whole, raw, fresh",2,False
+tomato,17042,1197,1.1999959686867745,5.09998655939319,0.20000352739907226,"Tomatoes, green, raw",25,True
+black pepper,16471,8,10.390130337395721,63.950157851108486,3.2600222226141553,"Spices, pepper, black",1,False
+garlic,15876,40,6.36,33.060001330791465,0.5,"Garlic, raw",1,False
+milk,15598,351,2.29,5.539995806314437,23.839989619368446,"Nuts, coconut milk, raw (liquid expressed from grated meat a",1,False
+pepper,12699,14,0.86,4.640003439214095,0.17002063528457292,"Peppers, sweet, green, raw",37,True
+flour,10400,143,5.950016755145594,80.12998465581404,1.419998589040371,"Rice flour, white, unenriched",1,False
+cinnamon,10118,8,4.450083334803083,48.599999999999994,26.60999312157181,"Cinnamon buns, frosted (includes honey buns)",1,False
+parsley,10044,45,2.9700700188715854,6.329917635231662,0.79,"Parsley, fresh",6,True
+lemon juice,9776,106,0.34991798797156914,6.900033510291187,0.239863136915995,"Lemon juice, raw",15,True
+vegetable oil,9485,23,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+carrot,9161,199,0.9299987654103247,9.580019047954991,0.23999541438120606,"Carrots, raw",21,True
+cream,8811,522,2.439990123282598,4.630019929804758,19.349988535953013,"Cream, sour, cultured",1,False
+ginger,8739,103,1.8200203413346505,17.769978306495705,0.7499911815023192,"Ginger root, raw",9,True
+cilantro,8600,67,2.129843559851144,3.6699059948147235,0.519938623256142,"Coriander (cilantro) leaves, raw",22,True
+parmesan cheese,8219,349,40.0,40.0,5.0,"Parmesan cheese topping, fat free",1,False
+soy sauce,8213,26,8.14000246917935,4.929993726268793,0.5700276900827175,Soy sauce made from soy and wheat (shoyu),1,False
+beef,7695,4271,19.420029453782252,0.0,12.730030512001978,"Beef, grass-fed, ground, raw",7,True
+oregano,7526,4,9.000020576494588,68.91985161407904,4.2800872443370555,"Spices, oregano, dried",1,False
+potato,7342,443,2.0500030864741885,17.49003509762077,0.08999938270516235,"Potatoes, flesh and skin, raw",5,True
+green onion,7229,23,0.9700347448808622,5.740004232878887,0.4698495564295667,"Onions, young green, tops only",24,True
+brown sugar,7197,140,0.11999770719060303,98.08998395033422,0.0,"Sugars, brown",2,False
+oil,6496,29,0.27999999999999997,0.0,99.48,"Butter oil, anhydrous",10,True
+basil,6087,64,3.149967371558581,2.65,0.6399877716832161,"Basil, fresh",10,True
+chicken broth,5985,166,4.420001325815513,0.7500006298926916,1.039998880963053,"Soup, chicken broth, canned, condensed",1,False
+lemon,5762,4,1.0999201925959894,9.32006075944902,0.2999171061218011,"Lemons, raw, without peel",17,True
+lime juice,5722,154,0.4199956495411442,8.419901585565883,0.06984250163142208,"Lime juice, raw",24,True
+chicken breast,5402,1403,20.85003703769026,0.0,9.250008818497681,"Chicken, broilers or fryers, breast, meat and skin, raw",8,True
+white sugar,5199,27,0.0,99.97998201026473,0.0,"Sugars, granulated",8,True
+baking powder,5195,3,0.0,27.69995943491067,0.0,"Leavening agents, baking powder, double-acting, sodium alumi",3,False
+mushroom,5180,1092,2.2399865958835252,6.789978659235612,0.48999982363004635,"Mushrooms, shiitake, raw",17,True
+paprika,5177,6,14.14,53.9900087303127,12.889999029965255,"Spices, paprika",1,False
+chili powder,4979,8,13.459995238011253,49.69999470890139,14.27996966436798,"Spices, chili powder",1,False
+thyme,4784,13,5.559886417749873,24.450166669606165,1.6801001781336533,"Thyme, fresh",1,False
+cornstarch,4722,9,0.259969311628071,91.26998124599494,0.05000088184976808,Cornstarch,5,True
+celery,4633,27,0.6899945325314379,2.9700038801389796,0.17002063528457292,"Celery, raw",32,True
+red onion,4600,22,1.0999723687072671,9.339976601586155,0.10001940069489762,"Onions, raw",16,True
+cheddar cheese,4596,604,13.409995473171191,10.709977248275985,8.880006702058237,"Cheese spread, American or Cheddar cheese base, reduced fat",1,False
+nutmeg,4328,3,5.8399619040900195,49.290463676608056,36.309635090565976,"Spices, nutmeg, ground",1,False
+honey,4054,34,18.580327695373818,2.1800359290791222,10.500185188451296,"Honey roll sausage, beef",1,False
+white wine,4017,85,0.07001887158503678,2.6000017636995363,0.0,"Alcoholic beverage, wine, table, white",30,True
+coriander,3922,28,2.13,3.6699999999999995,0.52,"Coriander (cilantro) leaves, raw",22,True
+tomato paste,3828,287,4.320005643838516,18.90998665467351,0.4700259263831814,"Tomato products, canned, paste, without salt added (Includes",3,False
+chicken,3612,785,18.31959117444752,0.12991851708143,14.82157974567453,"Chicken, broilers or fryers, meat and skin and giblets and n",9,True
+mozzarella cheese,3536,866,13.560005467468564,27.22001269863666,17.869980070195243,"DENNY'S, mozzarella cheese sticks",2,False
+tomato sauce,3507,436,5.890095063404998,17.99030847104887,1.9600433870085894,"Beef macaroni with tomato sauce, frozen entree, reduced fat",1,False
+almond,3506,438,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+clove,3411,9,5.97,65.53,13.0,"Spices, cloves, ground",1,False
+bacon,3285,387,12.620019753434805,1.280004938358701,39.690000411529894,(no exact match),0,False
+worcestershire sauce,3229,6,0.0,19.459972839027145,0.0,"Babyfood, fruit, plums with tapioca, without ascorbic acid, ",8,True
+red pepper,3211,73,1.87,8.810002527969337,0.44,"Peppers, hot chili, red, raw",12,True
+green bell pepper,3181,3,0.7199421506552144,4.599992945201856,0.27002239898410907,"Peppers, chili, green, canned",34,True
+turmeric,3157,4,9.679944267094658,67.1398966472072,3.250072752605866,"Spices, turmeric, ground",1,False
+cream cheese,3127,1278,7.1001252226670655,3.500061729483765,28.60050441806734,"Cheese spread, cream cheese base",1,False
+rice,3074,41,7.539991886982134,76.25002204624421,3.1999976484006187,"Rice, brown, long-grain, raw (Includes foods for USDA's Food",1,False
+heavy cream,3054,90,2.839997178080742,2.739995414381206,36.08000141095963,"Cream, fluid, heavy whipping",1,False
+mayonnaise,3018,17,0.3700241626836452,0.0,40.0,"Mayonnaise, reduced fat, with olive oil",1,False
+egg yolk,3006,6,15.86,3.5900000000000003,26.54,"Egg, yolk, raw, fresh",1,False
+sesame oil,2930,7,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+shallot,2883,39,2.499985302503865,16.799987654103248,0.10000176369953613,"Shallots, raw",2,False
+green pepper,2821,11,0.8599798938252878,4.639940739695586,0.17002063528457292,"Peppers, sweet, green, raw",37,True
+chicken stock,2703,40,2.5199959434910673,3.530000529109861,1.199999118150232,"Soup, stock, chicken, home-prepared",4,True
+scallion,2683,9,1.83001463870615,7.339988359583062,0.19000923002757253,"Onions, spring or scallions (includes tops and bulb), raw",19,True
+zucchini,2582,73,2.710004254925131,3.110004879568717,0.40000705479814463,"Squash, zucchini, baby, raw",13,True
+salsa,2532,108,1.5200003527399073,6.639998059930511,0.16999858904037107,"Sauce, salsa, ready-to-serve",26,True
+spinach,2529,654,2.2000035273990726,3.8999982363004637,0.3000052910986084,"Mustard spinach, (tendergreen), raw",28,True
+canola oil,2499,10,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+green chilies,2468,230,0.0,6.669988300793077,0.0,"Beverages, Fruit flavored drink containing less than 3% frui",9,True
+shrimp,2467,1084,20.088537716714583,0.0,0.5097091659464894,"Crustaceans, shrimp, raw",6,True
+orange juice,2391,143,0.6999947089013916,10.400007054798145,0.20000352739907232,"Orange juice, raw (Includes foods for USDA's Food Distributi",27,True
+raisin,2364,118,3.3900068784281907,79.51996969796225,0.4599728390271434,"Raisins, dark, seedless (Includes foods for USDA's Food Dist",2,False
+red wine,2343,44,0.07001887158503678,2.6099931215718093,0.0,"Alcoholic beverage, wine, table, red",30,True
+cucumber,2337,22,0.6500022781119009,3.629987595313263,0.1100107585671705,"Cucumber, with peel, raw",51,True
+jalapeno pepper,2337,21,0.9100028219192579,6.50000440924884,0.3700241626836452,"Peppers, jalapeno, raw",33,True
+beef broth,2323,106,1.1400002645549305,0.040002647648946524,0.2200008437331847,"Soup, beef broth or bouillon canned, ready-to-serve",5,True
+coconut milk,2317,163,2.289987477733294,5.540001876076852,23.83999717808074,"Nuts, coconut milk, raw (liquid expressed from grated meat a",1,False
+egg white,2280,9,10.9,0.73,0.17,"Egg, white, raw, fresh",1,False
+yellow onion,2265,28,0.9500011390559505,7.8600151678160115,10.80001410959629,"Onions, yellow, sauteed",1,False
+rosemary,2264,4,3.3101112894407305,20.699835975943138,5.860068078802096,"Rosemary, fresh",1,False
+black bean,2259,233,21.600004703198763,62.359994591321424,1.419998589040371,"Beans, black, mature seeds, raw",4,True
+avocado,2213,7,2.000035273990723,8.529956436621458,14.660032216911528,"Avocados, raw, all commercial varieties",1,False
+feta cheese,2113,531,14.210244742705633,4.090069615740263,21.280357678265936,"Cheese, feta",1,False
+red wine vinegar,2026,9,0.0400359794705374,0.27002239898410907,0.0,"Vinegar, red wine",81,True
+coconut,2002,137,3.3300000000000005,15.229999999999999,33.49,"Nuts, coconut meat, raw",1,False
+mint,1971,18,3.290005114728655,8.41002486816346,0.7301716079648671,"Spearmint, fresh",7,True
+walnut,1970,93,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+mustard,1923,9,2.860015167816011,4.670002018456136,0.4199956495411442,"Mustard greens, raw",11,True
+fish sauce,1895,9,5.060053969205805,3.6399231027002243,0.009876717402423324,"Sauce, fish, ready-to-serve",1,False
+cheese,1881,256,21.400377431700736,2.3400373512368433,28.740506887246692,"Cheese, blue",1,False
+sesame seed,1874,17,17.810278840896665,26.190409001922433,48.00084657577735,"Seeds, sesame butter, tahini, from raw and stone ground kern",1,False
+cumin seed,1854,6,17.809908463994073,44.23995573114165,22.26994065151061,"Spices, cumin seed",1,False
+vinegar,1838,6,0.0,0.9299987654103247,0.0,"Beverages, tea, green, ready-to-drink, diet",30,True
+corn,1830,134,3.27,18.7,1.3500017636995363,"Corn, sweet, yellow, raw",4,True
+pork,1827,1157,13.910254149103157,0.0,35.07061412017848,"Pork, fresh, carcass, separable lean and fat, raw",1,False
+margarine,1791,57,0.9000158732958252,0.9000158732958252,80.50000881849768,"Margarine, regular, hard, soybean (hydrogenated)",2,False
+pea,1713,218,2.8000052910986084,7.550000881849769,0.20000352739907232,"Peas, edible-podded, raw",7,True
+balsamic vinegar,1691,11,0.48999982363004635,17.02997407361682,0.0,"Vinegar, balsamic",10,True
+chicken breast half,1681,60,22.487213178362936,0.0,2.61852060882908,"Chicken, broiler or fryers, breast, skinless, boneless, meat",12,True
+gingerroot,1589,3,1.8201379213037268,17.769978306495705,0.7499250427697138,"Ginger root, raw",9,True
+white vinegar,1578,15,0.0,0.039991886982133726,0.0,"Vinegar, distilled",74,True
+chive,1568,10,3.2698989400165788,4.349988535953016,0.7301716079648671,"Chives, raw",5,True
+orange,1536,8,0.939998368577929,11.750009920809891,0.11999885359530152,"Oranges, raw, all commercial varieties",27,True
+plain yogurt,1536,93,2.63999365068167,9.689985714033758,1.7599957671211135,SILK Plain soy yogurt,2,False
+white onion,1534,35,1.1,9.340023633573786,0.10000176369953616,"Onions, raw",16,True
+dill,1533,11,15.979999647260094,55.16999124029232,14.539997765980589,"Spices, dill seed",1,False
+apple,1478,28,0.2600023809943738,13.810002527969337,0.16999999999999998,"Apples, raw, with skin (Includes foods for USDA's Food Distr",30,True
+peanut oil,1426,6,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+jalapeno,1424,27,0.91,6.50000440924884,0.3700241626836452,"Peppers, jalapeno, raw",33,True
+corn tortilla,1410,5,7.829988183213107,58.11998447944408,1.4000026455493042,"Tortilla, blue corn, Sakwavikaviki (Hopi)",1,False
+ham,1399,304,17.43028977583379,0.0,18.87032840085363,"Pork, fresh, leg (ham), whole, separable lean and fat, raw",9,True
+green bean,1398,409,1.83001463870615,6.97000828938782,0.2199994708901392,"Beans, snap, green, raw",24,True
+ricotta cheese,1395,407,11.25999870662034,3.0400007054798146,12.980005526258545,(no exact match),0,False
+cabbage,1389,65,1.280004938358701,5.8000141095962885,0.10000176369953616,"Cabbage, raw",23,True
+yeast,1365,168,23.88,20.419999999999998,0.9000000000000001,Yeast extract spread,1,False
+eggplant,1365,54,0.9799996472600927,5.880008906682658,0.18000023515993815,"Eggplant, raw",31,True
+whipping cream,1290,26,2.17,2.9600084657577734,30.909980775675056,"Cream, fluid, light whipping",1,False
+peanut,1282,61,25.80045503448033,16.13026684773982,49.240903719642326,"Peanuts, all types, raw",1,False
+pecan,1262,26,8.49997354450696,77.39995414381207,8.699977071906032,"Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch",1,False
+banana,1243,13,1.09,22.84004127056915,0.3300014109596289,"Bananas, raw",5,True
+leek,1235,24,1.5000030313585777,14.149990299652552,0.3000052910986084,"Leeks, (bulb and lower leaf-portion), raw",12,True
+pine nut,1230,45,13.690188539480413,13.080301239880775,68.37122347836822,"Nuts, pine nuts, dried",1,False
+cilantro leaf,1185,10,2.129843559851144,3.6699059948147235,0.519938623256142,"Coriander (cilantro) leaves, raw",22,True
+chocolate,1177,699,2.0600010582197217,9.47000828938782,1.4400165787756398,"SILK Chocolate, soymilk",6,True
+caper,1175,20,2.3599593173306994,4.890033333921234,0.8599798938252878,"Capers, canned",3,False
+chicken thigh,1175,341,9.567496781248346,0.7889689412511685,44.172273761442,"Chicken, skin (drumsticks and thighs), raw",1,False
+buttermilk,1154,5,5.8799978835605575,41.17999057680534,13.23999697058668,"Pillsbury Golden Layer Buttermilk Biscuits, Artificial Flavo",1,False
+strawberry,1145,102,0.6700000587899846,7.680007583908006,0.3000052910986084,"Strawberries, raw",31,True
+swiss cheese,1129,206,26.960484311892625,1.4400165787756398,30.99055244948471,"Cheese, swiss",3,False
+bread,1101,43,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+lettuce,1101,14,1.3549974426356726,2.5499567893613646,0.18511790331399142,"New Zealand spinach, raw",23,True
+cold water,1064,10,0.0,0.0,0.0,"Beverages, water, bottled, non-carbonated, EVIAN",74,True
+cocoa powder,1051,16,19.599996472600928,57.89998148115487,13.70000743273376,"Cocoa, dry powder, unsweetened",1,False
+chickpea,1051,88,20.46999807849577,62.949987360153315,6.039990627196752,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",1,False
+cooking oil,1038,11,0.259969311628071,20.689959258540718,78.69,"Oil, PAM cooking spray, original",1,False
+white rice,1008,11,7.130019929804759,79.95015344185964,0.6599984126704175,"Rice, white, long-grain, regular, raw, enriched",2,False
+half,1007,31,21.45774175911392,0.0,5.107100654332529,"Beef, brisket, flat half, boneless separable lean only, trim",21,True
+cider vinegar,1001,4,0.0,0.9300034067248936,0.0,"Beverages, tea, green, ready-to-drink, diet",30,True
+mango,995,20,0.8200100530873561,14.980002028254468,0.38000523230862393,"Mangos, raw",10,True
+vegetable broth,993,26,2.419997329254988,10.699997779628264,1.5599949955025663,"Soup, vegetable with beef broth, canned, condensed",2,False
+pineapple,985,60,0.54,13.119984479444083,0.12000715558097524,"Pineapple, raw, all varieties",22,True
+italian sausage,977,522,14.250030864741884,0.650011464046985,31.33007195894108,(no exact match),0,False
+yogurt,970,30,3.470002462880424,4.6600028219192575,3.2500033069366303,"Yogurt, plain, whole milk",10,True
+shortening,956,10,0.0,0.0,100.0,"Oil, whale, bowhead (Alaska Native)",103,True
+lamb,949,454,16.88030212173054,0.0,21.590371964232173,"Lamb, composite of trimmed retail cuts, separable lean and f",3,False
+maple syrup,941,9,0.0400359794705374,67.03998306848445,0.05996578422899875,"Syrups, maple",4,True
+bean,940,146,4.200003527399072,4.100000506594547,0.5000088184976808,"Beans, kidney, mature seeds, sprouted, raw",1,False
+tomato juice,938,74,0.8500023935922277,3.53,0.2900008575228779,"Tomato juice, canned, without salt added",62,True
+sage,930,4,3.1301069683768676,71.87996366778955,22.14997486728161,"Sage Valley, Gluten Free Vanilla Sandwich Cookies",1,False
+beef stock,927,23,2.509997971745533,7.409997432837343,3.2099992945201854,"Soup, mushroom with beef stock, canned, condensed",1,False
+spaghetti,922,370,0.6400024691793506,6.909998412670418,0.5700056438385157,"Squash, winter, spaghetti, raw",10,True
+coriander leaf,915,9,2.13,3.6699999999999995,0.5199890146714606,"Coriander (cilantro) leaves, raw",22,True
+wheat flour,909,20,13.20999194577212,71.96998771289321,2.5,"Wheat flour, whole-grain (Includes foods for USDA's Food Dis",2,False
+steak,903,610,21.627710953162023,0.0,3.3880668089384294,"Pork, Leg Cap Steak, boneless, separable lean and fat, raw",24,True
+hot water,900,11,0.0,0.0,0.0,"Beverages, water, bottled, non-carbonated, EVIAN",74,True
+icing sugar,896,34,4.099984126704175,68.82996172772008,23.499973544506958,"Cookie, butter or sugar, with chocolate icing or filling",1,False
+turkey,892,554,21.627718301910086,0.12991851708143,5.636805763770084,"Turkey, whole, meat and skin, raw",18,True
+cream mushroom soup,884,59,1.6100033756388799,6.449990299652551,6.449990299652551,(no exact match),0,False
+tomato puree,862,41,1.6499997060500773,8.980002166830857,0.2099978247705721,"Tomato products, canned, puree, without salt added",7,True
+peanut butter,842,22,24.05999856944371,21.570001234589675,49.939986973819146,"Peanut butter, chunk style, without salt",3,False
+olive,835,63,11.8,9.199985890403712,16.499997060500775,"Olive loaf, pork",1,False
+sauce,832,8,10.329988183213109,5.479990828762412,14.919990505417498,"Cheese sauce, prepared from recipe",1,False
+beer,826,138,13.827404363392654,3.7136457433111696,22.252244307659748,"Beerwurst, beer salami, pork and beef",1,False
+pasta,804,245,1.5400036449790415,10.0,2.310005467468562,(no exact match),0,False
+brown rice,789,8,7.539983870166061,76.25007215134467,3.19998909713014,"Rice, brown, long-grain, raw (Includes foods for USDA's Food",1,False
+red chilies,779,3,1.86996243319988,8.810031922961604,0.440043034268682,"Peppers, hot chili, red, raw",12,True
+fennel seed,773,3,15.799925924619481,52.290000000000006,14.87,"Spices, fennel seed",1,False
+coriander seed,769,13,12.370000000000001,54.99000000000001,17.77,"Spices, coriander seed",1,False
+broccoli,768,78,2.820001234589675,6.640011287677032,0.37000211643944336,"Broccoli, raw",12,True
+vegetable stock,765,6,0.23999770719060304,0.9299987654103247,0.06999841267041747,"Soup, vegetable broth, ready to serve",30,True
+lemongrass,758,4,1.297730118696979,8.185682287165559,1.0582197216882132,"SMART SOUP, Vietnamese Carrot Lemongrass",4,True
+chocolate chip,756,108,5.970122929857669,67.4911961998154,17.910309999588474,"Cookies, chocolate chip, commercially prepared, regular, low",1,False
+ice,754,14,4.100006172948377,22.199992259318705,13.000001469749614,"Ice creams, french vanilla, soft-serve",2,False
+taco seasoning,751,23,4.499902996525512,57.99996472600928,0.0,"Seasoning mix, dry, taco, original",1,False
+tofu,750,221,17.269998882990294,2.7800019988594746,8.719995061641301,"Tofu, raw, firm, prepared with calcium sulfate",1,False
+french bread,742,33,10.750211643944338,51.88092676531627,2.4200382722799345,"Bread, french or vienna (includes sourdough)",2,False
+tortilla chip,708,49,11.000194006948977,80.00141095962891,5.700100530873561,"Snacks, tortilla chips, low fat, unsalted",2,False
+rum,706,97,0.0,0.0,0.0,"Beverages, water, bottled, non-carbonated, EVIAN",74,True
+cottage cheese,706,98,11.08097144570451,3.368137004179968,4.28490802306919,"Cheese, cottage, creamed, large or small curd",2,False
+chili sauce,702,17,2.499985302503865,19.79000217522943,0.30000529109860846,"Sauce, tomato chili sauce, bottled, with salt",8,True
+sharp cheddar cheese,701,148,24.249986772253482,2.1300199298047584,33.81999682534084,"Cheese, cheddar, sharp, sliced",1,False
+coffee,701,47,2.0600010582197217,10.29001099372711,1.4399901232825976,"SILK Coffee, soymilk",4,True
+hoisin sauce,693,5,3.309970193477839,44.08000141095963,3.389971604437468,"Sauce, hoisin, ready-to-serve",1,False
+kidney bean,692,75,4.200003527399072,4.099997354450696,0.5000088184976808,"Beans, kidney, mature seeds, sprouted, raw",1,False
+apricot,682,142,1.4000000000000001,11.12,0.38999999999999996,"Apricots, raw",8,True
+garbanzo bean,678,76,20.469997779056122,62.949987360153315,6.03999903423227,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",1,False
+cornmeal,673,5,8.11999427777484,76.88997062460439,3.589990809165751,"Cornmeal, whole-grain, yellow",6,True
+heavy whipping cream,673,16,2.839997178080742,2.7399980080569946,36.080001410959625,"Cream, fluid, heavy whipping",1,False
+red potato,668,244,1.8900024691793509,15.900030570791962,0.14000099942973718,"Potatoes, red, flesh and skin, raw",8,True
+pineapple juice,666,126,0.3599934715121932,12.870009465187513,0.1199315684579975,"Pineapple juice, canned or bottled, unsweetened, with added ",29,True
+oat,629,16,17.299974426356727,66.2199950616413,7.03,"Oat bran, raw",2,False
+spaghetti sauce,627,72,5.050089066826575,15.240266752771385,1.0100164566733643,"Spaghetti with meat sauce, frozen entree",3,False
+molasses,625,4,0.0,74.72999229851203,0.10000176369953616,Molasses,2,False
+corn kernel,624,27,3.6199932979417633,25.869991828192145,1.419998589040371,"Corn, yellow, whole kernel, frozen, microwaved",1,False
+kernel corn,622,27,3.6199932979417633,25.869991828192145,1.419998589040371,"Corn, yellow, whole kernel, frozen, microwaved",1,False

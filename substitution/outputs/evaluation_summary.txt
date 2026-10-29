@@ -1,0 +1,55 @@
+EVALUATION SUMMARY
+============================================================
+trusted candidate pool size           : 251 ingredients
+ingredient-level cases                : 47
+  cases with a ranked answer (>=1)     : 18
+  NO candidate improves the target     : 24   (original already near the best in its family: not a data problem)
+  improvers exist but guard blocks all : 5   (trade-off cases, worth reporting)
+  cases with only 1-2 answers          : 6
+hard-constraint violations in output  : 0   (must be 0)
+recipes reviewed                      : 10  (64 ranked rows)
+recipe lines with a gram mass         : 10 rows
+
+DATA LIMITS THAT PREVENT RECOMMENDATIONS
+mean of the top-50 context neighbours with NO trusted nutrition: 33.4 / 50
+(those candidates are reported as 'nutrition unknown', never ranked)
+candidates with flavour evidence      : 15 / 65 top-5 rows
+embeddings used                       : yes
+
+Cases with few/no candidates:
+    ingredient    objective  pool  improving  passed
+          beef more_protein    16          7       2
+          beef   less_carbs    16          0       0
+chicken breast more_protein    16          0       0
+chicken breast   less_carbs    16          0       0
+          pork more_protein    16          2       0
+          pork   less_carbs    16          0       0
+          lamb   less_carbs    16          0       0
+        turkey more_protein    16          0       0
+        turkey   less_carbs    16          0       0
+        shrimp more_protein    16          2       0
+        shrimp   less_carbs    16          0       0
+         bacon   less_carbs    16          0       0
+           egg more_protein     2          1       0
+           egg   less_carbs     2          0       0
+        butter more_protein     9          0       0
+        butter   less_carbs     9          0       0
+          milk more_protein     4          0       0
+          milk   less_carbs     4          0       0
+   heavy cream more_protein     4          0       0
+   heavy cream   less_carbs     4          0       0
+cheddar cheese more_protein     8          2       1
+cheddar cheese   less_carbs     8          0       0
+         sugar more_protein     5          0       0
+         flour more_protein     5          1       1
+         flour   less_carbs     5          2       2
+          rice more_protein     3          1       1
+          rice   less_carbs     3          3       2
+         pasta more_protein     3          0       0
+         pasta   less_carbs     3          1       0
+        potato more_protein     3          3       0
+        potato   less_carbs     3          0       0
+         bread more_protein     4          0       0
+         bread   less_carbs     4          0       0
+    mayonnaise more_protein     9          0       0
+    mayonnaise   less_carbs     9          0       0
