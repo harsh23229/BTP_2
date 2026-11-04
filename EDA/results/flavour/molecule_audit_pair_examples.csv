@@ -1,0 +1,12 @@
+ingredient_a,ingredient_b,status,match_status_a,match_status_b,entity_id_a,entity_id_b,molecules_a,molecules_b,profile_size_ratio,shared_molecules,union_molecules,jaccard,overlap_coefficient,coverage_a,coverage_b,symmetric_coverage,weighted_shared_idf,weighted_jaccard_idf,weighted_coverage_a_idf,weighted_coverage_b_idf,low_evidence_flag
+beef,beef stock,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+chicken,chicken breast,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+tomato,tomato paste,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+olive oil,extra virgin olive oil,NOT_FOUND,NOT_FOUND,NOT_FOUND,,,,,,,,,,,,,,,,,
+black pepper,pepper,NOT_FOUND,NOT_FOUND,EXACT_ALIAS,,,,,,,,,,,,,,,,,
+onion,yellow onion,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+beef,bay leaf,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+beef,wine vinegar,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+chicken,dill seed,NOT_FOUND,EXACT_ALIAS,NOT_FOUND,,,,,,,,,,,,,,,,,
+lobster,tofu,OK,EXACT_ALIAS,EXACT_ALIAS,139.0,823.0,6.0,9.0,0.6666666666666666,4.0,11.0,0.36363636363636365,0.6666666666666666,0.6666666666666666,0.4444444444444444,0.5555555555555556,6.4777388383627486,0.250688014508337,0.47333633576838413,0.34766170951815495,False
+fish,broccoli,OK,EXACT_ALIAS,EXACT_ALIAS,151.0,351.0,47.0,130.0,0.36153846153846153,10.0,167.0,0.059880239520958084,0.2127659574468085,0.2127659574468085,0.07692307692307693,0.14484451718494273,25.428612995530873,0.05358574740494348,0.1442112710375588,0.0785705939596821,False

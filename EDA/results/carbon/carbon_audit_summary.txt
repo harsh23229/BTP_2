@@ -26,61 +26,25 @@ Sustainable categories mapped from multiple source ingredients: 249
 
 NUMERIC VALIDATION
 Similarity outside [0, 1.00001]: 0
-Small floating-point similarity values above 1 and <= 1.00001: 75
+Small floating-point similarity values > 1 and <= 1.00001: 75
 Negative carbon-footprint values: 0
 Negative Count values: 0
 Non-finite Similarity values among non-missing values: 0
 Non-finite CarbonFootprint values among non-missing values: 0
 Non-finite Count values among non-missing values: 0
 
-CARBON FOOTPRINT DISTRIBUTION
-count    7753.000000
-mean        4.137135
-std         5.398522
-min         0.110000
-25%         0.730000
-50%         1.800000
-75%         4.030000
-90%        11.950000
-95%        18.850000
-max        27.720000
-
-MAPPING SIMILARITY DISTRIBUTION
-count    7753.000000
-mean        0.869558
-std         0.043403
-min         0.810000
-25%         0.835115
-50%         0.861450
-75%         0.895162
-90%         0.930119
-95%         0.951066
-max         1.000001
-
-COUNT DISTRIBUTION
-count     7752.000000
-mean       198.022962
-std       1934.928639
-min          2.000000
-25%          2.000000
-50%          2.000000
-75%         12.000000
-90%         80.000000
-95%        326.000000
-max      69096.000000
+CARBON FOOTPRINT / MAPPING SIMILARITY / COUNT STATISTICS
+                  count        mean          std   min       25%      50%        75%        90%         95%           max   skewness
+CarbonFootprint  7753.0    4.137135     5.398522  0.11  0.730000  1.80000   4.030000  11.950000   18.850000     27.720000   1.881971
+Similarity       7753.0    0.869558     0.043403  0.81  0.835115  0.86145   0.895162   0.930119    0.951066      1.000001   0.889080
+Count            7752.0  198.022962  1934.928639  2.00  2.000000  2.00000  12.000000  80.000000  326.000000  69096.000000  20.713095
 
 REVIEW FLAGS
 Rows flagged for review: 3,052
 Similarity review threshold: 0.85
 Low similarity is a review signal, not proof that a mapping is incorrect.
 
-OUTPUTS
-carbon_audit_summary.txt
-carbon_audit_full.csv
-carbon_audit_review_flags.csv
-carbon_audit_category_summary.csv
-
 IMPORTANT LIMITATION
 The file's column names alone do not establish the carbon-footprint unit or reference basis.
-Confirm these from the dataset documentation before comparing or calculating carbon savings.
-This audit does not calculate a final substitution score.
+Confirm these from dataset documentation before making absolute environmental claims.
+This audit does not validate substitutions.

@@ -1,0 +1,6 @@
+,dtype,missing_values,missing_percent,unique_non_missing
+Ingredient,string,0,0.0,7753
+SueatableIngredient,string,0,0.0,266
+Similarity,float64,0,0.0,7577
+CarbonFootprint,float64,0,0.0,195
+Count,float64,1,0.01,480

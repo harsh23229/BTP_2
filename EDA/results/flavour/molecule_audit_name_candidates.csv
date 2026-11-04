@@ -1,0 +1,23 @@
+pair,side,requested_name,candidate_rank,candidate_entity_id,candidate_alias,candidate_score,candidate_category,candidate_category_readable,candidate_natural_source_name,candidate_molecule_count,mapping_decision
+beef <-> beef stock,b,beef stock,1,270,beef,0.646429,meat,Meat,,92,REVIEW_ONLY
+chicken <-> chicken breast,b,chicken breast,1,272,chicken,0.675,meat,Meat,,131,REVIEW_ONLY
+tomato <-> tomato paste,b,tomato paste,1,364,tomato,0.675,vegetable-fruit,Vegetable Fruit,,271,REVIEW_ONLY
+olive oil <-> extra virgin olive oil,a,olive oil,1,307,olive,0.689286,plant,Plant,,155,REVIEW_ONLY
+olive oil <-> extra virgin olive oil,a,olive oil,2,121,neroli oil,0.371053,essentialoil,Essential Oil,,15,REVIEW_ONLY
+olive oil <-> extra virgin olive oil,a,olive oil,3,57,maize oil,0.35,cerealcrop-maize,Maize,,46,REVIEW_ONLY
+olive oil <-> extra virgin olive oil,b,extra virgin olive oil,1,307,olive,0.473611,plant,Plant,,155,REVIEW_ONLY
+black pepper <-> pepper,a,black pepper,1,339,pepper,0.675,spice,Spice,,223,REVIEW_ONLY
+black pepper <-> pepper,a,black pepper,2,511,black bear,0.368182,meat,Meat,,1,REVIEW_ONLY
+black pepper <-> pepper,a,black pepper,3,442,black raspberry,0.35,fruit-berry,Berry,,95,REVIEW_ONLY
+black pepper <-> pepper,a,black pepper,4,48,black tea,0.35,beverage-caffeinated,Beverage Caffeinated,,85,REVIEW_ONLY
+onion <-> yellow onion,b,yellow onion,1,348,onion,0.651471,vegetable,Vegetable,,180,REVIEW_ONLY
+onion <-> yellow onion,b,yellow onion,2,184,yellow mombin,0.366,fruit,Fruit,,102,REVIEW_ONLY
+onion <-> yellow onion,b,yellow onion,3,472,welsh onion,0.358696,vegetable,Vegetable,,94,REVIEW_ONLY
+onion <-> yellow onion,b,yellow onion,4,969,yellow zucchini,0.35,vegetable,Vegetable,,103,REVIEW_ONLY
+beef <-> bay leaf,b,bay leaf,1,305,bay,0.638636,plant,Plant,,209,REVIEW_ONLY
+beef <-> bay leaf,b,bay leaf,2,385,curry leaf,0.35,herb,Herb,,31,REVIEW_ONLY
+beef <-> wine vinegar,b,wine vinegar,1,322,vinegar,0.696053,plantderivative,Plant Derivative,,49,REVIEW_ONLY
+beef <-> wine vinegar,b,wine vinegar,2,32,wine,0.625,beverage-alcoholic,Beverage Alcoholic,,155,REVIEW_ONLY
+beef <-> wine vinegar,b,wine vinegar,3,36,wine cider,0.368182,beverage-alcoholic,Beverage Alcoholic,,87,REVIEW_ONLY
+chicken <-> dill seed,b,dill seed,1,256,dill,0.659615,herb,Herb,,200,REVIEW_ONLY
+chicken <-> dill seed,b,dill seed,2,392,nigella seed,0.378571,seed,Seed,,30,REVIEW_ONLY

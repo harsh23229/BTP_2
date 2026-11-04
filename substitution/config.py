@@ -8,10 +8,12 @@ BASE_DIR = HERE.parent                            # BTP_2
 GRAPH_DIR = BASE_DIR / "GastroGraph-custom" / "data"
 
 # recipe table (same file the nutrient audit used)
-RECIPE_FILE = BASE_DIR / "dataset" / "raw" / "RecipeDB_full" / "compressed_data.csv.gz"
+RECIPE_FILE = BASE_DIR / "dataset" / "raw" / "RecipeDB_full" / "recipe_ingredients.csv"
 
 # output of the nutrient audit notebook (Step 5)
 NUTRIENTS_FILE = BASE_DIR / "EDA" / "results" / "nutrient_audit" / "ingredient_nutrients_final.csv"
+# RecipeDB per-100g audit is diagnostic only; it must NOT override USDA source tiers.
+NUTRIENT_AUDIT_FILE = BASE_DIR / "EDA" / "results" / "nutrient_audit" / "ingredient_per100g_with_tiers.csv"
 
 # GastroSAGE embeddings (set both to None to run without embeddings).
 # node2idx.pkl maps node id -> row of the .npy; it is used to align rows, so no ordering is assumed.
@@ -50,6 +52,11 @@ FAMILY_OVERRIDE = {
 }
 # USDA descriptions that start with these are a different family than their food group
 FAMILY_BY_DESC_PREFIX = {"Cheese": "cheese"}
+
+# Precomputed FlavorDB molecular similarity outputs from EDA/eda_03_flavour.ipynb.
+FLAVOUR_RESULTS_DIR = BASE_DIR / "EDA" / "results" / "flavour"
+FLAVOUR_SIMILARITY_FILE = FLAVOUR_RESULTS_DIR / "molecular_similarity.csv"
+FLAVOUR_ENTITY_STATS_FILE = FLAVOUR_RESULTS_DIR / "molecule_audit_entity_stats.csv"
 
 OUT = HERE / "outputs"
 OUT.mkdir(parents=True, exist_ok=True)

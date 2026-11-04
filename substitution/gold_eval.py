@@ -49,7 +49,7 @@ for _, g in gold.iterrows():
         continue
     for gate in (False, True):
         df, _ = R.candidates(q, top_k=10**6, same_family=gate, dedupe=False)
-        df = df.assign(ctx=_pct(df.ctx_sim), fl=_pct(df.flavor_sim), emb=_pct(df.emb_sim))
+        df = df.assign(ctx=_pct(df.ctx_sim), fl=_pct(df.flavour_sim), emb=_pct(df.emb_sim))
         in_pool = bool(set(df.usda_description) & acc_usda)
         for jname, parts in JUDGES.items():
             d = df.assign(score=np.nanmean(df[parts].to_numpy(dtype=float), axis=1)).dropna(subset=["score"])

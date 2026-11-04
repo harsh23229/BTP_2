@@ -1,11 +1,4 @@
-"""STEP 5 - run the pipeline on 10 recipes x 20 ingredients and write the ranked result sheets.
-
-Run:  python evaluate.py
-Writes (outputs/):
-  review_ingredient_level.csv  - top-5 per ingredient per objective, no recipe context. Candidates that fail a hard rule are never written.
-  review_recipe_level.csv      - same, inside 10 real recipes (adds compatibility + gram change). 
-  evaluation_summary.txt       - constraint check and data-limitation report
-"""
+"""Evaluate all configured nutritional objectives and export ranked result CSVs."""
 import numpy as np
 import pandas as pd
 import config as C
@@ -13,95 +6,163 @@ import ranking as RK
 from retrieval import Retriever
 from recipes import load_recipes
 
-TARGETS = ["beef", "chicken breast", "pork", "lamb", "turkey", "shrimp", "bacon", "egg", "butter", "milk",
-           "heavy cream", "cream cheese", "cheddar cheese", "sugar", "flour", "rice", "pasta", "potato",
-           "bread", "mayonnaise"]
-N_RECIPES, TOP = 10, 5
+TARGETS = [
+    "beef", "chicken breast", "pork", "lamb", "turkey", "shrimp", "bacon", "egg",
+    "butter", "milk", "heavy cream", "cream cheese", "cheddar cheese", "sugar",
+    "flour", "rice", "pasta", "potato", "bread", "mayonnaise"
+]
+N_RECIPES, TOP, CANDIDATE_POOL = 10, 5, 40
 
 R = Retriever()
 M = R.master
 rec = load_recipes(M.name)
+available_targets = [name for name in TARGETS if name in R.name_idx]
+missing_targets = [name for name in TARGETS if name not in R.name_idx]
 
-keep_cols = ["rank", "candidate", "score", "pareto", "explain", "d_protein", "d_carbs", "sim_score", "ctx_sim",
-             "flavor_sim", "compat", "n_judges"]
-rows_ing, rows_rec, notes = [], [], []
+ingredient_rows, recipe_rows, notes = [], [], []
 violations = 0
+objective_counts = {name: {"cases": 0, "ranked_cases": 0, "ranked_rows": 0} for name in RK.PRESETS}
 
-# ------------------------------------------------------------------ ingredient level
-for name in TARGETS:
-    q = R.name_idx[name]; orig = M.iloc[q]
-    cands, rep = R.candidates(name, top_k=40)
-    for oname, obj in RK.PRESETS.items():
-        if obj.applies_to_family and orig.family not in obj.applies_to_family:
+for name in available_targets:
+    orig = M.iloc[R.name_idx[name]]
+    if orig.tier != "trusted":
+        continue
+    candidates, report = R.candidates(name, top_k=CANDIDATE_POOL)
+    for objective_name, objective in RK.PRESETS.items():
+        if objective.applies_to_family and orig.family not in objective.applies_to_family:
             continue
-        ok, rej = RK.rank(orig, cands, obj, has_recipe=False)
-        for _, r in ok.head(TOP).iterrows():
-            rows_ing.append({"ingredient": name, "objective": oname, "orig_protein": orig.protein_100g,
-                             "orig_carbs": orig.carbs_100g, "candidate": r["name"], "rank": r["rank"], "pareto": r.pareto,
-                             "swap_g_per_100g": round(r.swap_g_per_100g, 0),
-                             "d_protein": round(r.d_protein, 1), "d_carbs": round(r.d_carbs, 1),
-                             "d_fat": round(r.d_fat, 1), "d_kcal": round(r.d_kcal, 0),
-                             "ctx_sim": round(r.ctx_sim, 2), "flavor_sim": r.flavor_sim, "explain": r.explain})
-        # hard-filter audit: nothing that passed may violate a guard
-        for _, r in ok.iterrows():
-            violations += int(RK.violates(r, obj))
-        n_improving = len(ok) + int((~rej.reject_reason.str.contains("gain")).sum())
-        notes.append({"ingredient": name, "objective": oname, "pool": len(cands), "passed": len(ok), "rejected": len(rej),
-                      "improving": n_improving,
-                      "top50_ctx_lost_to_unknown_nutrition": rep["top50_without_trusted_nutrition"]})
+        ok, rejected = RK.rank(orig, candidates, objective, has_recipe=False)
+        objective_counts[objective_name]["cases"] += 1
+        objective_counts[objective_name]["ranked_cases"] += int(not ok.empty)
+        objective_counts[objective_name]["ranked_rows"] += min(TOP, len(ok))
 
-pd.DataFrame(rows_ing).to_csv(C.OUT / "review_ingredient_level.csv", index=False)
-nt = pd.DataFrame(notes)
+        for _, row in ok.head(TOP).iterrows():
+            ingredient_rows.append({
+                "ingredient": name, "objective": objective_name,
+                "original_source": orig.source, "original_usda_description": orig.usda_description,
+                "original_protein_100g": orig.protein_100g,
+                "original_carbs_100g": orig.carbs_100g,
+                "original_fat_100g": orig.fat_100g,
+                "original_kcal_100g": orig.kcal_100g,
+                "candidate": row["name"], "candidate_usda_description": row.usda_description,
+                "rank": row["rank"], "score": row.score, "pareto": row.pareto,
+                "swap_g_per_100g": row.swap_g_per_100g,
+                "d_protein_g_per100g": row.d_protein,
+                "d_carbs_g_per100g": row.d_carbs,
+                "d_fat_g_per100g": row.d_fat,
+                "d_kcal_per100g": row.d_kcal,
+                "ctx_sim": row.ctx_sim, "flavour_sim": row.flavour_sim,
+                "flavour_identical_profile": row.get("flavour_identical_profile", False),
+                "flavour_low_evidence": row.get("flavour_low_evidence", False),
+                "compat": row.get("compat", np.nan), "explain": row.explain
+            })
+        for _, row in ok.iterrows():
+            violations += int(RK.violates(row, objective))
+        notes.append({
+            "ingredient": name, "objective": objective_name, "candidate_pool": len(candidates),
+            "passed": len(ok), "rejected": len(rejected),
+            "top50_context_neighbours_without_trusted_nutrition": report["top50_without_trusted_nutrition"],
+            "most_common_rejection": (
+                rejected.reject_reason.str.split(";").explode().str.strip()
+                .replace("", np.nan).dropna().value_counts().index[0]
+                if not rejected.empty and rejected.reject_reason.str.split(";").explode().str.strip().replace("", np.nan).dropna().size
+                else ""
+            )
+        })
 
-# ------------------------------------------------------------------ recipe level
-good = rec.groupby("recipe_id").agg(n=("ingredient_name", "nunique"),
-                                    hits=("ingredient_name", lambda s: len(set(s) & set(TARGETS))))
-cand_ids = good[(good.n >= 6) & (good.hits >= 2)].index
+ingredient_df = pd.DataFrame(ingredient_rows)
+ingredient_df.to_csv(C.OUT / "review_ingredient_level.csv", index=False)
+notes_df = pd.DataFrame(notes)
+
+# Recipe-level sample is selected deterministically from recipes with >=6 graph ingredients
+# and at least two target ingredients that have trusted nutrition.
+if not rec.empty:
+    good = rec.groupby("recipe_id").agg(
+        n=("ingredient_name", "nunique"),
+        hits=("ingredient_name", lambda s: len(set(s) & set(available_targets)))
+    )
+    candidate_ids = good[(good.n >= 6) & (good.hits >= 2)].index.to_numpy()
+else:
+    candidate_ids = np.array([])
+
 rng = np.random.default_rng(7)
-chosen = rng.choice(cand_ids, size=min(N_RECIPES, len(cand_ids)), replace=False)
+chosen = rng.choice(candidate_ids, size=min(N_RECIPES, len(candidate_ids)), replace=False) if len(candidate_ids) else []
 
-for rid in chosen:
-    rr = rec[rec.recipe_id == rid]
-    title = rr.recipe_title.iloc[0]
-    names = rr.ingredient_name.unique().tolist()
-    for name in [n for n in names if n in TARGETS]:
-        q = R.name_idx[name]; orig = M.iloc[q]
-        mass = rr[rr.ingredient_name == name].mass_g.iloc[0]
-        cands, _ = R.candidates(name, top_k=40, recipe_names=names)
-        cands = cands[~cands.in_recipe]                        # do not swap in something already in the recipe
-        for oname, obj in RK.PRESETS.items():
-            if obj.applies_to_family and orig.family not in obj.applies_to_family:
+for recipe_id in chosen:
+    recipe = rec[rec.recipe_id.eq(recipe_id)]
+    title = recipe.recipe_title.iloc[0]
+    names = recipe.ingredient_name.unique().tolist()
+    for name in [n for n in names if n in available_targets and n in R.name_idx]:
+        orig = M.iloc[R.name_idx[name]]
+        if orig.tier != "trusted":
+            continue
+        mass_values = recipe.loc[recipe.ingredient_name.eq(name), "mass_g"]
+        mass_g = mass_values.iloc[0] if not mass_values.empty else np.nan
+        candidates, _ = R.candidates(name, top_k=CANDIDATE_POOL, recipe_names=names)
+        candidates = candidates[~candidates.in_recipe]
+        for objective_name, objective in RK.PRESETS.items():
+            if objective.applies_to_family and orig.family not in objective.applies_to_family:
                 continue
-            ok, _ = RK.rank(orig, cands, obj, mass_g=mass, has_recipe=True)
-            for _, r in ok.head(TOP).iterrows():
-                rows_rec.append({"recipe_id": rid, "recipe_title": title, "ingredient": name, "objective": oname,
-                                 "line_mass_g": mass, "rank": r["rank"], "candidate": r["name"], "pareto": r.pareto,
-                                 "swap_g_per_100g": round(r.swap_g_per_100g, 0), "recipe_candidate_g": round(r.get("recipe_candidate_mass_g", np.nan), 0),
-                                 "d_protein_per100g": round(r.d_protein, 1), "d_carbs_per100g": round(r.d_carbs, 1),
-                                 "d_fat_per100g": round(r.d_fat, 1), "d_kcal_per100g": round(r.d_kcal, 0),
-                                 "recipe_d_protein_g": round(r.get("recipe_d_protein_g", np.nan), 1), "recipe_d_carbs_g": round(r.get("recipe_d_carbs_g", np.nan), 1),
-                                 "compat": round(r.compat, 2), "explain": r.explain})
-pd.DataFrame(rows_rec).to_csv(C.OUT / "review_recipe_level.csv", index=False)
+            ok, rejected = RK.rank(orig, candidates, objective, mass_g=mass_g, has_recipe=True)
+            for _, row in ok.head(TOP).iterrows():
+                recipe_rows.append({
+                    "recipe_id": recipe_id, "recipe_title": title,
+                    "ingredient": name, "objective": objective_name,
+                    "original_mass_g": mass_g, "rank": row["rank"],
+                    "candidate": row["name"], "pareto": row.pareto, "score": row.score,
+                    "candidate_mass_g": row.get("recipe_candidate_mass_g", np.nan),
+                    "swap_g_per_100g": row.swap_g_per_100g,
+                    "d_protein_g_per100g": row.d_protein,
+                    "d_carbs_g_per100g": row.d_carbs,
+                    "d_fat_g_per100g": row.d_fat,
+                    "d_kcal_per100g": row.d_kcal,
+                    "recipe_d_protein_g": row.get("recipe_d_protein", np.nan),
+                    "recipe_d_carbs_g": row.get("recipe_d_carbs", np.nan),
+                    "recipe_d_fat_g": row.get("recipe_d_fat", np.nan),
+                    "recipe_d_kcal": row.get("recipe_d_kcal", np.nan),
+                    "compat": row.get("compat", np.nan), "explain": row.explain
+                })
 
-# ------------------------------------------------------------------ summary
+recipe_df = pd.DataFrame(recipe_rows)
+recipe_df.to_csv(C.OUT / "review_recipe_level.csv", index=False)
+
 lines = [
-    "EVALUATION SUMMARY", "=" * 60,
-    f"trusted candidate pool size           : {len(R.trusted)} ingredients",
-    f"ingredient-level cases                : {len(nt)}",
-    f"  cases with a ranked answer (>=1)     : {(nt.passed >= 1).sum()}",
-    f"  NO candidate improves the target     : {((nt.improving == 0)).sum()}   (original already near the best in its family: not a data problem)",
-    f"  improvers exist but guard blocks all : {((nt.improving > 0) & (nt.passed == 0)).sum()}   (trade-off cases, worth reporting)",
-    f"  cases with only 1-2 answers          : {((nt.passed >= 1) & (nt.passed < 3)).sum()}",
-    f"hard-constraint violations in output  : {violations}   (must be 0)",
-    f"recipes reviewed                      : {len(chosen)}  ({len(rows_rec)} ranked rows)",
-    f"recipe lines with a gram mass         : {int(pd.DataFrame(rows_rec).recipe_d_protein_g.notna().sum()) if rows_rec else 0} rows",
+    "SUBSTITUTION EVALUATION SUMMARY", "=" * 72,
+    f"Trusted ingredients in master: {int(M.tier.eq('trusted').sum())}",
+    f"Target ingredients available: {len(available_targets)} / {len(TARGETS)}",
+    f"Target ingredients absent from graph: {', '.join(missing_targets) if missing_targets else 'none'}",
+    f"Ingredient-level objective cases: {len(notes_df)}",
+    f"Ingredient-level ranked rows: {len(ingredient_df)}",
+    f"Recipe-level recipes sampled: {len(chosen)}",
+    f"Recipe-level ranked rows: {len(recipe_df)}",
+    f"Hard-constraint violations in all returned ranked candidates: {violations} (must be 0)",
     "",
-    "DATA LIMITS THAT PREVENT RECOMMENDATIONS",
-    f"mean of the top-50 context neighbours with NO trusted nutrition: {nt.top50_ctx_lost_to_unknown_nutrition.mean():.1f} / 50",
-    "(those candidates are reported as 'nutrition unknown', never ranked)",
-    f"candidates with flavour evidence      : {int(pd.DataFrame(rows_ing).flavor_sim.notna().sum())} / {len(rows_ing)} top-5 rows",
-    f"embeddings used                       : {'yes' if R.E is not None else 'no (EMBEDDINGS_FILE is None)'}",
-    "", "Cases with few/no candidates:", nt[nt.passed < 3][["ingredient", "objective", "pool", "improving", "passed"]].to_string(index=False),
+    "OBJECTIVE COVERAGE"
 ]
-(C.OUT / "evaluation_summary.txt").write_text("\n".join(lines))
-print("\n".join(lines))
+for name, counts in objective_counts.items():
+    lines.append(
+        f"{name}: {counts['ranked_cases']} / {counts['cases']} cases returned at least one candidate; "
+        f"{counts['ranked_rows']} top-ranked rows exported"
+    )
+lines += [
+    "",
+    "DATA LIMITS",
+    f"Mean top-50 context neighbours without trusted nutrition: "
+    f"{notes_df.top50_context_neighbours_without_trusted_nutrition.mean():.1f}"
+    if not notes_df.empty else "No ingredient-level cases were evaluated.",
+    "RecipeDB-derived conditional per-100g profiles are not used for ranking.",
+    "Only validated USDA-sourced trusted profiles are eligible for ranking.",
+    "",
+    "CASES WITH FEWER THAN THREE PASSING CANDIDATES"
+]
+if not notes_df.empty:
+    few = notes_df[notes_df.passed < 3][["ingredient", "objective", "candidate_pool", "passed", "rejected"]]
+    lines.append(few.to_string(index=False) if not few.empty else "None.")
+else:
+    lines.append("None.")
+
+summary = "\n".join(lines)
+(C.OUT / "evaluation_summary.txt").write_text(summary, encoding="utf-8")
+print(summary)
+if violations != 0:
+    raise AssertionError(f"Hard-constraint audit failed: {violations} violations")

@@ -1,0 +1,52 @@
+BASIC DATA INTEGRITY
+------------------------------------------------------------------------
+Entities: 936
+Entity-molecule links: 60,263
+Molecule rows: 1,788
+Duplicate entity_id rows: 0
+Duplicate entity-molecule links: 0
+Duplicate molecule-table IDs: 0
+Referenced molecule IDs: 1,788
+Molecule-table IDs: 1,788
+Referenced IDs missing in molecule table: 0
+Unused molecule-table IDs: 0
+
+FINAL MOLECULAR-SIMILARITY DECISION
+------------------------------------------------------------------------
+Primary molecular similarity = IDF-weighted Jaccard.
+Formula = sum(IDF of shared molecules) / sum(IDF of union molecules).
+Common molecules contribute less than rare molecules.
+Low-evidence profiles are retained but flagged; they should not be treated as equally reliable downstream.
+Identical molecular profiles are explicitly flagged.
+Name candidates are review-only and are never silently mapped.
+
+FINAL AUDIT COUNTS
+------------------------------------------------------------------------
+FlavorDB entities: 936
+Entities with molecule profiles: 936
+Small profiles (< 3): 129
+Unique linked molecules: 1,788
+Pairs with >= 1 shared molecule: 360,743
+Identical-profile groups: 25
+Name checks: 22
+Generated review candidates: 22
+Missing referenced molecule IDs: 0
+
+IMPORTANT INTERPRETATION
+------------------------------------------------------------------------
+A high molecular similarity means the two FlavorDB entities share a large weighted molecular profile.
+It does NOT by itself mean that one ingredient is a valid substitute for the other.
+The final substitution framework should combine this feature with graph/contextual compatibility, carbon footprint, nutrition preservation, and hard constraints.
+
+OUTPUTS
+------------------------------------------------------------------------
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_entity_stats.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_molecule_frequency.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_pair_examples.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_pairwise_overlap.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_identical_profiles.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_identical_profile_entities.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_identical_profile_molecules.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_name_matching.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_name_candidates.csv
+/Users/harshgupta/Coding/BTP_2/EDA/results/flavour/molecule_audit_summary.txt

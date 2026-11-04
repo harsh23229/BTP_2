@@ -1,0 +1,23 @@
+pair,side,requested_name,normalized_name,match_status,matched_entity_id,matched_entity_name,molecule_count,available_aliases
+beef <-> beef stock,a,beef,beef,EXACT_ALIAS,270,beef,92,beef
+beef <-> beef stock,b,beef stock,beef stock,NOT_FOUND,,,,
+chicken <-> chicken breast,a,chicken,chicken,EXACT_ALIAS,272,chicken,131,chicken
+chicken <-> chicken breast,b,chicken breast,chicken breast,NOT_FOUND,,,,
+tomato <-> tomato paste,a,tomato,tomato,EXACT_ALIAS,364,tomato,271,tomato
+tomato <-> tomato paste,b,tomato paste,tomato paste,NOT_FOUND,,,,
+olive oil <-> extra virgin olive oil,a,olive oil,olive oil,NOT_FOUND,,,,
+olive oil <-> extra virgin olive oil,b,extra virgin olive oil,extra virgin olive oil,NOT_FOUND,,,,
+black pepper <-> pepper,a,black pepper,black pepper,NOT_FOUND,,,,
+black pepper <-> pepper,b,pepper,pepper,EXACT_ALIAS,339,pepper,223,pepper
+onion <-> yellow onion,a,onion,onion,EXACT_ALIAS,348,bulb onion,180,bulb onion|onion
+onion <-> yellow onion,b,yellow onion,yellow onion,NOT_FOUND,,,,
+beef <-> bay leaf,a,beef,beef,EXACT_ALIAS,270,beef,92,beef
+beef <-> bay leaf,b,bay leaf,bay leaf,NOT_FOUND,,,,
+beef <-> wine vinegar,a,beef,beef,EXACT_ALIAS,270,beef,92,beef
+beef <-> wine vinegar,b,wine vinegar,wine vinegar,NOT_FOUND,,,,
+chicken <-> dill seed,a,chicken,chicken,EXACT_ALIAS,272,chicken,131,chicken
+chicken <-> dill seed,b,dill seed,dill seed,NOT_FOUND,,,,
+lobster <-> tofu,a,lobster,lobster,EXACT_ALIAS,139,clawed lobster,6,clawed lobster|lobster|lobster clawed lobster
+lobster <-> tofu,b,tofu,tofu,EXACT_ALIAS,823,tofu,9,tofu
+fish <-> broccoli,a,fish,fish,EXACT_ALIAS,151,fish,47,fish
+fish <-> broccoli,b,broccoli,broccoli,EXACT_ALIAS,351,broccoli,130,broccoli
