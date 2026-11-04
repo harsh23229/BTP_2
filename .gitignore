@@ -21,6 +21,5 @@ dataset/external/
 EDA/results/nutrient_audit/row_level_flags.csv.gz
 substitution/outputs/recipes_cache.pkl
 __pycache__/
-echo "EDA/results/nutrient_audit/nutrient_kcal_fat_macro_energy_consistency.csv" >> .gitignore
 
 /EDA/results/nutrient_audit/nutrient_kcal_fat_macro_energy_consistency.csv
