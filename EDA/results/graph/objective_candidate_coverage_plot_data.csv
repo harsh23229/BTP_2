@@ -1,0 +1,6 @@
+objective,cases_with_candidates,total_cases,cases_without_candidates,ranked_rows_exported,coverage_percent
+more_protein,7,20,13,19,35.0
+less_carbs,4,20,16,11,20.0
+less_calories,13,20,7,39,65.0
+less_fat,12,20,8,45,60.0
+plant_swap,7,7,0,35,100.0

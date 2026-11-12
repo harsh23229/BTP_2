@@ -85,6 +85,12 @@ Interactive use:
 python cook.py
 ```
 
+for running on mac
+python3 build_master.py
+python3 evaluate.py
+python3 gold_eval.py
+python3 cook.py
+
 Direct examples:
 
 ```bash
